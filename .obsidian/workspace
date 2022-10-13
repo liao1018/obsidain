@@ -6,9 +6,11 @@
       {
         "id": "6e896335eeb5e78e",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "graph",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -121,5 +123,10 @@
     "collapsed": true
   },
   "active": "6e896335eeb5e78e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "node.js.md",
+    "卡片盒/做卡片盒筆記的原因.md",
+    "學習英文.md",
+    "CLI.md"
+  ]
 }
