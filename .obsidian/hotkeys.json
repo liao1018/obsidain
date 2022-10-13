@@ -16,5 +16,14 @@
       ],
       "key": "."
     }
+  ],
+  "oz-clear-unused-images:clear-unused-attachments": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }

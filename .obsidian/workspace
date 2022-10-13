@@ -14,12 +14,12 @@
         }
       },
       {
-        "id": "a3325c930009635f",
+        "id": "506dfdcf3f4aea07",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mac Shortcut & TrackPad.md",
+            "file": "CS.md",
             "mode": "source",
             "source": false
           }
@@ -71,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -88,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mac Shortcut & TrackPad.md",
+                "file": "CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mac Shortcut & TrackPad.md",
+                "file": "CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mac Shortcut & TrackPad.md"
+                "file": "CS.md"
               }
             }
           }
@@ -139,8 +138,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3325c930009635f",
+  "active": "506dfdcf3f4aea07",
   "lastOpenFiles": [
+    "images/Pasted image 20221012234344.png",
+    "Mac Shortcut & TrackPad.md",
     "Obsidian git 設定.md",
     "Obsidian 操作須知.md",
     "卡片盒/我的卡片盒.md",
@@ -148,7 +149,6 @@
     "vue3 unit test.md",
     "node.js.md",
     "卡片盒/做卡片盒筆記的原因.md",
-    "學習英文.md",
-    "CLI.md"
+    "學習英文.md"
   ]
 }
