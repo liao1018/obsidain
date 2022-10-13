@@ -19,7 +19,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CS.md",
+            "file": "專案管理.md",
             "mode": "source",
             "source": false
           }
@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -87,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS.md",
+                "file": "專案管理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS.md",
+                "file": "專案管理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS.md"
+                "file": "專案管理.md"
               }
             }
           }
@@ -138,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "506dfdcf3f4aea07",
+  "active": "6e896335eeb5e78e",
   "lastOpenFiles": [
+    "專案管理 與他人協作.md",
+    "CS.md",
     "images/Pasted image 20221012234344.png",
     "Mac Shortcut & TrackPad.md",
     "Obsidian git 設定.md",
     "Obsidian 操作須知.md",
     "卡片盒/我的卡片盒.md",
-    "CS.md",
     "vue3 unit test.md",
     "node.js.md",
-    "卡片盒/做卡片盒筆記的原因.md",
-    "學習英文.md"
+    "卡片盒/做卡片盒筆記的原因.md"
   ]
 }
