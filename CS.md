@@ -1,5 +1,6 @@
 #origin #cs 
 
+測試
 
 [[電腦編碼系統]]
 [[cs basic ability]]
