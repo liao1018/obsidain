@@ -1,3 +1,3 @@
 # hotkeys
 cmd + shift + > → backup
-cmd + shift + < → pul
+cmd + shift + < → pull
