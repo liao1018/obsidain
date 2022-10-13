@@ -1,6 +1,6 @@
 #origin #cs 
 
-測試測試
+測試喔喔喔
 
 [[電腦編碼系統]]
 [[cs basic ability]]
