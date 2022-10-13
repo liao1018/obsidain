@@ -71,7 +71,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -138,7 +139,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3325c930009635f",
+  "active": "6e896335eeb5e78e",
   "lastOpenFiles": [
     "vue3 unit test.md",
     "CS.md",
