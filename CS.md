@@ -1,6 +1,5 @@
 #origin #cs 
 
-測試喔喔喔!! 直接上傳～～
 
 [[電腦編碼系統]]
 [[cs basic ability]]
