@@ -29,24 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Basketball/跳投.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "99c32c0f4afe485f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -113,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Git.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -167,17 +153,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "99c32c0f4afe485f",
+  "active": "6e896335eeb5e78e",
   "lastOpenFiles": [
-    "專案管理.md",
-    "專案管理 與他人協作.md",
-    "CS.md",
-    "images/Pasted image 20221012234344.png",
-    "Mac Shortcut & TrackPad.md",
-    "Obsidian git 設定.md",
-    "Obsidian 操作須知.md",
-    "卡片盒/我的卡片盒.md",
-    "vue3 unit test.md",
-    "node.js.md"
+    "Basketball/跳投.md",
+    "Basketball/進攻.md",
+    "Basketball/籃球觀念.md",
+    "投資/市場發展階段.md",
+    "投資/供需區間.md",
+    "投資/趨勢線123突破交易法.md",
+    "投資/趨勢線.md",
+    "投資/k線圖.md",
+    "投資/趨勢分析 步驟.md",
+    "投資/風險管理.md"
   ]
 }
