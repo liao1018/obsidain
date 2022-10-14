@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "deeb5e741b2372bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "36660f30a042de15",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e896335eeb5e78e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "e95d039f3835cfa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506dfdcf3f4aea07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99c32c0f4afe485f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd11b556b037654d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3918fee2e082e766",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0925b2c8c6379173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9568e0ec2a897ea3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dee9b7b2f9fd0c2e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 410.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "53f83b14a5dd4c1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5ae098c4da8dd6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968bced730b2b4e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Git.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a77cd096b0185c48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Git.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a9f161f8e38dee7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3d6de940f8aea31d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Git.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "99c32c0f4afe485f",
+  "lastOpenFiles": [
+    "專案管理.md",
+    "專案管理 與他人協作.md",
+    "CS.md",
+    "images/Pasted image 20221012234344.png",
+    "Mac Shortcut & TrackPad.md",
+    "Obsidian git 設定.md",
+    "Obsidian 操作須知.md",
+    "卡片盒/我的卡片盒.md",
+    "vue3 unit test.md",
+    "node.js.md"
+  ]
+}
