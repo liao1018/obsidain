@@ -10,3 +10,5 @@ git restore .
 git rm -rf --cached .
 git add .
 ```
+
+[[Git Ignore]]

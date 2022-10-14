@@ -20,18 +20,18 @@
         ]
       },
       {
-        "id": "e95d039f3835cfa5",
+        "id": "fd620c4219dfd744",
         "type": "tabs",
         "children": [
           {
-            "id": "506dfdcf3f4aea07",
+            "id": "93eb6087526c1260",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/mind.md",
+                "file": "卡片盒/Obsidian Hotkeys.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "卡片盒/Obsidian Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "卡片盒/Obsidian Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,10 +142,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "卡片盒/Obsidian Hotkeys.md"
+              }
+            }
+          },
+          {
+            "id": "30c15105bd5ba69b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,17 +166,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6e896335eeb5e78e",
+  "active": "30c15105bd5ba69b",
   "lastOpenFiles": [
-    "個人成長/mind.md",
-    "CS/CS.md",
-    "CS/handle request and send response with primive node.md",
-    "CS/vue3 unit test.md",
-    "inncom/DIAN-3180 後續修改資訊有 member 的 mobile 符合.md",
-    "inncom/DIAN-3180 開放刷卡.md",
-    "inncom/DIAN-3180 新增行事曆.md",
-    "inncom/DIAN-3180 操作流程.md",
-    "Basketball/跳投.md",
-    "Basketball/進攻.md"
+    "卡片盒/Obsidian 操作.md",
+    "卡片盒/Obsidian Hotkeys.md",
+    "個人成長/Mind.md",
+    "CS/jwt.md",
+    "個人成長/英文用法.md",
+    "個人成長/創造對話.md",
+    "個人成長/communicate.md",
+    "CS/aggregate.md",
+    "CS/Git Ignore.md",
+    "CS/Git.md"
   ]
 }

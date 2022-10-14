@@ -8,3 +8,5 @@
 ![[Pasted image 20221006214356.png]]
 
 [[Obsidian git 設定]]
+
+[[Obsidian Hotkeys]]
