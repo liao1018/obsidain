@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e896335eeb5e78e",
+            "id": "4d65267758dd74f0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,18 +20,18 @@
         ]
       },
       {
-        "id": "fd620c4219dfd744",
+        "id": "46f0afa43d313d53",
         "type": "tabs",
         "children": [
           {
-            "id": "93eb6087526c1260",
+            "id": "0cef305e6fe5d392",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "卡片盒/Obsidian Hotkeys.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -166,7 +166,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "93eb6087526c1260",
+  "active": "0cef305e6fe5d392",
   "lastOpenFiles": [
     "卡片盒/Obsidian Hotkeys.md",
     "images/Pasted image 20221015002222.png",
