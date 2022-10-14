@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basketball/跳投.md",
+                "file": "個人成長/mind.md",
                 "mode": "source",
                 "source": false
               }
@@ -155,15 +155,15 @@
   },
   "active": "6e896335eeb5e78e",
   "lastOpenFiles": [
+    "個人成長/mind.md",
+    "CS/CS.md",
+    "CS/handle request and send response with primive node.md",
+    "CS/vue3 unit test.md",
+    "inncom/DIAN-3180 後續修改資訊有 member 的 mobile 符合.md",
+    "inncom/DIAN-3180 開放刷卡.md",
+    "inncom/DIAN-3180 新增行事曆.md",
+    "inncom/DIAN-3180 操作流程.md",
     "Basketball/跳投.md",
-    "Basketball/進攻.md",
-    "Basketball/籃球觀念.md",
-    "投資/市場發展階段.md",
-    "投資/供需區間.md",
-    "投資/趨勢線123突破交易法.md",
-    "投資/趨勢線.md",
-    "投資/k線圖.md",
-    "投資/趨勢分析 步驟.md",
-    "投資/風險管理.md"
+    "Basketball/進攻.md"
   ]
 }
