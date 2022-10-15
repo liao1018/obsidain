@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/web.md",
-                "mode": "source",
+                "file": "CS/vue3 unit test.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/web.md",
+                "file": "CS/vue3 unit test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/web.md",
+                "file": "CS/vue3 unit test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/web.md"
+                "file": "CS/vue3 unit test.md"
               }
             }
           },
@@ -180,15 +180,15 @@
   },
   "active": "d9bc937f788083bf",
   "lastOpenFiles": [
-    "CS/HTTP Methods.md",
+    "CS/Unit Test.md",
+    "CS/前端相關.md",
     "CS/web.md",
+    "CS/HTTP Methods.md",
     "CS/http, https.md",
     "卡片盒/Obsidian Hotkeys.md",
     "Basketball/切入.md",
     "CS/Git.md",
     "images/Pasted image 20221015002222.png",
-    "卡片盒/Obsidian 操作.md",
-    "個人成長/Mind.md",
-    "CS/jwt.md"
+    "卡片盒/Obsidian 操作.md"
   ]
 }
