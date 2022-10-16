@@ -20,35 +20,22 @@
         ]
       },
       {
-        "id": "20ba8b82674044b9",
+        "id": "0608e8282f3c4038",
         "type": "tabs",
         "children": [
           {
-            "id": "e78d7a8fa88959dd",
+            "id": "e2fe833581fcfc37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/投資.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "318f656e8ebf0be9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "個人成長/英文用法.md",
+                "file": "投資/反轉趨勢.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -114,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "投資/反轉趨勢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "投資/反轉趨勢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "投資/反轉趨勢.md"
+              }
             }
           },
           {
@@ -172,17 +164,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d65267758dd74f0",
+  "active": "e2fe833581fcfc37",
   "lastOpenFiles": [
-    "個人成長/英文用法.md",
-    "個人成長/英文寫作.md",
-    "個人成長/學習英文.md",
-    "Basketball/切入.md",
-    "Basketball/運球.md",
-    "Basketball/後撤步.md",
-    "Basketball/背身單打.md",
-    "Basketball/進攻.md",
-    "投資/AK 指標使用方式.md",
-    "投資/投資.md"
+    "投資/技術分析.md",
+    "投資/趨勢分析.md",
+    "投資/Pasted image 20220706091647.png.md",
+    "投資/順勢交易原則.md",
+    "投資/道氏理論(市場整體趨勢).md",
+    "投資/投資.md",
+    "投資/K線棒型態.md",
+    "投資/反轉趨勢.md",
+    "投資/市場發展階段.md",
+    "投資/型態與結構.md"
   ]
 }
