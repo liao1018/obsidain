@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒/Obsidian Hotkeys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒/Obsidian Hotkeys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "卡片盒/Obsidian Hotkeys.md"
-              }
+              "state": {}
             }
           },
           {
@@ -179,15 +175,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2bc5b2c8f4dd5554",
+  "active": "4d65267758dd74f0",
   "lastOpenFiles": [
+    "卡片盒/Obsidian Hotkeys.md",
     "CS/vue3 unit test.md",
     "CS/Unit Test.md",
     "CS/前端相關.md",
     "CS/web.md",
     "CS/HTTP Methods.md",
     "CS/http, https.md",
-    "卡片盒/Obsidian Hotkeys.md",
     "Basketball/切入.md",
     "CS/Git.md",
     "images/Pasted image 20221015002222.png"
