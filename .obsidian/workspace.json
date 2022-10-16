@@ -20,30 +20,30 @@
         ]
       },
       {
-        "id": "2dcc060c1e1fb2fb",
+        "id": "20ba8b82674044b9",
         "type": "tabs",
         "children": [
           {
-            "id": "d9bc937f788083bf",
+            "id": "e78d7a8fa88959dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/vue3 unit test.md",
-                "mode": "preview",
+                "file": "投資/投資.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2bc5b2c8f4dd5554",
+            "id": "318f656e8ebf0be9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒/Obsidian Hotkeys.md",
+                "file": "個人成長/英文用法.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -94,13 +94,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -169,23 +167,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "4d65267758dd74f0",
   "lastOpenFiles": [
-    "卡片盒/Obsidian Hotkeys.md",
-    "CS/vue3 unit test.md",
-    "CS/Unit Test.md",
-    "CS/前端相關.md",
-    "CS/web.md",
-    "CS/HTTP Methods.md",
-    "CS/http, https.md",
+    "個人成長/英文用法.md",
+    "個人成長/英文寫作.md",
+    "個人成長/學習英文.md",
     "Basketball/切入.md",
-    "CS/Git.md",
-    "images/Pasted image 20221015002222.png"
+    "Basketball/運球.md",
+    "Basketball/後撤步.md",
+    "Basketball/背身單打.md",
+    "Basketball/進攻.md",
+    "投資/AK 指標使用方式.md",
+    "投資/投資.md"
   ]
 }
