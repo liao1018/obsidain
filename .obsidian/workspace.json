@@ -27,12 +27,8 @@
             "id": "e2fe833581fcfc37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/反轉趨勢.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -102,7 +97,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/反轉趨勢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/反轉趨勢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "投資/反轉趨勢.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +155,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e2fe833581fcfc37",
+  "active": "0925b2c8c6379173",
   "lastOpenFiles": [
+    "Untitled.md",
+    "投資/反轉趨勢.md",
     "投資/技術分析.md",
     "投資/趨勢分析.md",
     "投資/Pasted image 20220706091647.png.md",
@@ -173,8 +166,6 @@
     "投資/道氏理論(市場整體趨勢).md",
     "投資/投資.md",
     "投資/K線棒型態.md",
-    "投資/反轉趨勢.md",
-    "投資/市場發展階段.md",
-    "投資/型態與結構.md"
+    "投資/市場發展階段.md"
   ]
 }
