@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#inve",
+  "search": "#js",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 13.6410714285714,
   "linkStrength": 1,
   "linkDistance": 90,
-  "scale": 0.7426074579771574,
-  "close": true
+  "scale": 0.7501732744574243,
+  "close": false
 }

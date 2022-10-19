@@ -7,8 +7,8 @@
 - Jest: FB 開發的單元測試執行器(runner) 。
 
 ## 相關語法
-	[[Jest 語法整理]]
-	[[Vue Test Utils 語法整理]]
+[[Jest 語法整理]]
+[[Vue Test Utils 語法整理]]
 
 ## 學習時要注意
 > 要注意哪一個 API 是屬於哪一個工具，再去文件上尋找相關內容

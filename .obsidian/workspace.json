@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "36660f30a042de15",
+        "id": "9d6d9180e6581014",
         "type": "tabs",
         "children": [
           {
-            "id": "4d65267758dd74f0",
+            "id": "397d72df90f7fd93",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
               "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "25839b98750c6af1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80a7641833a37032",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/DOM 操作.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -84,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/DOM 操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/DOM 操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/DOM 操作.md"
+              }
             }
           },
           {
@@ -137,22 +159,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4d65267758dd74f0",
+  "active": "80a7641833a37032",
   "lastOpenFiles": [
-    "投資/假突破.md",
-    "投資/趨勢線123突破交易法.md",
-    "投資/K線棒型態.md",
+    "CS/Js.md",
+    "CS/DOM 操作.md",
+    "投資/技術分析.md",
+    "CS/web.md",
+    "投資/供需區間.md",
     "投資/趨勢線.md",
-    "卡片盒/Obsidian Hotkeys.md",
-    "CS/CS.md",
-    "CS/Mac Shortcut & TrackPad.md",
-    "Untitled.md",
     "投資/反轉趨勢.md",
-    "投資/技術分析.md"
+    "投資/關鍵價格.md",
+    "Basketball/籃球觀念.md",
+    "Basketball/進攻.md"
   ]
 }
