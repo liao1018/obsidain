@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#obsi",
+  "search": "#inve",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 90,
   "scale": 0.7426074579771574,
-  "close": false
+  "close": true
 }
