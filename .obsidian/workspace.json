@@ -18,24 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "25839b98750c6af1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "80a7641833a37032",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/DOM 操作.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5,
-    "collapsed": true
+    "width": 410.5
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -102,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/DOM 操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/DOM 操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/DOM 操作.md"
-              }
+              "state": {}
             }
           },
           {
@@ -165,17 +142,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "80a7641833a37032",
+  "active": "397d72df90f7fd93",
   "lastOpenFiles": [
-    "CS/Js.md",
+    "CS/Git.md",
+    "CS/Git Ignore.md",
     "CS/DOM 操作.md",
+    "CS/Js.md",
     "投資/技術分析.md",
     "CS/web.md",
     "投資/供需區間.md",
     "投資/趨勢線.md",
     "投資/反轉趨勢.md",
-    "投資/關鍵價格.md",
-    "Basketball/籃球觀念.md",
-    "Basketball/進攻.md"
+    "投資/關鍵價格.md"
   ]
 }
