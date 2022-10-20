@@ -18,6 +18,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "432cad69fe3b474a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b212150a593f7d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/趨勢線123突破交易法.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,6 +162,8 @@
   },
   "active": "397d72df90f7fd93",
   "lastOpenFiles": [
+    "投資/趨勢線123突破交易法.md",
+    "投資/趨勢線.md",
     "CS/Git.md",
     "CS/Git Ignore.md",
     "CS/DOM 操作.md",
@@ -151,8 +171,6 @@
     "投資/技術分析.md",
     "CS/web.md",
     "投資/供需區間.md",
-    "投資/趨勢線.md",
-    "投資/反轉趨勢.md",
-    "投資/關鍵價格.md"
+    "投資/反轉趨勢.md"
   ]
 }
