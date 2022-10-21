@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/趨勢線123突破交易法.md",
-                "mode": "source",
+                "file": "卡片盒/Obsidian Hotkeys.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -162,15 +162,15 @@
   },
   "active": "397d72df90f7fd93",
   "lastOpenFiles": [
+    "卡片盒/Obsidian Hotkeys.md",
+    "CS/Git.md",
     "投資/趨勢線123突破交易法.md",
     "投資/趨勢線.md",
-    "CS/Git.md",
     "CS/Git Ignore.md",
     "CS/DOM 操作.md",
     "CS/Js.md",
     "投資/技術分析.md",
     "CS/web.md",
-    "投資/供需區間.md",
-    "投資/反轉趨勢.md"
+    "投資/供需區間.md"
   ]
 }
