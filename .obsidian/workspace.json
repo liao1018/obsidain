@@ -20,17 +20,17 @@
         ]
       },
       {
-        "id": "432cad69fe3b474a",
+        "id": "1a574e7f4bda98d5",
         "type": "tabs",
         "children": [
           {
-            "id": "2b212150a593f7d8",
+            "id": "4f12276cd5d69b37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "卡片盒/Obsidian Hotkeys.md",
-                "mode": "preview",
+                "file": "CS/web.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 410.5
+    "width": 410.5,
+    "collapsed": true
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -101,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/web.md"
+              }
             }
           },
           {
@@ -160,8 +165,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "397d72df90f7fd93",
+  "active": "4f12276cd5d69b37",
   "lastOpenFiles": [
+    "CS/web.md",
+    "CS/postman.md",
     "卡片盒/Obsidian Hotkeys.md",
     "CS/Git.md",
     "投資/趨勢線123突破交易法.md",
@@ -169,8 +176,6 @@
     "CS/Git Ignore.md",
     "CS/DOM 操作.md",
     "CS/Js.md",
-    "投資/技術分析.md",
-    "CS/web.md",
-    "投資/供需區間.md"
+    "投資/技術分析.md"
   ]
 }

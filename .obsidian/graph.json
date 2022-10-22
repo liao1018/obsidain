@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#git",
+  "search": "#web",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 13.6410714285714,
   "linkStrength": 1,
   "linkDistance": 90,
-  "scale": 0.22836378264185744,
+  "scale": 1.1328898905970626,
   "close": false
 }
