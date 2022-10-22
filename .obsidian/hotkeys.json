@@ -5,7 +5,7 @@
         "Mod",
         "Shift"
       ],
-      "key": ","
+      "key": "W"
     }
   ],
   "obsidian-git:push": [
@@ -14,7 +14,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "."
+      "key": "S"
     }
   ],
   "oz-clear-unused-images:clear-unused-attachments": [

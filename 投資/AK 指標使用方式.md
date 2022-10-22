@@ -1,4 +1,4 @@
-#origin #investment
+#investment
 
 # 適用場合
 ## 時區

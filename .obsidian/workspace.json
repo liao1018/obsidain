@@ -18,6 +18,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "e9bc4017375ca5cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209613f341600cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/cloud.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/cloud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/cloud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/cloud.md"
+              }
             }
           },
           {
@@ -143,17 +165,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "397d72df90f7fd93",
+  "active": "209613f341600cb7",
   "lastOpenFiles": [
+    "CS/工程師的好習慣.md",
+    "CS/開發Tips.md",
+    "CS/s3.md",
+    "CS/cloud.md",
     "CS/web.md",
+    "個人成長/Mind.md",
+    "個人成長/個人成長.md",
+    "投資/AK 指標使用方式.md",
     "CS/postman.md",
-    "卡片盒/Obsidian Hotkeys.md",
-    "CS/Git.md",
-    "投資/趨勢線123突破交易法.md",
-    "投資/趨勢線.md",
-    "CS/Git Ignore.md",
-    "CS/DOM 操作.md",
-    "CS/Js.md",
-    "投資/技術分析.md"
+    "卡片盒/Obsidian Hotkeys.md"
   ]
 }
