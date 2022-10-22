@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/cloud.md",
-                "mode": "preview",
+                "file": "投資/投資.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5be855d8aae84a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/加密貨幣投資.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#investment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/cloud.md",
+                "file": "投資/加密貨幣投資.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/cloud.md",
+                "file": "投資/加密貨幣投資.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/cloud.md"
+                "file": "投資/加密貨幣投資.md"
               }
             }
           },
@@ -165,17 +179,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "209613f341600cb7",
+  "active": "5be855d8aae84a46",
   "lastOpenFiles": [
+    "投資/倉位管理.md",
+    "投資/順勢交易原則.md",
+    "投資/風險管理.md",
+    "投資/投資.md",
+    "投資/加密貨幣投資.md",
+    "投資/加密貨幣.md",
+    "CS/cloud.md",
     "CS/工程師的好習慣.md",
     "CS/開發Tips.md",
-    "CS/s3.md",
-    "CS/cloud.md",
-    "CS/web.md",
-    "個人成長/Mind.md",
-    "個人成長/個人成長.md",
-    "投資/AK 指標使用方式.md",
-    "CS/postman.md",
-    "卡片盒/Obsidian Hotkeys.md"
+    "CS/s3.md"
   ]
 }
