@@ -20,47 +20,35 @@
         ]
       },
       {
-        "id": "e9bc4017375ca5cc",
+        "id": "bb622c4de2a1aa83",
         "type": "tabs",
         "children": [
           {
-            "id": "b770d05e3c7cd74e",
+            "id": "3b8589fe6ffa7736",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web.md",
+                "file": "投資/技術分析.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ecc749661ae3d5af",
+            "id": "e4275e95976ff8c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c7c8f09f2580884d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "卡片盒/我的卡片盒.md",
-                "mode": "source",
+                "file": "Basketball/切入.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "卡片盒/我的卡片盒.md",
+                "file": "Basketball/切入.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "卡片盒/我的卡片盒.md",
+                "file": "Basketball/切入.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "卡片盒/我的卡片盒.md"
+                "file": "Basketball/切入.md"
               }
             }
           },
@@ -191,17 +179,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c7c8f09f2580884d",
+  "active": "e4275e95976ff8c1",
   "lastOpenFiles": [
-    "卡片盒/發展卡片盒.md",
-    "卡片盒/關於寫作的步驟.md",
-    "卡片盒/架構出卡片盒主題&問題.md",
-    "卡片盒/卡片盒配合工作流程.md",
-    "卡片盒/學習後轉化為自身知識.md",
-    "卡片盒/做卡片盒筆記的原因.md",
-    "卡片盒/卡片盒起點.md",
-    "CS/VPN.md",
-    "CS/Web.md",
-    "CS/Server.md"
+    "投資/斐波那契回撤.md",
+    "投資/技術分析.md",
+    "投資/假突破.md",
+    "投資/趨勢線123突破交易法.md",
+    "投資/反轉趨勢.md",
+    "投資/操作交易價格.md",
+    "投資/K線棒型態.md",
+    "投資/暫時交易心得.md",
+    "投資/型態與結構.md",
+    "投資/順勢交易原則.md"
   ]
 }
