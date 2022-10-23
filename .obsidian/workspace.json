@@ -29,26 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/技術分析.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e4275e95976ff8c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "個人成長/英文用法.md",
+                "file": "投資/斐波那契回撤.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/英文用法.md",
+                "file": "投資/斐波那契回撤.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/英文用法.md",
+                "file": "投資/斐波那契回撤.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/英文用法.md"
+                "file": "投資/斐波那契回撤.md"
               }
             }
           },
@@ -179,17 +166,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e4275e95976ff8c1",
+  "active": "3b8589fe6ffa7736",
   "lastOpenFiles": [
-    "個人成長/英文寫作.md",
-    "Basketball/切入.md",
+    "投資/止損&套保.md",
     "投資/斐波那契回撤.md",
     "投資/技術分析.md",
+    "投資/暫時交易心得.md",
+    "個人成長/英文用法.md",
+    "個人成長/英文寫作.md",
+    "Basketball/切入.md",
     "投資/假突破.md",
     "投資/趨勢線123突破交易法.md",
-    "投資/反轉趨勢.md",
-    "投資/操作交易價格.md",
-    "投資/K線棒型態.md",
-    "投資/暫時交易心得.md"
+    "投資/反轉趨勢.md"
   ]
 }
