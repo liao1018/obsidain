@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basketball/切入.md",
-                "mode": "preview",
+                "file": "個人成長/英文用法.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basketball/切入.md",
+                "file": "個人成長/英文用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basketball/切入.md",
+                "file": "個人成長/英文用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basketball/切入.md"
+                "file": "個人成長/英文用法.md"
               }
             }
           },
@@ -181,6 +181,8 @@
   },
   "active": "e4275e95976ff8c1",
   "lastOpenFiles": [
+    "個人成長/英文寫作.md",
+    "Basketball/切入.md",
     "投資/斐波那契回撤.md",
     "投資/技術分析.md",
     "投資/假突破.md",
@@ -188,8 +190,6 @@
     "投資/反轉趨勢.md",
     "投資/操作交易價格.md",
     "投資/K線棒型態.md",
-    "投資/暫時交易心得.md",
-    "投資/型態與結構.md",
-    "投資/順勢交易原則.md"
+    "投資/暫時交易心得.md"
   ]
 }
