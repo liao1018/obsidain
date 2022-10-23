@@ -8,7 +8,7 @@
 [[C]]
 [[前端相關]]
 [[Js]]
-[[web]]
+[[Web]]
 [[node.js]]
 [[Database]]
 [[crypto]]
