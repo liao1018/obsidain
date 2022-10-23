@@ -24,42 +24,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "209613f341600cb7",
+            "id": "b770d05e3c7cd74e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "CS/Web.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "72c1987a5370f9cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP/TCP IP 四層協定.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "feb0a5e4ca637a37",
+            "id": "ecc749661ae3d5af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP/IP(Internal protocol).md",
+                "file": "CS/Web.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c7c8f09f2580884d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "卡片盒/我的卡片盒.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -127,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web.md",
+                "file": "卡片盒/我的卡片盒.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web.md",
+                "file": "卡片盒/我的卡片盒.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Web.md"
+                "file": "卡片盒/我的卡片盒.md"
               }
             }
           },
@@ -190,17 +191,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "209613f341600cb7",
+  "active": "c7c8f09f2580884d",
   "lastOpenFiles": [
-    "TCP/IP(Internal protocol).md",
-    "TCP/TCP IP 四層協定.md",
+    "卡片盒/發展卡片盒.md",
+    "卡片盒/關於寫作的步驟.md",
+    "卡片盒/架構出卡片盒主題&問題.md",
+    "卡片盒/卡片盒配合工作流程.md",
+    "卡片盒/學習後轉化為自身知識.md",
+    "卡片盒/做卡片盒筆記的原因.md",
+    "卡片盒/卡片盒起點.md",
+    "CS/VPN.md",
     "CS/Web.md",
-    "TCP/TCP UDP.md",
-    "TCP/HTTP(Hypertext Transfer Protocol).md",
-    "投資/暫時交易心得.md",
-    "投資/技術分析.md",
-    "投資/操作交易價格.md",
-    "投資/供需區間.md",
-    "投資/投資.md"
+    "CS/Server.md"
   ]
 }
