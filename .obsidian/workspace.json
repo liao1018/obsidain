@@ -70,19 +70,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "3a531732b718c891",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,7 +200,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a531732b718c891",
+  "active": "3c8f5d8316ef7134",
   "lastOpenFiles": [
     "CS/css 內部格線.md",
     "CS/CSS.md",
