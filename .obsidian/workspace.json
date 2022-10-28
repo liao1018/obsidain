@@ -24,31 +24,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3b8589fe6ffa7736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/風險管理.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "882cd5693b06f637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/加密貨幣市場狀態判斷.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "496847e511ba869a",
+            "id": "3c8f5d8316ef7134",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,19 +36,19 @@
             }
           },
           {
-            "id": "3c8f5d8316ef7134",
+            "id": "926adfd287a12116",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basketball/切入.md",
+                "file": "CS/Css Grid.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basketball/切入.md",
+                "file": "CS/Css Grid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basketball/切入.md",
+                "file": "CS/Css Grid.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basketball/切入.md"
+                "file": "CS/Css Grid.md"
               }
             }
           },
@@ -200,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3c8f5d8316ef7134",
+  "active": "926adfd287a12116",
   "lastOpenFiles": [
-    "CS/css 內部格線.md",
     "CS/CSS.md",
+    "CS/Css Grid.md",
+    "投資/加密貨幣市場狀態判斷.md",
+    "投資/風險管理.md",
+    "Basketball/切入.md",
+    "CS/css 內部格線.md",
     "投資/順勢交易原則.md",
     "投資/反轉趨勢.md",
     "投資/型態與結構.md",
-    "投資/技術分析.md",
-    "投資/趨勢線其他走法.md",
-    "投資/趨勢線123突破交易法.md",
-    "投資/趨勢線.md",
-    "投資/加密貨幣牛市操作.md"
+    "投資/技術分析.md"
   ]
 }
