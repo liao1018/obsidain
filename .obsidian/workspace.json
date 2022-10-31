@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Css Grid.md",
-                "mode": "source",
+                "file": "CS/Do not use forEach with async-await.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#investment",
+                "query": "tag:#node",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Css Grid.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Css Grid.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Css Grid.md"
+                "file": "CS/Do not use forEach with async-await.md"
               }
             }
           },
@@ -178,15 +178,15 @@
   },
   "active": "926adfd287a12116",
   "lastOpenFiles": [
-    "CS/CSS.md",
+    "CS/node.js.md",
+    "CS/Git.md",
+    "CS/Git Ignore.md",
     "CS/Css Grid.md",
+    "CS/CSS.md",
     "投資/加密貨幣市場狀態判斷.md",
     "投資/風險管理.md",
     "Basketball/切入.md",
     "CS/css 內部格線.md",
-    "投資/順勢交易原則.md",
-    "投資/反轉趨勢.md",
-    "投資/型態與結構.md",
-    "投資/技術分析.md"
+    "投資/順勢交易原則.md"
   ]
 }
