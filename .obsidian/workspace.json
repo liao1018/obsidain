@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Do not use forEach with async-await.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,8 +172,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "926adfd287a12116",
+  "active": "397d72df90f7fd93",
   "lastOpenFiles": [
+    "CS/Do not use forEach with async-await.md",
     "CS/node.js.md",
     "CS/Git.md",
     "CS/Git Ignore.md",
@@ -186,7 +183,6 @@
     "投資/加密貨幣市場狀態判斷.md",
     "投資/風險管理.md",
     "Basketball/切入.md",
-    "CS/css 內部格線.md",
-    "投資/順勢交易原則.md"
+    "CS/css 內部格線.md"
   ]
 }
