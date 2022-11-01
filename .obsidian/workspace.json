@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/英文用法.md",
+                "file": "CS/clean code.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/clean code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/clean code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/clean code.md"
+              }
             }
           },
           {
@@ -172,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "397d72df90f7fd93",
+  "active": "926adfd287a12116",
   "lastOpenFiles": [
+    "CS/functional programming.md",
+    "CS/clean code.md",
+    "CS/Unit Test.md",
+    "投資/止損&套保.md",
+    "投資/網格交易.md",
     "個人成長/英文用法.md",
     "個人成長/個人成長.md",
     "CS/Do not use forEach with async-await.md",
     "CS/node.js.md",
-    "CS/Git.md",
-    "CS/Git Ignore.md",
-    "CS/Css Grid.md",
-    "CS/CSS.md",
-    "投資/加密貨幣市場狀態判斷.md",
-    "投資/風險管理.md"
+    "CS/Git.md"
   ]
 }

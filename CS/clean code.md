@@ -7,11 +7,14 @@
 
 # 原則
 > Clean code → Readable code
-### 減少互相耦合的機會
-### Better naming
+## 減少互相耦合的機會
+
+## Better naming
 - Variable name should tell their types.
-### Don’t Repeat Yourself!(DRY)
-### Single responsibility principle
+- 
+## Don’t Repeat Yourself!(DRY)
+
+## Single responsibility principle
 - One purpose functions compose one multiple purposes function.
 ```js
 	const logSignup(email) => Log.add(new Date(), "signed up", email)
@@ -32,8 +35,10 @@
 	const notifcation = await Notification.create({ email });
 	await notifcation.save();
 	}
+	
 ```
-### Recursion can be more concise
+
+## Recursion can be more concise
 ```js
 //recursion
 const stepsToHundred = (number, steps) =>
@@ -56,7 +61,8 @@ const stepsToHundred = (number) => {
 
 }
 ```
-### Use guard clauses to avoid deep nesting
+
+## Use guard clauses to avoid deep nesting
 ```js
 const getUSTime = (time) => {
 
@@ -66,8 +72,10 @@ return time + "PM"
 
 }
 ```
-### Use destructure to spare your code
-### Optional changing & spread operator
+
+## Use destructure to spare your code
+
+## Optional changing & spread operator
 ```js
 // Spread operator
 const modifiedUser = { ...oldUser, secondPhone: 56459544, Country: "Poland" }
@@ -75,8 +83,12 @@ const modifiedUser = { ...oldUser, secondPhone: 56459544, Country: "Poland" }
 const userFirstArticleClaps = user?.articles[0]?.claps.map(() => /*...*/) 
 ```
 -> 思考如果沒有這些 syntax 該怎辦
-### Use high level funciton
-### Use do...while or while to solve problem
----
+
+## Use high level funciton
+
+## Use do...while or while to solve problem
+
+## 不對 undefined, null 做操作
+	可利用 optional chaining 去跳過 undefined, null。
 
 [[functional programming]]
