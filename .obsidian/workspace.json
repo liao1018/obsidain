@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
-                "mode": "preview",
+                "file": "個人成長/英文用法.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -174,6 +174,8 @@
   },
   "active": "397d72df90f7fd93",
   "lastOpenFiles": [
+    "個人成長/英文用法.md",
+    "個人成長/個人成長.md",
     "CS/Do not use forEach with async-await.md",
     "CS/node.js.md",
     "CS/Git.md",
@@ -181,8 +183,6 @@
     "CS/Css Grid.md",
     "CS/CSS.md",
     "投資/加密貨幣市場狀態判斷.md",
-    "投資/風險管理.md",
-    "Basketball/切入.md",
-    "CS/css 內部格線.md"
+    "投資/風險管理.md"
   ]
 }
