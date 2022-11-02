@@ -1,6 +1,6 @@
 #cs #js
 
-# Immediately Invoked Function Expression(IIFE)
+# Introduction
 ```js
 (function () {
   // …
@@ -14,6 +14,7 @@
   // …
 })();
 ```
+	放在括號底下是因為可以讓 function 從 statement 變為 expresstion。
 
 # 優點
 ## 避免外部作用域污染
