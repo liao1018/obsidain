@@ -3,8 +3,6 @@
 [ref, reactive 中文文章](https://medium.com/i-am-mike/vue-3-ref-%E8%B7%9F-reactive-%E6%88%91%E8%A9%B2%E6%80%8E%E9%BA%BC%E9%81%B8-2fb6b6735a3c)
 [# Ref() vs Reactive() in Vue 3 — what’s the right choice?](https://medium.com/@bsalwiczek/ref-vs-reactive-in-vue-3-whats-the-right-choice-7c6f7265ce39)
 
----
-
 ### introduction
 ref, reactive 在被變數受到更改時，會同步template 上有該變數的地方。
 
