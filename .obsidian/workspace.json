@@ -16,44 +16,14 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "bb622c4de2a1aa83",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c8f5d8316ef7134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP/TCP IP 四層協定.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           },
           {
-            "id": "fecc2f2a75c45cfd",
+            "id": "5d38422f380e2db9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2261099626adf9ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
+                "file": "技術指標.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,6 +31,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ff7fc6301eeccc95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f6c25c98276f8be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "費雪指標.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md",
+                "file": "費雪指標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md",
+                "file": "費雪指標.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md"
+                "file": "費雪指標.md"
               }
             }
           },
@@ -184,19 +172,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "fecc2f2a75c45cfd",
+  "active": "5f6c25c98276f8be",
   "lastOpenFiles": [
-    "TCP/FTP.md",
+    "技術指標.md",
+    "費雪指標.md",
+    "投資/K線棒型態.md",
+    "TCP/HTTP(Hypertext Transfer Protocol).md",
     "TCP/TCP IP 四層協定.md",
+    "TCP/FTP.md",
     "CS/Mac Shortcut & TrackPad.md",
     "CS/ref, reactive.md",
-    "TCP/HTTP(Hypertext Transfer Protocol).md",
     "投資/趨勢線其他走法.md",
-    "投資/趨勢線123突破交易法.md",
-    "投資/斐波那契回撤.md",
-    "投資/反轉趨勢.md",
-    "投資/型態與結構.md"
+    "投資/趨勢線123突破交易法.md"
   ]
 }
