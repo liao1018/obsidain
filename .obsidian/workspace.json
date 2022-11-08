@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "5d38422f380e2db9",
+            "id": "ab8aa62887dbb22f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技術指標.md",
+                "file": "CS/提高薪資相關內容.md",
                 "mode": "source",
                 "source": true
               }
@@ -42,8 +42,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "費雪指標.md",
-                "mode": "preview",
+                "file": "CS/工程師的好習慣.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "費雪指標.md",
+                "file": "CS/工程師的好習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "費雪指標.md",
+                "file": "CS/工程師的好習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "費雪指標.md"
+                "file": "CS/工程師的好習慣.md"
               }
             }
           },
@@ -177,15 +177,15 @@
   },
   "active": "5f6c25c98276f8be",
   "lastOpenFiles": [
+    "CS/提高薪資相關內容.md",
+    "CS/工程師的好習慣.md",
+    "CS/工程師腦.md",
     "技術指標.md",
     "費雪指標.md",
     "投資/K線棒型態.md",
     "TCP/HTTP(Hypertext Transfer Protocol).md",
     "TCP/TCP IP 四層協定.md",
     "TCP/FTP.md",
-    "CS/Mac Shortcut & TrackPad.md",
-    "CS/ref, reactive.md",
-    "投資/趨勢線其他走法.md",
-    "投資/趨勢線123突破交易法.md"
+    "CS/Mac Shortcut & TrackPad.md"
   ]
 }
