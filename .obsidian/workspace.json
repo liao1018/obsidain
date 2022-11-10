@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/communicate.md",
+                "file": "投資/技術分析.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a930aa048bfac125",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/成交量.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "投資/成交量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "投資/成交量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "投資/成交量.md"
+              }
             }
           },
           {
@@ -158,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "397d72df90f7fd93",
+  "active": "a930aa048bfac125",
   "lastOpenFiles": [
+    "投資/技術分析.md",
+    "投資/成交量.md",
+    "投資/成交量分佈圖(Volume Profile).md",
+    "投資/道氏理論(市場整體趨勢).md",
+    "投資/反轉趨勢.md",
     "個人成長/communicate.md",
     "Basketball/切入.md",
     "Basketball/投籃.md",
     "Basketball/進攻.md",
-    "Basketball/跳投.md",
-    "投資/K線棒型態.md",
-    "投資/反轉趨勢.md",
-    "投資/斐波那契回撤.md",
-    "投資/暫時交易心得.md",
-    "投資/技術分析.md"
+    "Basketball/跳投.md"
   ]
 }
