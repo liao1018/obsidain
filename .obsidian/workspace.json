@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/市場發展階段.md",
+                "file": "投資/反轉趨勢.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "145454b734518c52",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Function call by value or reference in C.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#node",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/市場發展階段.md",
+                "file": "CS/Function call by value or reference in C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/市場發展階段.md",
+                "file": "CS/Function call by value or reference in C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/市場發展階段.md"
+                "file": "CS/Function call by value or reference in C.md"
               }
             }
           },
@@ -162,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "deeb50acbf55331a",
+  "active": "145454b734518c52",
   "lastOpenFiles": [
-    "投資/斐波那契回撤.md",
+    "CS/C Functions.md",
+    "CS/C data type.md",
+    "CS/C.md",
+    "CS/Function call by value or reference in C.md",
     "投資/趨勢線123突破交易法.md",
-    "投資/趨勢線.md",
-    "投資/2B 假突破反轉.md",
-    "投資/反轉趨勢.md",
-    "投資/技術分析.md",
-    "投資/2B 假突破.md",
-    "技術指標.md",
+    "投資/趨勢線其他走法.md",
     "投資/止損止盈&套保.md",
-    "投資/風險管理.md"
+    "投資/反轉趨勢.md",
+    "投資/0ABC 型態反轉.md",
+    "投資/供需區間.md"
   ]
 }
