@@ -41,8 +41,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/成交量.md",
-                "mode": "source",
+                "file": "投資/反轉趨勢.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/成交量.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/成交量.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "投資/成交量.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,17 +171,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a930aa048bfac125",
+  "active": "397d72df90f7fd93",
   "lastOpenFiles": [
-    "投資/技術分析.md",
+    "投資/反轉趨勢.md",
     "投資/成交量.md",
+    "投資/技術分析.md",
+    "投資/止損止盈&套保.md",
     "投資/成交量分佈圖(Volume Profile).md",
     "投資/道氏理論(市場整體趨勢).md",
-    "投資/反轉趨勢.md",
     "個人成長/communicate.md",
     "Basketball/切入.md",
     "Basketball/投籃.md",
-    "Basketball/進攻.md",
-    "Basketball/跳投.md"
+    "Basketball/進攻.md"
   ]
 }
