@@ -41,14 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/前端提高效能.md",
+                "file": "CS/Js.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a7e67a32ce44582b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/工程師 Road Map.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/前端提高效能.md",
+                "file": "CS/工程師 Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/前端提高效能.md",
+                "file": "CS/工程師 Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/前端提高效能.md"
+                "file": "CS/工程師 Road Map.md"
               }
             }
           },
@@ -175,17 +187,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7649692ad542f90",
+  "active": "a7e67a32ce44582b",
   "lastOpenFiles": [
+    "CS/工程師的好習慣.md",
+    "CS/工程師腦.md",
+    "CS/工程師 Road Map.md",
+    "CS/Typescript.md",
+    "CS/Js.md",
+    "CS/前端提高效能.md",
     "CS/前端相關.md",
     "CS/CSS.md",
-    "CS/前端提高效能.md",
     "CS/電腦編碼系統.md",
-    "CS/Css 動畫.md",
-    "投資/反轉趨勢.md",
-    "CS/Function call by value or reference in C.md",
-    "CS/C Functions.md",
-    "CS/C data type.md",
-    "CS/C.md"
+    "CS/Css 動畫.md"
   ]
 }
