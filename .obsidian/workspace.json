@@ -24,25 +24,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "deeb50acbf55331a",
+            "id": "270d9639a4f69ee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/反轉趨勢.md",
+                "file": "CS/前端相關.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "145454b734518c52",
+            "id": "b7649692ad542f90",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Function call by value or reference in C.md",
-                "mode": "preview",
+                "file": "CS/前端提高效能.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Function call by value or reference in C.md",
+                "file": "CS/前端提高效能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Function call by value or reference in C.md",
+                "file": "CS/前端提高效能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Function call by value or reference in C.md"
+                "file": "CS/前端提高效能.md"
               }
             }
           },
@@ -175,17 +175,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "145454b734518c52",
+  "active": "b7649692ad542f90",
   "lastOpenFiles": [
+    "CS/前端相關.md",
+    "CS/CSS.md",
+    "CS/前端提高效能.md",
+    "CS/電腦編碼系統.md",
+    "CS/Css 動畫.md",
+    "投資/反轉趨勢.md",
+    "CS/Function call by value or reference in C.md",
     "CS/C Functions.md",
     "CS/C data type.md",
-    "CS/C.md",
-    "CS/Function call by value or reference in C.md",
-    "投資/趨勢線123突破交易法.md",
-    "投資/趨勢線其他走法.md",
-    "投資/止損止盈&套保.md",
-    "投資/反轉趨勢.md",
-    "投資/0ABC 型態反轉.md",
-    "投資/供需區間.md"
+    "CS/C.md"
   ]
 }
