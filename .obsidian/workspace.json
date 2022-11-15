@@ -53,8 +53,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/工程師 Road Map.md",
-                "mode": "source",
+                "file": "CS/try...catch...finally.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/工程師 Road Map.md",
+                "file": "CS/try...catch...finally.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/工程師 Road Map.md",
+                "file": "CS/try...catch...finally.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/工程師 Road Map.md"
+                "file": "CS/try...catch...finally.md"
               }
             }
           },
@@ -189,15 +189,15 @@
   },
   "active": "a7e67a32ce44582b",
   "lastOpenFiles": [
+    "CS/Error in Js.md",
+    "CS/try...catch...finally.md",
+    "CS/工程師 Road Map.md",
     "CS/工程師的好習慣.md",
     "CS/工程師腦.md",
-    "CS/工程師 Road Map.md",
     "CS/Typescript.md",
     "CS/Js.md",
     "CS/前端提高效能.md",
     "CS/前端相關.md",
-    "CS/CSS.md",
-    "CS/電腦編碼系統.md",
-    "CS/Css 動畫.md"
+    "CS/CSS.md"
   ]
 }
