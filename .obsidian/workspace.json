@@ -16,32 +16,14 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "d6a7b43ddb426bf2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "724682263309a764",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/C.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           },
           {
-            "id": "7b1bdeb56cd88096",
+            "id": "67348d6d86f5a362",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/C Compile.md",
+                "file": "CS/aggregate.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/aggregate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/aggregate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/aggregate.md"
+              }
             }
           },
           {
@@ -164,24 +150,24 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "397d72df90f7fd93",
+  "active": "67348d6d86f5a362",
   "lastOpenFiles": [
-    "CS/C Compile.md",
+    "CS/Git.md",
     "CS/C.md",
-    "CS/Function call by value or reference in C.md",
-    "CS/C Functions.md",
+    "CS/C Array.md",
     "CS/C data type.md",
+    "CS/C Functions.md",
+    "CS/C Compile.md",
+    "CS/Function call by value or reference in C.md",
     "投資/斐波那契回撤.md",
     "CS/前端相關.md",
-    "CS/Js.md",
-    "CS/aggregate.md",
-    "CS/try...catch...finally.md"
+    "CS/Js.md"
   ]
 }

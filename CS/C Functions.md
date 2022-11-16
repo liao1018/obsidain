@@ -8,6 +8,14 @@ return_type function_name( parameter list ) {
    body of the function
 }
 ```
+
+## If no input, put void into params
+```c
+return_type function_name(void) {
+   body of the function
+}
+```
+
 ## Example 
 ```c
 /* function returning the max between two numbers */

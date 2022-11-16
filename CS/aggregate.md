@@ -38,3 +38,7 @@ filter 的概念
 只能加在一串 pipeline 的最後，用來輸出到另一個 collection。
 如果 collection 已經存在，會取代原本的 collection。
 → 可以在需要將 document 的一部份分割出來成為新 collection的時候使用。
+
+# 例子們
+## sort 依照特定規則
+	addFields 新增欄位賦予權重，利用權重去 sort，最後再用 project 把產生的欄位去除。
