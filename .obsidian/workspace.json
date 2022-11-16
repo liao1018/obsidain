@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/C Compile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/C Compile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/C Compile.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,10 +171,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7b1bdeb56cd88096",
+  "active": "397d72df90f7fd93",
   "lastOpenFiles": [
-    "CS/C.md",
     "CS/C Compile.md",
+    "CS/C.md",
     "CS/Function call by value or reference in C.md",
     "CS/C Functions.md",
     "CS/C data type.md",
