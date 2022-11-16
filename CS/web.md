@@ -17,8 +17,14 @@
 # [[TCP IP 四層協定]]
 
 # Others
-Web 實作 [[node.js]]
 [[Server]]
-雲端 [[cloud]]
+[[cloud]]
 [[VPN]]
+
+# 前後端分離
+	前端主要 follow 在畫面、與使用者互動上。
+	後端 follow 在資料處理上。
+
+[[node.js]]
+[[前端相關]]
 
