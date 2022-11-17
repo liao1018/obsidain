@@ -11,3 +11,19 @@
 [MDN localeCompare 參考文章](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare)
 
 	可以利用不同國家的語言去 Sort 不同的字串，也可以客製不同的規則，例如需要比對字串又要比對數字時。
+
+# Sorting 技巧
+	當遇到不同條件的 Items 權重排序的不同，可以利用新增來為去計算權重值。
+
+## 舉例 (housekeeping lambda app beds get)
+想要以下優先順序：
+1. 未打掃的放最上面
+2. 按照院區排列
+3. 院區內按照床號排列
+
+解法：
+1. 先 Sorting 床號，因為涉及文字及數字，會用到 localeCompare。
+2. 新增權重用欄位。
+3. 未打掃的權重 + 100
+4. 依照不同優先順序的院所，依序是 +30 +20 +10 權重。
+5. Sorting 權重欄位
