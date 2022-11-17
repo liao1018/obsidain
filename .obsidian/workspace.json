@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Web.md",
-                "mode": "source",
+                "file": "CS/ref, reactive.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Web.md"
-              }
+              "state": {}
             }
           },
           {
@@ -160,19 +156,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "67348d6d86f5a362",
+  "active": "397d72df90f7fd93",
   "lastOpenFiles": [
-    "CS/前端相關.md",
+    "CS/ref, reactive.md",
+    "卡片盒/Obsidian Hotkeys.md",
+    "卡片盒/Obsidian git 設定.md",
+    "卡片盒/Obsidian 操作.md",
     "CS/Web.md",
+    "CS/前端相關.md",
     "CS/CS.md",
     "CS/aggregate.md",
     "CS/Git.md",
-    "CS/C.md",
-    "CS/C Array.md",
-    "CS/C data type.md",
-    "CS/C Functions.md",
-    "CS/C Compile.md"
+    "CS/C.md"
   ]
 }
