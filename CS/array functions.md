@@ -12,3 +12,4 @@ analyses = analyses.filter((analysis) => (
 -> 利用邏輯精簡化。
 
 [[Do not use forEach with async-await]]
+[[Js Sort]]

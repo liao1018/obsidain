@@ -1,5 +1,8 @@
 #cs #web
 
+# 何時使用 Environment
+	URL 或其他變數會因為環境不同而需要切換時。不需切換的可以考慮放盡 Global。
+
 # pre-request script
 > 是可以在 request 執行之前執行的 js code。會有一些 postman 提光的 api 可以串接。
 
