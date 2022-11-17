@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/ref, reactive.md",
-                "mode": "preview",
+                "file": "CS/SSH.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/SSH.md"
+              }
             }
           },
           {
@@ -159,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "397d72df90f7fd93",
+  "active": "67348d6d86f5a362",
   "lastOpenFiles": [
+    "TCP/TCP IP 四層協定.md",
+    "CS/SSH.md",
+    "TCP/FTP.md",
+    "CS/Server.md",
+    "CS/Web.md",
     "CS/ref, reactive.md",
     "卡片盒/Obsidian Hotkeys.md",
     "卡片盒/Obsidian git 設定.md",
     "卡片盒/Obsidian 操作.md",
-    "CS/Web.md",
-    "CS/前端相關.md",
-    "CS/CS.md",
-    "CS/aggregate.md",
-    "CS/Git.md",
-    "CS/C.md"
+    "CS/前端相關.md"
   ]
 }

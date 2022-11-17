@@ -17,9 +17,6 @@
 
 # [[FTP]]
 
-# SSH
-todo
-
 # [[TCP UDP]]
 
 # [[IP(Internal protocol)]]
