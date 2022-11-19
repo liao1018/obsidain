@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#invest",
+  "search": "tag: #c",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 69,
   "scale": 1.066342076868088,
-  "close": true
+  "close": false
 }
