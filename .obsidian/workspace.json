@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "28ef2728b87fb666",
+            "id": "053309b389f42e18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/趨勢線123突破交易法.md",
-                "mode": "preview",
+                "file": "投資/加密貨幣.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d8bd7625eb354569",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/加密貨幣幣種.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/趨勢線123突破交易法.md",
+                "file": "投資/加密貨幣幣種.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/趨勢線123突破交易法.md",
+                "file": "投資/加密貨幣幣種.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/趨勢線123突破交易法.md"
+                "file": "投資/加密貨幣幣種.md"
               }
             }
           },
@@ -157,17 +169,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28ef2728b87fb666",
+  "active": "d8bd7625eb354569",
   "lastOpenFiles": [
+    "投資/加密貨幣.md",
+    "投資/趨勢線123突破交易法.md",
     "投資/趨勢線.md",
     "投資/供需區間.md",
     "投資/技術分析.md",
     "投資/反轉趨勢.md",
     "投資/型態與結構.md",
     "投資/趨勢線其他走法.md",
-    "投資/趨勢線123突破交易法.md",
     "CS/C int main.md",
-    "CS/C.md",
-    "CS/C Array.md"
+    "CS/C.md"
   ]
 }
