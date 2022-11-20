@@ -24,18 +24,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f54e7b81a1c5a453",
+            "id": "9a82d982e3b45253",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/C data type.md",
+                "file": "CS/C.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ac9c9dda2ba1e529",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/C int main.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/C data type.md",
+                "file": "CS/C int main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/C data type.md",
+                "file": "CS/C int main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/C data type.md"
+                "file": "CS/C int main.md"
               }
             }
           },
@@ -163,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f54e7b81a1c5a453",
+  "active": "ac9c9dda2ba1e529",
   "lastOpenFiles": [
+    "CS/C.md",
     "CS/C Array.md",
+    "CS/C int main.md",
+    "CS/C String.md",
+    "CS/C data type.md",
     "投資/Stop Hunting.md",
     "投資/止損止盈&套保.md",
     "CS/Js 型別相關 Method.md",
     "CS/Web.md",
-    "CS/Js.md",
-    "CS/string method.md",
-    "CS/前端.md",
-    "CS/前後端分工.md",
-    "CS/node.js.md"
+    "CS/Js.md"
   ]
 }

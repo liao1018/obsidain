@@ -16,7 +16,11 @@
 | long   | 8 bytes         |                                                                 |
 
 ## 補充：We use the store of RAM.
-
+## 補充：char 
+	values of type char must be wrapped in single quotes.
+```c
+char c = 'Y';
+```
 
 # 變換 data type 的計算
 ```c
@@ -31,10 +35,27 @@ int main(void){
 }
 ```
 
-# 補充
-	values of type char must be wrapped in single quotes.
+# 補充: const 
+	Constants must be all capital in convention.
 ```c
-char c = 'Y';
+const int TOTAL = 3;
 ```
+
+# Memory 僅是儲存 Bytes
+	我們可以轉換 Type 去看背後儲存了什麼。
+```c
+#include <stdio.h>
+
+int main(void){
+	char c = '#';
+
+	printf("%i", c);
+}
+```
+→ `35`
+
+## Why 35 ??
+	因為事實上 char 會透過 ASCII 儲存，而 # 在 ASCII 裡就是用 35 去儲存。
+![[Pasted image 20221120145959.png]]
 
 [[C Array]]

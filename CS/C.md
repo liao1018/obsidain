@@ -11,4 +11,5 @@ make hello
 [[C data type]]
 [[C Functions]]
 [[C Compile]]
+[[C int main]]
 
