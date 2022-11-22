@@ -46,6 +46,8 @@
 		- React
 		- 了解 Scss 框架
 		- 前端測試
+		- Typescript
+			- 可服用 totaltypescript [網址](https://www.totaltypescript.com/)
 	- 後端
 		- 不同的程式語言
 			- Node 是我熟悉的，可以稍微研究一下。
