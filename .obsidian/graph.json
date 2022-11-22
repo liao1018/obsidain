@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag: #investment",
+  "search": "tag:#git",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 69,
   "scale": 0.7205680406974952,
-  "close": true
+  "close": false
 }
