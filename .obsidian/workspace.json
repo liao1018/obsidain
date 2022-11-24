@@ -16,14 +16,32 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "febe90ef9e780ca4",
+        "type": "tabs",
+        "children": [
           {
-            "id": "a8352fb1e6893002",
+            "id": "9f417e76c3cb676e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/訂單流.md",
+                "file": "CS/Vue.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "f1178b74b3588b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue v-if 用法.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,24 +49,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "febe90ef9e780ca4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f070892109c7ffc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/Stop Hunting.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/Stop Hunting.md",
+                "file": "CS/Vue v-if 用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/Stop Hunting.md",
+                "file": "CS/Vue v-if 用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/Stop Hunting.md"
+                "file": "CS/Vue v-if 用法.md"
               }
             }
           },
@@ -176,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f070892109c7ffc9",
+  "active": "f1178b74b3588b7f",
   "lastOpenFiles": [
-    "投資/訂單流.md",
+    "CS/Vue.md",
+    "CS/Vue v-if 用法.md",
     "投資/Stop Hunting.md",
+    "投資/訂單流.md",
+    "投資/斐波那契回撤.md",
+    "投資/供需區間.md",
+    "投資/趨勢線.md",
     "CS/工程師 Road Map.md",
     "個人成長/Mind.md",
-    "個人成長/自我對話.md",
-    "個人成長/個人成長.md",
-    "投資/供需區間.md",
-    "CS/Git.md",
-    "Basketball/背身單打.md",
-    "投資/反轉趨勢.md"
+    "個人成長/自我對話.md"
   ]
 }
