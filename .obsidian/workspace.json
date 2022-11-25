@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue v-if 用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue v-if 用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Vue v-if 用法.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +172,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1178b74b3588b7f",
+  "active": "397d72df90f7fd93",
   "lastOpenFiles": [
-    "CS/Vue.md",
     "CS/Vue v-if 用法.md",
+    "CS/Vue.md",
     "投資/Stop Hunting.md",
     "投資/訂單流.md",
     "投資/斐波那契回撤.md",
