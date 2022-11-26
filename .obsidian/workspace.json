@@ -20,29 +20,17 @@
         ]
       },
       {
-        "id": "febe90ef9e780ca4",
+        "id": "4c17b5b6c4f3151c",
         "type": "tabs",
         "children": [
           {
-            "id": "9f417e76c3cb676e",
+            "id": "07c08ad817ffc930",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/前端提高效能.md",
                 "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f1178b74b3588b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue v-if 用法.md",
-                "mode": "source",
                 "source": true
               }
             }
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/前端提高效能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/前端提高效能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Git.md"
+                "file": "CS/前端提高效能.md"
               }
             }
           },
@@ -175,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9f417e76c3cb676e",
+  "active": "07c08ad817ffc930",
   "lastOpenFiles": [
-    "CS/aggregate.md",
-    "CS/Vue v-if 用法.md",
-    "CS/Vue.md",
-    "投資/Stop Hunting.md",
-    "投資/訂單流.md",
-    "投資/斐波那契回撤.md",
-    "投資/供需區間.md",
-    "投資/趨勢線.md",
+    "CS/前端.md",
+    "CS/mongoDB schema design.md",
+    "CS/MomgoDB.md",
     "CS/工程師 Road Map.md",
-    "個人成長/Mind.md"
+    "個人成長/個人成長.md",
+    "投資/Stop Hunting.md",
+    "投資/止損止盈&套保.md",
+    "投資/訂單流.md",
+    "投資/供需區間.md",
+    "CS/Vue v-if 用法.md"
   ]
 }
