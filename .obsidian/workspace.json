@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue.md",
-                "mode": "source",
+                "file": "CS/Git.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,6 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Git.md"
+              }
             }
           },
           {
@@ -172,8 +175,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "397d72df90f7fd93",
+  "active": "9f417e76c3cb676e",
   "lastOpenFiles": [
+    "CS/aggregate.md",
     "CS/Vue v-if 用法.md",
     "CS/Vue.md",
     "投資/Stop Hunting.md",
@@ -182,7 +186,6 @@
     "投資/供需區間.md",
     "投資/趨勢線.md",
     "CS/工程師 Road Map.md",
-    "個人成長/Mind.md",
-    "個人成長/自我對話.md"
+    "個人成長/Mind.md"
   ]
 }
