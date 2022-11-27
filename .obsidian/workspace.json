@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/2B 假突破反轉.md",
+                "file": "技術指標.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2ccd2ee7fc52ec6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MA, EMA.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/2B 假突破反轉.md",
+                "file": "MA, EMA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/2B 假突破反轉.md",
+                "file": "MA, EMA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/2B 假突破反轉.md"
+                "file": "MA, EMA.md"
               }
             }
           },
@@ -163,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "07c08ad817ffc930",
+  "active": "2ccd2ee7fc52ec6c",
   "lastOpenFiles": [
+    "技術指標.md",
+    "投資/反轉趨勢.md",
+    "投資/供需區間.md",
+    "投資/2B 假突破反轉.md",
     "投資/加密貨幣投資.md",
     "投資/趨勢線123突破交易法.md",
     "CS/工程師 Road Map.md",
     "CS/前端提高效能.md",
     "CS/前端.md",
-    "CS/mongoDB schema design.md",
-    "CS/MomgoDB.md",
-    "個人成長/個人成長.md",
-    "投資/Stop Hunting.md",
-    "投資/止損止盈&套保.md"
+    "CS/mongoDB schema design.md"
   ]
 }
