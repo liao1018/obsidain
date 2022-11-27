@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/工程師 Road Map.md",
+                "file": "投資/加密貨幣投資.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/工程師 Road Map.md",
+                "file": "投資/加密貨幣投資.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/工程師 Road Map.md",
+                "file": "投資/加密貨幣投資.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/工程師 Road Map.md"
+                "file": "投資/加密貨幣投資.md"
               }
             }
           },
@@ -165,15 +165,15 @@
   },
   "active": "07c08ad817ffc930",
   "lastOpenFiles": [
+    "投資/趨勢線123突破交易法.md",
+    "CS/工程師 Road Map.md",
     "CS/前端提高效能.md",
     "CS/前端.md",
     "CS/mongoDB schema design.md",
     "CS/MomgoDB.md",
-    "CS/工程師 Road Map.md",
     "個人成長/個人成長.md",
     "投資/Stop Hunting.md",
     "投資/止損止盈&套保.md",
-    "投資/訂單流.md",
-    "投資/供需區間.md"
+    "投資/訂單流.md"
   ]
 }
