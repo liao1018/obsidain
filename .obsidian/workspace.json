@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/前端提高效能.md",
-                "mode": "preview",
+                "file": "CS/工程師 Road Map.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/前端提高效能.md",
+                "file": "CS/工程師 Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/前端提高效能.md",
+                "file": "CS/工程師 Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/前端提高效能.md"
+                "file": "CS/工程師 Road Map.md"
               }
             }
           },
@@ -165,6 +165,7 @@
   },
   "active": "07c08ad817ffc930",
   "lastOpenFiles": [
+    "CS/前端提高效能.md",
     "CS/前端.md",
     "CS/mongoDB schema design.md",
     "CS/MomgoDB.md",
@@ -173,7 +174,6 @@
     "投資/Stop Hunting.md",
     "投資/止損止盈&套保.md",
     "投資/訂單流.md",
-    "投資/供需區間.md",
-    "CS/Vue v-if 用法.md"
+    "投資/供需區間.md"
   ]
 }
