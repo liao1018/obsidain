@@ -16,15 +16,33 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "bebe177e8f63daac",
+        "type": "tabs",
+        "children": [
           {
-            "id": "8c49b52cf964fc29",
+            "id": "f3994971d845534f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/反轉趨勢.md",
+                "file": "CS/Js.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "0babc8e158e0df17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/let const var.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/反轉趨勢.md",
+                "file": "CS/let const var.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/反轉趨勢.md",
+                "file": "CS/let const var.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/反轉趨勢.md"
+                "file": "CS/let const var.md"
               }
             }
           },
@@ -158,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8c49b52cf964fc29",
+  "active": "0babc8e158e0df17",
   "lastOpenFiles": [
+    "CS/Js.md",
+    "CS/JS Scope.md",
+    "投資/反轉趨勢.md",
     "技術指標.md",
     "MA, EMA.md",
-    "投資/反轉趨勢.md",
     "投資/供需區間.md",
     "投資/2B 假突破反轉.md",
     "投資/加密貨幣投資.md",
     "投資/趨勢線123突破交易法.md",
-    "CS/工程師 Road Map.md",
-    "CS/前端提高效能.md",
-    "CS/前端.md"
+    "CS/工程師 Road Map.md"
   ]
 }

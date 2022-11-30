@@ -9,6 +9,8 @@
 [[IIFE ]]
 [[DOM 操作]]
 [[Js 型別相關 Method]]
+[[JS Scope]]
+[[let const var]]
 
 # [[Typescript]]
 
