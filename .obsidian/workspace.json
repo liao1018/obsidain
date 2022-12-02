@@ -20,35 +20,22 @@
         ]
       },
       {
-        "id": "bebe177e8f63daac",
+        "id": "db438d760de6ddf2",
         "type": "tabs",
         "children": [
           {
-            "id": "f3994971d845534f",
+            "id": "39776c2d6f1c3561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Js.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "0babc8e158e0df17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/let const var.md",
+                "file": "inncom/DIAN-3180 mongoDB schema.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/let const var.md",
+                "file": "inncom/DIAN-3180 mongoDB schema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/let const var.md",
+                "file": "inncom/DIAN-3180 mongoDB schema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/let const var.md"
+                "file": "inncom/DIAN-3180 mongoDB schema.md"
               }
             }
           },
@@ -176,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0babc8e158e0df17",
+  "active": "39776c2d6f1c3561",
   "lastOpenFiles": [
+    "inncom/DIAN-3180.md",
     "CS/Js.md",
+    "CS/let const var.md",
     "CS/JS Scope.md",
     "投資/反轉趨勢.md",
     "技術指標.md",
     "MA, EMA.md",
     "投資/供需區間.md",
     "投資/2B 假突破反轉.md",
-    "投資/加密貨幣投資.md",
-    "投資/趨勢線123突破交易法.md",
-    "CS/工程師 Road Map.md"
+    "投資/加密貨幣投資.md"
   ]
 }
