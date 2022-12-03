@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "397d72df90f7fd93",
+            "id": "f843352343dacec3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -16,26 +16,33 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "579d251ec766a8fc",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "32809bd089016407",
+            "id": "6c6bb8a1472a3a27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/jwt.md",
-                "mode": "preview",
+                "file": "CS/Js.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "410399aa2a5ce05e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Js Hoisting.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Js Hoisting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Js Hoisting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Js Hoisting.md"
+              }
             }
           },
           {
@@ -159,17 +170,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "397d72df90f7fd93",
+  "active": "410399aa2a5ce05e",
   "lastOpenFiles": [
+    "CS/Js.md",
+    "CS/let const var.md",
+    "CS/Js Hoisting.md",
     "CS/jwt.md",
     "CS/inline, block, inline-block.md",
-    "CS/let const var.md",
     "CS/get pdf stream with axios.md",
-    "CS/Js.md",
     "投資/反轉趨勢.md",
     "inncom/DIAN-3180 mongoDB schema.md",
     "inncom/DIAN-3180.md",
-    "CS/JS Scope.md",
-    "技術指標.md"
+    "CS/JS Scope.md"
   ]
 }

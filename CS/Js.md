@@ -11,6 +11,7 @@
 [[Js 型別相關 Method]]
 [[JS Scope]]
 [[let const var]]
+[[Js Hoisting]]
 
 # [[Typescript]]
 
