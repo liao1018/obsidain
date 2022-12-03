@@ -62,3 +62,16 @@ function test(){
 test() //ReferenceError: a is not defined
 ```
 → 如果完全沒有提升，應該是要 10 才對
+
+# Hoisting 運作原理
+	進入 function 的時候，會產生一個 Execution Context(EC)，裡面存放執行 Function 所需資訊，EC 會有想對應的 Variable Object(VO)。裡面存放以下東西：
+	1. Function 及其內容。
+	2. 傳入的參數名稱及值。
+	3. var 變數名稱並設置為 undefined。
+	Note: 
+		1. 如果有重複，以 function 為第一優先。
+		2. 直到執行到內部程式碼 var 部分才會被賦值。
+
+ # JS 是直譯式語言，但仍然會經過編譯過程
+	 編譯過程：把各個 Scope 的變數資訊放入 VO。
+	 執行過程：如果有賦值或是取值到 VO 去找，有必要會沿著 Scope Chain 去找。
