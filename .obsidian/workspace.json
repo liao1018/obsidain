@@ -16,32 +16,14 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "75e7fe884428ccfc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c62bf47ba7382ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           },
           {
-            "id": "40b69508085c59b4",
+            "id": "b32be2eebe02adcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue Usage.md",
+                "file": "個人成長/Mind.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue Usage.md",
+                "file": "個人成長/Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue Usage.md",
+                "file": "個人成長/Mind.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Vue Usage.md"
+                "file": "個人成長/Mind.md"
               }
             }
           },
@@ -176,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "40b69508085c59b4",
+  "active": "b32be2eebe02adcc",
   "lastOpenFiles": [
+    "個人成長/個人成長.md",
+    "個人成長/自我對話.md",
+    "Basketball/切入.md",
     "CS/Vue.md",
+    "CS/Vue Usage.md",
     "CS/Vue v-if v-show 用法.md",
     "CS/前端.md",
     "CS/電腦基礎技能.md",
     "CS/Browser Tips.md",
-    "CS/前端提高效能.md",
-    "投資/反轉趨勢.md",
-    "CS/mongoDB schema design.md",
-    "CS/Git.md",
-    "CS/Js.md"
+    "CS/前端提高效能.md"
   ]
 }
