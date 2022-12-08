@@ -16,21 +16,51 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f5377a109ff7dba4",
+        "type": "tabs",
+        "children": [
           {
-            "id": "b32be2eebe02adcc",
+            "id": "cff3d083ed0f7c0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/Mind.md",
+                "file": "CS/Js.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ae5f6dc456201bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/反轉趨勢.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "3a1d02568a64da13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Road Map.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/Mind.md",
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/Mind.md",
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/Mind.md"
+                "file": "CS/Road Map.md"
               }
             }
           },
@@ -158,17 +188,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b32be2eebe02adcc",
+  "active": "3a1d02568a64da13",
   "lastOpenFiles": [
+    "CS/工程師腦.md",
+    "投資/大根後緩慢的反方向.md",
+    "投資/反轉趨勢.md",
+    "個人成長/Mind.md",
     "個人成長/個人成長.md",
-    "個人成長/自我對話.md",
-    "Basketball/切入.md",
-    "CS/Vue.md",
-    "CS/Vue Usage.md",
-    "CS/Vue v-if v-show 用法.md",
-    "CS/前端.md",
-    "CS/電腦基礎技能.md",
-    "CS/Browser Tips.md",
-    "CS/前端提高效能.md"
+    "CS/aggregate.md",
+    "個人成長/學習英文.md",
+    "CS/JS Object Methods.md",
+    "CS/Js.md",
+    "CS/JS Scope.md"
   ]
 }
