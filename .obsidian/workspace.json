@@ -128,7 +128,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,9 +165,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Road Map.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,8 +184,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a1d02568a64da13",
+  "active": "f843352343dacec3",
   "lastOpenFiles": [
+    "CS/Road Map.md",
     "CS/工程師腦.md",
     "投資/大根後緩慢的反方向.md",
     "投資/反轉趨勢.md",
@@ -198,7 +195,6 @@
     "CS/aggregate.md",
     "個人成長/學習英文.md",
     "CS/JS Object Methods.md",
-    "CS/Js.md",
-    "CS/JS Scope.md"
+    "CS/Js.md"
   ]
 }
