@@ -20,47 +20,22 @@
         ]
       },
       {
-        "id": "f5377a109ff7dba4",
+        "id": "85b5c54eddbb116e",
         "type": "tabs",
         "children": [
           {
-            "id": "cff3d083ed0f7c0e",
+            "id": "ecfe5b6fafb78821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Js.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ae5f6dc456201bbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/反轉趨勢.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "3a1d02568a64da13",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Road Map.md",
+                "file": "CS/自學資源.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/自學資源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/自學資源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/自學資源.md"
+              }
             }
           },
           {
@@ -184,17 +163,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f843352343dacec3",
+  "active": "ecfe5b6fafb78821",
   "lastOpenFiles": [
-    "CS/Road Map.md",
     "CS/工程師腦.md",
-    "投資/大根後緩慢的反方向.md",
-    "投資/反轉趨勢.md",
-    "個人成長/Mind.md",
-    "個人成長/個人成長.md",
-    "CS/aggregate.md",
-    "個人成長/學習英文.md",
-    "CS/JS Object Methods.md",
-    "CS/Js.md"
+    "CS/自學資源.md",
+    "CS/Clean Code.md",
+    "CS/CS.md",
+    "CS/node.js.md",
+    "CS/Data Type.md",
+    "CS/App.md",
+    "CS/CLI.md",
+    "CS/電腦編碼系統.md",
+    "CS/Road Map.md"
   ]
 }

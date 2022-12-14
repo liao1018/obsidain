@@ -1,7 +1,5 @@
 #cs #web  #node 
 
----
-
 # introduction
 ![[Pasted image 20220719140849.png]]
 - Javascript is a programming language, usually , run on browser.
