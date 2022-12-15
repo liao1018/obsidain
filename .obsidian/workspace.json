@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/自學資源.md",
+                "file": "CS/MomgoDB.md",
                 "mode": "source",
                 "source": true
               }
             }
+          },
+          {
+            "id": "b9e4541f7cc5f354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/update.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/自學資源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/自學資源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/自學資源.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,17 +172,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ecfe5b6fafb78821",
+  "active": "f843352343dacec3",
   "lastOpenFiles": [
-    "CS/工程師腦.md",
+    "CS/update.md",
+    "CS/MomgoDB.md",
     "CS/自學資源.md",
+    "CS/工程師腦.md",
     "CS/Clean Code.md",
     "CS/CS.md",
     "CS/node.js.md",
     "CS/Data Type.md",
     "CS/App.md",
-    "CS/CLI.md",
-    "CS/電腦編碼系統.md",
-    "CS/Road Map.md"
+    "CS/CLI.md"
   ]
 }
