@@ -27,11 +27,28 @@
             "id": "d7de9ae6c77de21e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "投資/技術分析.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e8be447749b6c242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Road Map.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Road Map.md"
+              }
             }
           },
           {
@@ -155,17 +176,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d7de9ae6c77de21e",
+  "active": "e8be447749b6c242",
   "lastOpenFiles": [
-    "inncom/inncom.md",
-    "inncom/DIAN-3180.md",
-    "inncom/DIAN-3180 操作流程.md",
-    "inncom/DIAN-3180 刷卡完成.md",
-    "inncom/DIAN-3180 mongoDB schema.md",
-    "inncom/DIAN-3180 開放刷卡.md",
-    "inncom/DIAN-3180 新增行事曆.md",
-    "inncom/DIAN-3180 後續修改資訊有 member 的 mobile 符合.md",
-    "CS/update.md",
-    "CS/MomgoDB.md"
+    "CS/工程師腦.md",
+    "Basketball/背身單打.md",
+    "Basketball/切入.md",
+    "Basketball/後撤步.md",
+    "Basketball/跳投.md",
+    "Basketball/投籃.md",
+    "Basketball/運球.md",
+    "Basketball/破區域聯防.md",
+    "Basketball/進攻.md",
+    "Basketball/籃球觀念.md"
   ]
 }
