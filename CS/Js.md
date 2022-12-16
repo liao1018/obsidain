@@ -2,7 +2,7 @@
 
 [[import,export]]
 [[string method]]
-[[JS Object Methods]]
+[[JS Object]]
 [[array functions]]
 [[try...catch...finally]]
 [[pass by value, pass by reference]]
