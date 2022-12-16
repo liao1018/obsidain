@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#vue",
+  "search": "NAN",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -26,5 +26,5 @@
   "linkStrength": 1,
   "linkDistance": 69,
   "scale": 2.153383571515382,
-  "close": true
+  "close": false
 }

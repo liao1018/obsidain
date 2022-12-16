@@ -53,7 +53,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue v-model.md",
+                "file": "CS/Js 型別相關 Method.md",
                 "mode": "source",
                 "source": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue v-model.md",
+                "file": "CS/Js 型別相關 Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue v-model.md",
+                "file": "CS/Js 型別相關 Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Vue v-model.md"
+                "file": "CS/Js 型別相關 Method.md"
               }
             }
           },
@@ -190,6 +190,7 @@
   },
   "active": "403fa2f28b1c6edc",
   "lastOpenFiles": [
+    "CS/Vue v-model.md",
     "CS/Vue.md",
     "CS/Road Map.md",
     "CS/工程師腦.md",
@@ -198,7 +199,6 @@
     "Basketball/後撤步.md",
     "Basketball/跳投.md",
     "Basketball/投籃.md",
-    "Basketball/運球.md",
-    "Basketball/破區域聯防.md"
+    "Basketball/運球.md"
   ]
 }
