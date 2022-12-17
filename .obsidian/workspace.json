@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9d6d9180e6581014",
+        "id": "f4b5919a3233cdf3",
         "type": "tabs",
         "children": [
           {
-            "id": "f843352343dacec3",
+            "id": "dd9133835fa03db8",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,37 +18,24 @@
             }
           },
           {
-            "id": "ed109eaa3c7b0f83",
+            "id": "2a3b58c411c64490",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/工程師腦.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "8f33faa908dc9a97",
+        "id": "a7d477119a6bbbaa",
         "type": "tabs",
         "children": [
           {
-            "id": "e74d619633392370",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Road Map.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "60b4a12e10826381",
+            "id": "8188536b6ccd1202",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -127,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/維持自學力.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/維持自學力.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/維持自學力.md"
+              }
             }
           },
           {
@@ -180,19 +171,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "f843352343dacec3",
+  "active": "8188536b6ccd1202",
   "lastOpenFiles": [
-    "CS/工程師腦.md",
-    "CS/工程師的好習慣.md",
     "CS/Road Map.md",
     "CS/維持自學力.md",
-    "CS/JS Object.md",
-    "投資/技術分析.md",
-    "CS/Vue.md",
-    "CS/Js 型別相關 Method.md",
-    "CS/Vue v-model.md",
-    "Basketball/背身單打.md"
+    "個人成長/心態.md",
+    "個人成長/職涯.md",
+    "個人成長/communicate.md",
+    "個人成長/自我對話.md",
+    "個人成長/個人成長.md",
+    "CS/自學資源.md",
+    "CS/工程師腦.md",
+    "CS/工程師的好習慣.md"
   ]
 }
