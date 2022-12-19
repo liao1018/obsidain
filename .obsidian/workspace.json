@@ -152,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Js 遞迴概念.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Js 遞迴概念.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,9 +189,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Js 遞迴概念.md"
-              }
+              "state": {}
             }
           },
           {
@@ -212,10 +208,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6eab2e1a9a2ea933",
+  "active": "dd9133835fa03db8",
   "lastOpenFiles": [
-    "CS/Js Tips.md",
     "CS/Js 遞迴概念.md",
+    "CS/Js Tips.md",
     "CS/Js.md",
     "CS/Js 概念.md",
     "CS/Higher order function.md",

@@ -18,7 +18,7 @@ console.log('遞迴加法',sumRecursion(6)) // >>21
 view raw Markdium-JavaScript.js hosted with ❤ by GitHub
 ```
 
-→ 因為 stack 的緣故，會有下面的情況產生：(想像 stack 的蓋ㄋㄧㄢ)
+→ 因為 stack 的緣故，會有下面的情況產生：(想像 stack 的概念)
 
 ```js
 function sumRecursion(num){
