@@ -5,5 +5,8 @@
 ![[Pasted image 20221207231159.png]]
 → 所以，實際上 watch 會都會 computed 先執行。
 
-# Key
-	通常用在 v-for 當中，綁定唯一的 key，讓 Vue 記住你，可以重複利用元素，查看裡面是否需要更改，而不用重新渲染元素，浪費效能。
+# [[Vue Key]]
+
+# [[Vue v-if v-show 用法]]
+
+# [[Vue v-model]]
