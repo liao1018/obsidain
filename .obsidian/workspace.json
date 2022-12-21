@@ -18,6 +18,16 @@
             }
           },
           {
+            "id": "afb4f515cf89084d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.8"
+              }
+            }
+          },
+          {
             "id": "c1d105fcff12d17d",
             "type": "leaf",
             "state": {
@@ -28,21 +38,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "9fc179f9f55efceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP/Restful API.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP/Restful API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP/Restful API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TCP/Restful API.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,17 +164,28 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9fc179f9f55efceb",
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "afb4f515cf89084d",
   "lastOpenFiles": [
     "TCP/Web API.md",
+    "CS/ref, reactive.md",
+    "TCP/FTP.md",
+    "TCP/Restful API.md",
     "TCP/HTTP(Hypertext Transfer Protocol).md",
     "CS/C data type.md",
     "CS/Js 概念.md",
     "CS/Js 遞迴概念.md",
     "CS/Js Tips.md",
-    "CS/Js.md",
-    "CS/Vue Usage.md",
-    "CS/Higher order function.md",
-    "CS/Vue Key.md"
+    "CS/Js.md"
   ]
 }
