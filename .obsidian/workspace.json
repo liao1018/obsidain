@@ -29,13 +29,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Js 概念.md",
+                "file": "CS/Vue.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "6435b42a6ff6e4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue v-model.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Js 概念.md",
+                "file": "CS/Vue v-model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Js 概念.md",
+                "file": "CS/Vue v-model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Js 概念.md"
+                "file": "CS/Vue v-model.md"
               }
             }
           },
@@ -174,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70a1352600f66895",
+  "active": "6435b42a6ff6e4d0",
   "lastOpenFiles": [
+    "CS/Vue Lifecycle.md",
+    "CS/Vue.md",
+    "CS/Js 概念.md",
     "CS/CSS.md",
     "CS/Css Flex.md",
     "CS/Css Grid.md",
     "CS/JS Prototype.md",
-    "CS/Js 概念.md",
     "CS/JS This.md",
     "CS/JS Scope.md",
-    "CS/pass by value, pass by reference.md",
-    "CS/Js Hoisting.md",
-    "CS/let const var.md"
+    "CS/pass by value, pass by reference.md"
   ]
 }

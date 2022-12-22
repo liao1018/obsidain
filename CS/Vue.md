@@ -5,6 +5,7 @@
 -   Community is not stronger than React.
 -   Lack of support for typescript.
 
+[[Vue Lifecycle]]
 [[ref, reactive]]
 [[route, router]]
 [[vue.config.js]]
