@@ -7,6 +7,7 @@
 
 [[Vue Lifecycle]]
 [[ref, reactive]]
+[[Vue Reactivity]]
 [[route, router]]
 [[vue.config.js]]
 [[vue conponents]]

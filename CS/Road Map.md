@@ -48,7 +48,9 @@
 	- 如何累積呢？
 		- 透過線上課程累積作品。
 		- 透過線上課程去累積筆記，以利之後寫文章發展技術 blog。
-		- 看 2. 去設計我要做的作品集如何用到。
+	- 可以練習的地方
+		- 本地端去寫，可以練習基礎的建立，從 0 到 1。
+		- codesandbox: 想練習但是不想開本地專案的時候。
 
 3. 去寫自己的 Blog
 	有一些專門用來寫 Blog 的工具，再去研究。
@@ -57,11 +59,18 @@
 	- CS 
 		- 可從 CS50 出發
 		- 了解網際網路底層知識，不知什麼時候會用到。
+		- 資料結構、演算法
 	- 前端
 		- Vue
 			- Vue3 functional component.
-		- React
+			- Vuex
+				- pinia
+		- Nuxt
 		- 了解 Scss 框架
+			- bootstrap
+			- tailwind
+		- 練習 CSS 排版
+		- React
 		- 前端測試
 		- Typescript
 			- 可服用 totaltypescript [網址](https://www.totaltypescript.com/)
