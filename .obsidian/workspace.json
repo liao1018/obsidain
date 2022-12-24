@@ -6,7 +6,7 @@
       {
         "id": "f4b5919a3233cdf3",
         "type": "tabs",
-        "dimension": 35.14694201747418,
+        "dimension": 46.46544876886418,
         "children": [
           {
             "id": "dd9133835fa03db8",
@@ -23,7 +23,7 @@
       {
         "id": "81520a04253de0bf",
         "type": "tabs",
-        "dimension": 64.85305798252581,
+        "dimension": 53.53455123113582,
         "children": [
           {
             "id": "70a1352600f66895",
@@ -48,19 +48,9 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "b7d3d164e28b83cb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,7 +189,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7d3d164e28b83cb",
+  "active": "c8d981eb9a28434d",
   "lastOpenFiles": [
     "CS/Vue.md",
     "CS/Road Map.md",
