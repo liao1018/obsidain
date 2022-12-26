@@ -34,8 +34,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "20b9d15d00a7ee7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/JS Function Declaration & Function Expression.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,6 +185,7 @@
   },
   "active": "c1ca83ac0395bbb9",
   "lastOpenFiles": [
+    "CS/JS Function Declaration & Function Expression.md",
     "CS/Js 概念.md",
     "CS/Js 遞迴概念.md",
     "CS/pass by value, pass by reference.md",
@@ -180,7 +194,6 @@
     "CS/JS Object.md",
     "CS/let const var.md",
     "CS/Vue.md",
-    "CS/Vue Reactivity.md",
-    "CS/Road Map.md"
+    "CS/Vue Reactivity.md"
   ]
 }

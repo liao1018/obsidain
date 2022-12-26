@@ -9,4 +9,4 @@
 [[DOM 操作]]
 [[JS This]]
 [[JS Prototype]]
-[[JS Function Declaration & Function Expresstion]]
+[[JS Function Declaration & Function Expression]]
