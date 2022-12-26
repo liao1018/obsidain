@@ -1,6 +1,8 @@
 #cs #js
 
-[[let const var]]
+[[JS let const var]]
+[[JS Type]]
+[[Double equals vs Triple equal]]
 [[JS Scope]]
 [[JS Event Loop]]
 [[Js Hoisting]]

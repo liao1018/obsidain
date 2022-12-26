@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a06b559ee2256290",
+        "id": "6e600e3482374741",
         "type": "tabs",
         "children": [
           {
-            "id": "c1ca83ac0395bbb9",
+            "id": "5485d34c1bc24ddc",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,7 +20,7 @@
         ]
       },
       {
-        "id": "6e600e3482374741",
+        "id": "d4055c56ca9a74c7",
         "type": "tabs",
         "children": [
           {
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "28ce0de4ae02601c",
+            "id": "1a01f621ab7455b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS Event Loop.md",
+                "file": "CS/Double equals vs Triple equal.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS Event Loop.md",
+                "file": "CS/Double equals vs Triple equal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS Event Loop.md",
+                "file": "CS/Double equals vs Triple equal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS Event Loop.md"
+                "file": "CS/Double equals vs Triple equal.md"
               }
             }
           },
@@ -187,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "28ce0de4ae02601c",
+  "active": "1a01f621ab7455b7",
   "lastOpenFiles": [
-    "CS/JS Event Loop.md",
     "CS/Js 概念.md",
+    "CS/Double equals vs Triple equal.md",
+    "CS/JS Event Loop.md",
+    "CS/JS let const var.md",
+    "CS/JS Type.md",
     "CS/JS Promise.md",
     "CS/JS Function Declaration & Function Expression.md",
     "CS/Js 遞迴概念.md",
     "CS/pass by value, pass by reference.md",
-    "CS/JS Prototype.md",
-    "CS/JS This.md",
-    "CS/JS Object.md",
-    "CS/let const var.md"
+    "CS/JS Prototype.md"
   ]
 }
