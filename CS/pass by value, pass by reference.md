@@ -1,6 +1,5 @@
 #cs #js
 
----
 # introduction
 > 看變數的資料型別，決定傳遞行為是 Pass by value 或 Pass by reference 。
 
