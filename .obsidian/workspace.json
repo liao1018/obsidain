@@ -24,7 +24,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c5daf5802605efd5",
+            "id": "20b9d15d00a7ee7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,12 +36,12 @@
             }
           },
           {
-            "id": "20b9d15d00a7ee7d",
+            "id": "28ce0de4ae02601c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS Function Declaration & Function Expression.md",
+                "file": "CS/JS Event Loop.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/JS Event Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/JS Event Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/JS Event Loop.md"
+              }
             }
           },
           {
@@ -183,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1ca83ac0395bbb9",
+  "active": "28ce0de4ae02601c",
   "lastOpenFiles": [
-    "CS/JS Function Declaration & Function Expression.md",
+    "CS/JS Event Loop.md",
     "CS/Js 概念.md",
+    "CS/JS Promise.md",
+    "CS/JS Function Declaration & Function Expression.md",
     "CS/Js 遞迴概念.md",
     "CS/pass by value, pass by reference.md",
     "CS/JS Prototype.md",
     "CS/JS This.md",
     "CS/JS Object.md",
-    "CS/let const var.md",
-    "CS/Vue.md",
-    "CS/Vue Reactivity.md"
+    "CS/let const var.md"
   ]
 }
