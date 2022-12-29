@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Double equals vs Triple equal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Double equals vs Triple equal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Double equals vs Triple equal.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,10 +183,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a01f621ab7455b7",
+  "active": "5485d34c1bc24ddc",
   "lastOpenFiles": [
-    "CS/Js 概念.md",
     "CS/Double equals vs Triple equal.md",
+    "CS/Js 概念.md",
     "CS/JS Event Loop.md",
     "CS/JS let const var.md",
     "CS/JS Type.md",
