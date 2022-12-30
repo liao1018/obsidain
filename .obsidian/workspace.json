@@ -29,7 +29,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Js 概念.md",
+                "file": "TCP/TCP IP 四層協定.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d8bef60b93930174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
                 "mode": "source",
                 "source": true
               }
@@ -116,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TCP/HTTP(Hypertext Transfer Protocol).md"
+              }
             }
           },
           {
@@ -183,8 +199,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5485d34c1bc24ddc",
+  "active": "d8bef60b93930174",
   "lastOpenFiles": [
+    "TCP/TCP IP 四層協定.md",
+    "TCP/HTTP(Hypertext Transfer Protocol).md",
     "CS/Double equals vs Triple equal.md",
     "CS/Js 概念.md",
     "CS/JS Event Loop.md",
@@ -192,8 +210,6 @@
     "CS/JS Type.md",
     "CS/JS Promise.md",
     "CS/JS Function Declaration & Function Expression.md",
-    "CS/Js 遞迴概念.md",
-    "CS/pass by value, pass by reference.md",
-    "CS/JS Prototype.md"
+    "CS/Js 遞迴概念.md"
   ]
 }
