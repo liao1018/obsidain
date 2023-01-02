@@ -24,36 +24,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "20b9d15d00a7ee7d",
+            "id": "0899502966571be1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "d8bef60b93930174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1a01f621ab7455b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Double equals vs Triple equal.md",
+                "file": "CS/CS.md",
                 "mode": "source",
                 "source": true
               }
@@ -127,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP/TCP IP 四層協定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TCP/TCP IP 四層協定.md"
-              }
+              "state": {}
             }
           },
           {
@@ -198,17 +170,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "20b9d15d00a7ee7d",
+  "active": "5485d34c1bc24ddc",
   "lastOpenFiles": [
-    "TCP/IP(Internal protocol).md",
-    "TCP/TCP IP 四層協定.md",
-    "TCP/HTTP(Hypertext Transfer Protocol).md",
-    "CS/Double equals vs Triple equal.md",
-    "CS/Js 概念.md",
-    "CS/JS Event Loop.md",
-    "CS/JS let const var.md",
-    "CS/JS Type.md",
-    "CS/JS Promise.md",
-    "CS/JS Function Declaration & Function Expression.md"
+    "CS/CS.md",
+    "CS/CS 程式語言.md",
+    "CS/CS 其他類.md",
+    "CS/前端.md",
+    "CS/CS 工具類.md",
+    "CS/VS code.md",
+    "CS/CS 基本.md",
+    "CS/CS 概念類.md",
+    "CS/前後端分工.md"
   ]
 }

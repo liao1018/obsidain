@@ -10,11 +10,12 @@
 			
 ## [[update]]
 
-
 ## aggrgate
 [[aggregate]]
 
-[[mongoDB  shell]]
-[[mongoDB compass]]
-[[mongoDB schema design]]
+
+# [[MongoDB Object Id]]
+# [[mongoDB  shell]]
+# [[mongoDB compass]]
+# [[mongoDB schema design]]
 
