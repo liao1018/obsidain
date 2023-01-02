@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
+                "file": "TCP/TCP IP 四層協定.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TCP/HTTP(Hypertext Transfer Protocol).md",
+                "file": "TCP/TCP IP 四層協定.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TCP/HTTP(Hypertext Transfer Protocol).md"
+                "file": "TCP/TCP IP 四層協定.md"
               }
             }
           },
@@ -199,8 +198,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d8bef60b93930174",
+  "active": "20b9d15d00a7ee7d",
   "lastOpenFiles": [
+    "TCP/IP(Internal protocol).md",
     "TCP/TCP IP 四層協定.md",
     "TCP/HTTP(Hypertext Transfer Protocol).md",
     "CS/Double equals vs Triple equal.md",
@@ -209,7 +209,6 @@
     "CS/JS let const var.md",
     "CS/JS Type.md",
     "CS/JS Promise.md",
-    "CS/JS Function Declaration & Function Expression.md",
-    "CS/Js 遞迴概念.md"
+    "CS/JS Function Declaration & Function Expression.md"
   ]
 }
