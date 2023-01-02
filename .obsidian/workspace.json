@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "6e600e3482374741",
+        "id": "c6ea8480549d0453",
         "type": "tabs",
+        "dimension": 39.91395793499044,
         "children": [
           {
-            "id": "5485d34c1bc24ddc",
+            "id": "57e68ed5811a1929",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,16 +21,17 @@
         ]
       },
       {
-        "id": "d4055c56ca9a74c7",
+        "id": "c31394db85c9867d",
         "type": "tabs",
+        "dimension": 60.08604206500956,
         "children": [
           {
-            "id": "0899502966571be1",
+            "id": "5aeb98dd5c06c92a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/Road Map.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Road Map.md"
+              }
             }
           },
           {
@@ -170,16 +176,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5485d34c1bc24ddc",
+  "active": "5aeb98dd5c06c92a",
   "lastOpenFiles": [
+    "CS/自學資源.md",
+    "CS/Road Map.md",
+    "Basketball/切入.md",
+    "個人成長/心態.md",
+    "個人成長/學習.md",
     "CS/CS.md",
     "CS/CS 程式語言.md",
     "CS/CS 其他類.md",
     "CS/前端.md",
-    "CS/CS 工具類.md",
-    "CS/VS code.md",
-    "CS/CS 基本.md",
-    "CS/CS 概念類.md",
-    "CS/前後端分工.md"
+    "CS/CS 工具類.md"
   ]
 }

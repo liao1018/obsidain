@@ -78,6 +78,7 @@
 		- 網路基本知識
 			- [清大開放式課程，計網概](https://hackmd.io/@0xff07/network/https%3A%2F%2Fhackmd.io%2F%400xff07%2FByADDQ57Y)
 			- [網際網路基礎概論整理](https://hackmd.io/@Yu040419/S1raoZE3E)
+		- 資安部分
 		- 不同的程式語言
 			- Node 是我熟悉的，可以稍微研究一下。
 			- 相較於前端有較多選擇，可考慮 golang。
