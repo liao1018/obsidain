@@ -6,7 +6,6 @@
       {
         "id": "c6ea8480549d0453",
         "type": "tabs",
-        "dimension": 39.91395793499044,
         "children": [
           {
             "id": "57e68ed5811a1929",
@@ -17,27 +16,33 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "c31394db85c9867d",
-        "type": "tabs",
-        "dimension": 60.08604206500956,
-        "children": [
+          },
           {
-            "id": "5aeb98dd5c06c92a",
+            "id": "1c6193393ed29b98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "CS/電腦基礎技能.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "9a0dcf2eea503ec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Raycast.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "CS/Raycast.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "CS/Raycast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Road Map.md"
+                "file": "CS/Raycast.md"
               }
             }
           },
@@ -176,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5aeb98dd5c06c92a",
+  "active": "9a0dcf2eea503ec5",
   "lastOpenFiles": [
-    "CS/自學資源.md",
+    "CS/電腦基礎技能.md",
     "CS/Road Map.md",
+    "CS/自學資源.md",
     "Basketball/切入.md",
     "個人成長/心態.md",
     "個人成長/學習.md",
     "CS/CS.md",
     "CS/CS 程式語言.md",
     "CS/CS 其他類.md",
-    "CS/前端.md",
-    "CS/CS 工具類.md"
+    "CS/前端.md"
   ]
 }
