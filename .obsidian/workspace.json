@@ -16,27 +16,45 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "e8b0050a2080d4db",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1c6193393ed29b98",
+            "id": "f025188f5c32fedf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/電腦基礎技能.md",
+                "file": "CS/開發Tips.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "904d79480d626cb2",
+            "id": "630dfb3904924975",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Warp.md",
-                "mode": "preview",
+                "file": "CS/Vue Usage.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b0b2becd914e63bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue v-bind class.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -110,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Warp.md",
+                "file": "CS/Vue v-bind class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Warp.md",
+                "file": "CS/Vue v-bind class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Warp.md"
+                "file": "CS/Vue v-bind class.md"
               }
             }
           },
@@ -181,17 +199,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "904d79480d626cb2",
+  "active": "b0b2becd914e63bb",
   "lastOpenFiles": [
-    "CS/電腦基礎技能.md",
-    "CS/Raycast.md",
+    "CS/Vue Usage.md",
+    "CS/Vue v-bind class.md",
+    "CS/Vue.md",
+    "CS/Clean Code.md",
+    "CS/開發Tips.md",
+    "個人成長/communicate.md",
+    "個人成長/創造對話.md",
     "CS/Road Map.md",
-    "CS/自學資源.md",
-    "Basketball/切入.md",
-    "個人成長/心態.md",
-    "個人成長/學習.md",
-    "CS/CS.md",
-    "CS/CS 程式語言.md",
-    "CS/CS 其他類.md"
+    "CS/電腦基礎技能.md",
+    "CS/Warp.md"
   ]
 }

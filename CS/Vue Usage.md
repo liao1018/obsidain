@@ -10,3 +10,5 @@
 # [[Vue v-if v-show 用法]]
 
 # [[Vue v-model]]
+
+# [[Vue v-bind class]]

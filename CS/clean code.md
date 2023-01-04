@@ -91,4 +91,8 @@ const userFirstArticleClaps = user?.articles[0]?.claps.map(() => /*...*/)
 ## 不對 undefined, null 做操作
 	可利用 optional chaining 去跳過 undefined, null。
 
+## 註解提供目的
+
+
+
 [[functional programming]]
