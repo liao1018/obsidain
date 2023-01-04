@@ -30,13 +30,13 @@
             }
           },
           {
-            "id": "9a0dcf2eea503ec5",
+            "id": "904d79480d626cb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Raycast.md",
-                "mode": "source",
+                "file": "CS/Warp.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Raycast.md",
+                "file": "CS/Warp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Raycast.md",
+                "file": "CS/Warp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Raycast.md"
+                "file": "CS/Warp.md"
               }
             }
           },
@@ -181,9 +181,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a0dcf2eea503ec5",
+  "active": "904d79480d626cb2",
   "lastOpenFiles": [
     "CS/電腦基礎技能.md",
+    "CS/Raycast.md",
     "CS/Road Map.md",
     "CS/自學資源.md",
     "Basketball/切入.md",
@@ -191,7 +192,6 @@
     "個人成長/學習.md",
     "CS/CS.md",
     "CS/CS 程式語言.md",
-    "CS/CS 其他類.md",
-    "CS/前端.md"
+    "CS/CS 其他類.md"
   ]
 }
