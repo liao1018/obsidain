@@ -16,51 +16,39 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "e8b0050a2080d4db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f025188f5c32fedf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/開發Tips.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           },
           {
-            "id": "630dfb3904924975",
+            "id": "72def0f1dafffa28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue Usage.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "b0b2becd914e63bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue v-bind class.md",
+                "file": "CS/Internet.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "a306d611d4dfc51c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "619af049aff23377",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TCP/TCP UDP.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue v-bind class.md",
+                "file": "CS/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue v-bind class.md",
+                "file": "CS/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Vue v-bind class.md"
+                "file": "CS/Internet.md"
               }
             }
           },
@@ -199,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0b2becd914e63bb",
+  "active": "72def0f1dafffa28",
   "lastOpenFiles": [
+    "TCP/FTP.md",
+    "CS/Internet.md",
+    "TCP/TCP UDP.md",
+    "TCP/IP(Internal protocol).md",
+    "CS/Web.md",
+    "CS/開發Tips.md",
     "CS/Vue Usage.md",
     "CS/Vue v-bind class.md",
     "CS/Vue.md",
-    "CS/Clean Code.md",
-    "CS/開發Tips.md",
-    "個人成長/communicate.md",
-    "個人成長/創造對話.md",
-    "CS/Road Map.md",
-    "CS/電腦基礎技能.md",
-    "CS/Warp.md"
+    "CS/Clean Code.md"
   ]
 }
