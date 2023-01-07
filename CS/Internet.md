@@ -56,17 +56,18 @@
 	允許一個單一的站點能擁有多個區域網路。
 
 ## Subnet mask 
-	不同類型的 IP 有不同的子網路遮罩，會提供不同的網路及設備數量。
+	用來遮住IP，會提供不同的網路及設備數量。不同類型的 IP 有不同的子網路遮罩，
 [參考文章](https://nordvpn.com/zh-tw/blog/ziwanglu-zhezhao/)
 
 ## DHCP
 	設定區域網路中的一台主機為指揮中心 DHCP，可以動態分配 IP，網路中有一台電腦要連結，會動態產生 IP 給該電腦。
 
 # 傳送層
-# [[TCP UDP]]
+## [[TCP UDP]]
 
 # 應用層
 ## [[HTTP(Hypertext Transfer Protocol)]]
+	HTTP是一個客戶端（使用者）和伺服器端（網站）之間請求和應答的標準
 ## [[FTP]]
 ## SMTP(**S**imple **M**ail **T**ransfer **P**rotocol)
 	可用在傳送和接收電子郵件的資訊，但SMTP通常用作傳送電子郵件資訊，而不是接收。
