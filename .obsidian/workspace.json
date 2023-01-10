@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "72def0f1dafffa28",
+            "id": "4936db3827954831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Internet.md",
-                "mode": "source",
+                "file": "CS/Do not use forEach with async-await.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Internet.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Internet.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Internet.md"
+                "file": "CS/Do not use forEach with async-await.md"
               }
             }
           },
@@ -169,12 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72def0f1dafffa28",
+  "active": "4936db3827954831",
   "lastOpenFiles": [
+    "CS/Internet.md",
     "TCP/IP(Internal protocol).md",
     "TCP/TCP UDP.md",
     "TCP/HTTP(Hypertext Transfer Protocol).md",
-    "CS/Internet.md",
     "TCP/FTP.md",
     "CS/Web.md",
     "CS/開發Tips.md",
