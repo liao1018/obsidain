@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Front-end.md",
+                "file": "CS/Data Type.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Front-end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Front-end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Front-end.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,17 +170,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e36044341e1e36c",
+  "active": "57e68ed5811a1929",
   "lastOpenFiles": [
-    "CS/Untitled.md",
+    "CS/Data Type.md",
     "CS/Front-end.md",
+    "CS/Untitled.md",
     "CS/HTML.md",
     "CS/CS 網頁開發.md",
     "CS/CS.md",
     "CS/CSS.md",
     "CS/CS 概念類.md",
     "CS/Web.md",
-    "CS/Js Tips.md",
-    "CS/CS 其他類.md"
+    "CS/Js Tips.md"
   ]
 }
