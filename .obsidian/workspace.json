@@ -16,15 +16,33 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "8db274070088cd3b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4936db3827954831",
+            "id": "1e36044341e1e36c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
-                "mode": "preview",
+                "file": "CS/CSS.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "678357068467b0a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basketball/運球.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
+                "file": "Basketball/運球.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
+                "file": "Basketball/運球.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md"
+                "file": "Basketball/運球.md"
               }
             }
           },
@@ -169,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4936db3827954831",
+  "active": "678357068467b0a1",
   "lastOpenFiles": [
+    "Basketball/投籃.md",
+    "Basketball/籃球觀念.md",
+    "CS/CSS 隱藏.md",
+    "CS/CSS.md",
+    "CS/array functions.md",
+    "CS/Do not use forEach with async-await.md",
     "CS/Internet.md",
     "TCP/IP(Internal protocol).md",
     "TCP/TCP UDP.md",
-    "TCP/HTTP(Hypertext Transfer Protocol).md",
-    "TCP/FTP.md",
-    "CS/Web.md",
-    "CS/開發Tips.md",
-    "CS/Vue Usage.md",
-    "CS/Vue v-bind class.md",
-    "CS/Vue.md"
+    "TCP/HTTP(Hypertext Transfer Protocol).md"
   ]
 }
