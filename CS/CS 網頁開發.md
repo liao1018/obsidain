@@ -5,5 +5,5 @@
 	前端主要 follow 在畫面、與使用者互動上。
 	後端 follow 在資料處理上。
 
-[[前端]]
+[[Front-end]]
 [[node.js]]

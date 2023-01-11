@@ -29,26 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CSS.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "678357068467b0a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basketball/運球.md",
+                "file": "CS/Front-end.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basketball/運球.md",
+                "file": "CS/Front-end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basketball/運球.md",
+                "file": "CS/Front-end.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basketball/運球.md"
+                "file": "CS/Front-end.md"
               }
             }
           },
@@ -187,17 +174,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "678357068467b0a1",
+  "active": "1e36044341e1e36c",
   "lastOpenFiles": [
-    "Basketball/投籃.md",
-    "Basketball/籃球觀念.md",
-    "CS/CSS 隱藏.md",
+    "CS/HTML.md",
+    "CS/Front-end.md",
+    "CS/CS 網頁開發.md",
+    "CS/CS.md",
     "CS/CSS.md",
-    "CS/array functions.md",
-    "CS/Do not use forEach with async-await.md",
-    "CS/Internet.md",
-    "TCP/IP(Internal protocol).md",
-    "TCP/TCP UDP.md",
-    "TCP/HTTP(Hypertext Transfer Protocol).md"
+    "CS/CS 概念類.md",
+    "CS/Web.md",
+    "CS/Js Tips.md",
+    "CS/CS 其他類.md",
+    "CS/CS 工具類.md"
   ]
 }
