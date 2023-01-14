@@ -16,15 +16,9 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "8db274070088cd3b",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "1e36044341e1e36c",
+            "id": "43dffa9ffedf30f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,7 +29,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Data Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Data Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Data Type.md"
+              }
             }
           },
           {
@@ -170,17 +169,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e68ed5811a1929",
+  "active": "43dffa9ffedf30f0",
   "lastOpenFiles": [
+    "CS/CS 概念類.md",
+    "個人成長/communicate.md",
+    "個人成長/閒聊.md",
+    "CS/Vue v-if v-show 用法.md",
+    "CS/Vue Usage.md",
     "CS/Data Type.md",
     "CS/Front-end.md",
     "CS/Untitled.md",
     "CS/HTML.md",
-    "CS/CS 網頁開發.md",
-    "CS/CS.md",
-    "CS/CSS.md",
-    "CS/CS 概念類.md",
-    "CS/Web.md",
-    "CS/Js Tips.md"
+    "CS/CS 網頁開發.md"
   ]
 }

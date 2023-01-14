@@ -5,6 +5,21 @@
 ![[Pasted image 20221207231159.png]]
 → 所以，實際上 watch 會都會 computed 先執行。
 
+# watch
+## unwatch
+	有時
+```js
+const unwatch = watch(
+	() => form.value.a,
+	(value) => {
+		console.log(value);
+	},
+);
+
+// 執行以下就可以停止 watch
+unwatch();
+```
+
 # [[Vue Key]]
 
 # [[Vue v-if v-show 用法]]
