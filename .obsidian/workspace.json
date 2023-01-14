@@ -18,19 +18,43 @@
             }
           },
           {
-            "id": "43dffa9ffedf30f0",
+            "id": "3ba3c2bb753fc00d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Data Type.md",
+                "file": "CS/Vue.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "570157a7af986dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue Usages.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "57526a94f8276814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vuex.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Data Type.md",
+                "file": "CS/Vue Usages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Data Type.md",
+                "file": "CS/Vue Usages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Data Type.md"
+                "file": "CS/Vue Usages.md"
               }
             }
           },
@@ -169,17 +193,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43dffa9ffedf30f0",
+  "active": "570157a7af986dcf",
   "lastOpenFiles": [
+    "CS/Vue.md",
+    "CS/Vue 狀態管理.md",
+    "CS/vue conponents.md",
+    "CS/Vuex.md",
+    "CS/Data Type.md",
+    "CS/Linked List.md",
     "CS/CS 概念類.md",
     "個人成長/communicate.md",
     "個人成長/閒聊.md",
-    "CS/Vue v-if v-show 用法.md",
-    "CS/Vue Usage.md",
-    "CS/Data Type.md",
-    "CS/Front-end.md",
-    "CS/Untitled.md",
-    "CS/HTML.md",
-    "CS/CS 網頁開發.md"
+    "CS/Vue v-if v-show 用法.md"
   ]
 }

@@ -1,15 +1,20 @@
 #cs #front-end #vue 
 
+# Introduction
+- Vue 最小單位是元件。
+- 元件之間要低耦合。讓元件能夠重複利用。如果不能抽出一個元件到其他地方使用，那就是沒有設計好的元件。
+
 # 缺點
 -   Too many ways to write code.
 -   Community is not stronger than React.
 -   Lack of support for typescript.
 
-[[Vue Lifecycle]]
-[[ref, reactive]]
+[[vue conponents]]
 [[Vue Reactivity]]
+[[ref, reactive]]
+[[Vue Lifecycle]]
 [[route, router]]
 [[vue.config.js]]
-[[vue conponents]]
 [[Vue3 Unit Test]]
-[[Vue Usage]]
+[[Vue 狀態管理]]
+[[Vue Usages]]
