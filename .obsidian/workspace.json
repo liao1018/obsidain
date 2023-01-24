@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/超速學習.md",
+                "file": "CS/自學資源.md",
                 "mode": "source",
                 "source": true
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/超速學習.md",
+                "file": "CS/自學資源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/超速學習.md",
+                "file": "CS/自學資源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/超速學習.md"
+                "file": "CS/自學資源.md"
               }
             }
           },
@@ -189,8 +189,8 @@
   },
   "active": "defb31e6c3900946",
   "lastOpenFiles": [
-    "個人成長/學習.md",
     "個人成長/超速學習.md",
+    "個人成長/學習.md",
     "個人成長/職涯.md",
     "個人成長/心態.md",
     "個人成長/個人成長.md",
