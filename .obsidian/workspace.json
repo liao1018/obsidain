@@ -10,37 +10,45 @@
           {
             "id": "1b574fd24fe195fb",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2f3eb3dc3592b55e",
+        "type": "tabs",
+        "children": [
           {
-            "id": "595ef67188b7422e",
+            "id": "b84796f975995817",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/工程師腦.md",
+                "file": "個人成長/學習.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "09eadce38ad00cb9",
+            "id": "defb31e6c3900946",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "個人成長/超速學習.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "個人成長/超速學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "個人成長/超速學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Road Map.md"
+                "file": "個人成長/超速學習.md"
               }
             }
           },
@@ -179,17 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "09eadce38ad00cb9",
+  "active": "defb31e6c3900946",
   "lastOpenFiles": [
+    "個人成長/學習.md",
+    "個人成長/超速學習.md",
+    "個人成長/職涯.md",
+    "個人成長/心態.md",
+    "個人成長/個人成長.md",
+    "個人成長/影響力.md",
+    "個人成長/英文.md",
     "CS/工程師腦.md",
-    "CS/SQL queries.md",
-    "CS/Vuex.md",
-    "CS/Vue.md",
-    "CS/Vue Usages.md",
-    "CS/Vue 狀態管理.md",
-    "CS/vue conponents.md",
-    "CS/Data Type.md",
-    "CS/Linked List.md",
-    "CS/CS 概念類.md"
+    "CS/Road Map.md",
+    "CS/開發Tips.md"
   ]
 }
