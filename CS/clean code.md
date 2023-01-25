@@ -16,6 +16,7 @@
 
 ## Single responsibility principle
 - One purpose functions compose one multiple purposes function.
+- 可以有一個做統合
 ```js
 	const logSignup(email) => Log.add(new Date(), "signed up", email)
 
@@ -50,11 +51,8 @@ const stepsToHundred = (number) => {
 	let steps = 0
 	
 	while(number < 100) {
-	
-	number *= 2
-	
-	steps++
-	
+		number *= 2
+		steps++
 	}
 	
 	return steps
@@ -65,15 +63,12 @@ const stepsToHundred = (number) => {
 ## Use guard clauses to avoid deep nesting
 ```js
 const getUSTime = (time) => {
-
-if(time <= 12) return time + "AM"
-
-return time + "PM"
-
+	if(time <= 12) return time + "AM"
+	return time + "PM"
 }
 ```
 
-## Use destructure to spare your code
+## Use destructure 簡短你的 code
 
 ## Optional changing & spread operator
 ```js
@@ -91,8 +86,10 @@ const userFirstArticleClaps = user?.articles[0]?.claps.map(() => /*...*/)
 ## 不對 undefined, null 做操作
 	可利用 optional chaining 去跳過 undefined, null。
 
-## 註解提供目的
-
-
+# 註解
+-   註解的用意是將複雜度隱藏起來，將概念抽象化，讓開發者可以不用去管內部細節。
+-   應該要寫程式碼的目的、為什麼要這樣寫。而不是程式碼在做什麼
+-   只有在程式碼中不顯而易見的可寫註解
+-   寫註解與寫程式本身同樣重要
 
 [[functional programming]]

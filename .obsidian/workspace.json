@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basketball/投籃.md",
+                "file": "CS/Clean Code.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basketball/投籃.md",
+                "file": "CS/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basketball/投籃.md",
+                "file": "CS/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basketball/投籃.md"
+                "file": "CS/Clean Code.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "dd1ec22f52f56c2d",
   "lastOpenFiles": [
+    "Basketball/投籃.md",
     "Basketball/運球.md",
     "CS/Vue.md",
     "CS/Structure a large scale Vue application.md",
@@ -184,7 +185,6 @@
     "CS/Js 概念.md",
     "個人成長/學習.md",
     "CS/自學資源.md",
-    "個人成長/超速學習.md",
-    "個人成長/職涯.md"
+    "個人成長/超速學習.md"
   ]
 }
