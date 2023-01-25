@@ -9,6 +9,7 @@
 -   Community is not stronger than React.
 -   Lack of support for typescript.
 
+[[Structure a large scale Vue application]]
 [[vue conponents]]
 [[Vue Reactivity]]
 [[ref, reactive]]

@@ -24,31 +24,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b84796f975995817",
+            "id": "dd1ec22f52f56c2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/學習.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "defb31e6c3900946",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/自學資源.md",
+                "file": "CS/Vue.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,15 +172,15 @@
   },
   "active": "1b574fd24fe195fb",
   "lastOpenFiles": [
+    "CS/Vue.md",
+    "CS/Structure a large scale Vue application.md",
+    "CS/vue conponents.md",
+    "CS/JS Type.md",
+    "CS/Js 概念.md",
+    "個人成長/學習.md",
     "CS/自學資源.md",
     "個人成長/超速學習.md",
-    "個人成長/學習.md",
     "個人成長/職涯.md",
-    "個人成長/心態.md",
-    "個人成長/個人成長.md",
-    "個人成長/影響力.md",
-    "個人成長/英文.md",
-    "CS/工程師腦.md",
-    "CS/Road Map.md"
+    "個人成長/心態.md"
   ]
 }
