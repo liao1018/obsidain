@@ -116,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/自學資源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/自學資源.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/自學資源.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "defb31e6c3900946",
+  "active": "1b574fd24fe195fb",
   "lastOpenFiles": [
+    "CS/自學資源.md",
     "個人成長/超速學習.md",
     "個人成長/學習.md",
     "個人成長/職涯.md",
@@ -197,7 +194,6 @@
     "個人成長/影響力.md",
     "個人成長/英文.md",
     "CS/工程師腦.md",
-    "CS/Road Map.md",
-    "CS/開發Tips.md"
+    "CS/Road Map.md"
   ]
 }
