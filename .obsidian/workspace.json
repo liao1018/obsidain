@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue.md",
+                "file": "Basketball/投籃.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basketball/投籃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basketball/投籃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basketball/投籃.md"
+              }
             }
           },
           {
@@ -170,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b574fd24fe195fb",
+  "active": "dd1ec22f52f56c2d",
   "lastOpenFiles": [
+    "Basketball/運球.md",
     "CS/Vue.md",
     "CS/Structure a large scale Vue application.md",
     "CS/vue conponents.md",
@@ -180,7 +185,6 @@
     "個人成長/學習.md",
     "CS/自學資源.md",
     "個人成長/超速學習.md",
-    "個人成長/職涯.md",
-    "個人成長/心態.md"
+    "個人成長/職涯.md"
   ]
 }
