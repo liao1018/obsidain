@@ -16,26 +16,33 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "2f3eb3dc3592b55e",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "dd1ec22f52f56c2d",
+            "id": "645d26c791f229f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Clean Code.md",
+                "file": "CS/Js 概念.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2612584106204643",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/JS Closure.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Clean Code.md",
+                "file": "CS/JS Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Clean Code.md",
+                "file": "CS/JS Closure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Clean Code.md"
+                "file": "CS/JS Closure.md"
               }
             }
           },
@@ -174,17 +181,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd1ec22f52f56c2d",
+  "active": "2612584106204643",
   "lastOpenFiles": [
+    "CS/Js 概念.md",
+    "CS/Clean Code.md",
     "Basketball/投籃.md",
     "Basketball/運球.md",
     "CS/Vue.md",
     "CS/Structure a large scale Vue application.md",
     "CS/vue conponents.md",
     "CS/JS Type.md",
-    "CS/Js 概念.md",
     "個人成長/學習.md",
-    "CS/自學資源.md",
-    "個人成長/超速學習.md"
+    "CS/自學資源.md"
   ]
 }

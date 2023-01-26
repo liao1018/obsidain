@@ -14,3 +14,4 @@
 [[JS Prototype]]
 [[JS Function Declaration & Function Expression]]
 [[JS Promise]]
+[[JS Closure]]
