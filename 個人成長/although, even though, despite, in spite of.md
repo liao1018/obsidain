@@ -1,4 +1,4 @@
-#personal-development #english 
+#english 
 
 - Although (連接詞conj.) 放句首、句中 。放句首中間要加逗號。
 
