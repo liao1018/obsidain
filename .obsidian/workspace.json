@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "645d26c791f229f3",
+            "id": "d9c4f3ef56faa7b4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Js 概念.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "2612584106204643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/JS Closure.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS Closure.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS Closure.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS Closure.md"
+                "file": "CS/Do not use forEach with async-await.md"
               }
             }
           },
@@ -181,9 +169,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2612584106204643",
+  "active": "d9c4f3ef56faa7b4",
   "lastOpenFiles": [
     "CS/Js 概念.md",
+    "CS/JS Closure.md",
     "CS/Clean Code.md",
     "Basketball/投籃.md",
     "Basketball/運球.md",
@@ -191,7 +180,6 @@
     "CS/Structure a large scale Vue application.md",
     "CS/vue conponents.md",
     "CS/JS Type.md",
-    "個人成長/學習.md",
-    "CS/自學資源.md"
+    "個人成長/學習.md"
   ]
 }
