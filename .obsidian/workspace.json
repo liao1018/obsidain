@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/Clean Code.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/Clean Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/Clean Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CS.md"
+                "file": "CS/Clean Code.md"
               }
             }
           },
@@ -176,15 +176,15 @@
   },
   "active": "25115ae8dd7ea6a6",
   "lastOpenFiles": [
-    "CS/CS 其他類.md",
+    "CS/工程師 pro.md",
+    "CS/functional programming.md",
+    "CS/Clean Code.md",
     "CS/CS.md",
+    "CS/CS 其他類.md",
     "CS/Road Map.md",
     "個人成長/超速學習.md",
     "個人成長/學習.md",
     "CS/Front-end.md",
-    "CS/工程師相關.md",
-    "個人成長/個人成長.md",
-    "CS/專案管理 與他人協作.md",
-    "CS/專案管理.md"
+    "個人成長/個人成長.md"
   ]
 }

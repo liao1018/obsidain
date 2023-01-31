@@ -1,5 +1,4 @@
 #cs #engineer 
 
-[[Clean Code]]
 [[開發Tips]]
 [[Road Map]]
