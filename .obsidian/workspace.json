@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/HTML.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/HTML.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/HTML.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/HTML.md"
+                "file": "CS/Do not use forEach with async-await.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "25115ae8dd7ea6a6",
   "lastOpenFiles": [
+    "CS/HTML.md",
     "CS/Do not use forEach with async-await.md",
     "個人成長/職涯.md",
     "CS/工程師成長管道.md",
@@ -184,7 +185,6 @@
     "CS/Clean Code.md",
     "CS/工程師 pro.md",
     "CS/functional programming.md",
-    "CS/CS.md",
-    "CS/CS 其他類.md"
+    "CS/CS.md"
   ]
 }
