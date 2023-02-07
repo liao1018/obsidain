@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Do not use forEach with async-await.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25115ae8dd7ea6a6",
+  "active": "1b574fd24fe195fb",
   "lastOpenFiles": [
-    "CS/HTML.md",
     "CS/Do not use forEach with async-await.md",
+    "CS/HTML.md",
     "個人成長/職涯.md",
     "CS/工程師成長管道.md",
     "CS/Road Map.md",
