@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
-                "mode": "source",
+                "file": "CS/Structure a large scale Vue application.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
+                "file": "CS/Structure a large scale Vue application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
+                "file": "CS/Structure a large scale Vue application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md"
+                "file": "CS/Structure a large scale Vue application.md"
               }
             }
           },
@@ -176,13 +176,13 @@
   },
   "active": "5337c0caca5a18ee",
   "lastOpenFiles": [
+    "CS/Do not use forEach with async-await.md",
     "CS/Road Map.md",
     "ChatGPT.md",
     "CS/維持自學力.md",
     "個人成長/學習.md",
     "CS/工程師 pro.md",
     "CS/工程師成長管道.md",
-    "CS/Do not use forEach with async-await.md",
     "CS/HTML.md",
     "個人成長/職涯.md",
     "工程師成長管道.md"
