@@ -48,7 +48,8 @@ src
 	- 類似 spiderman，放常常使用的函式、功能。
 - layouts
 	- 定義一些可重複使用的版面，裡面不會有內容，內容都是傳送進去的。
-	- 利用 Slot
+	- 利用 Slot，靜態的方式會導致切換不同 route 也會重新載入 Layouts，可透過動態去解決。
+	- 有動態 layouts 的方式，可以去查詢
 - Middlewares
 	- work with router
 	```js
