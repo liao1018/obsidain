@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Structure a large scale Vue application.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5337c0caca5a18ee",
+  "active": "2241c9746dad9d55",
   "lastOpenFiles": [
-    "CS/Road Map.md",
     "CS/Structure a large scale Vue application.md",
+    "CS/Road Map.md",
     "CS/Do not use forEach with async-await.md",
     "ChatGPT.md",
     "CS/維持自學力.md",
