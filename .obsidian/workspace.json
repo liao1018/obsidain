@@ -29,8 +29,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/HTML.md",
-                "mode": "source",
+                "file": "投資/2B 假突破反轉.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/HTML.md",
+                "file": "投資/2B 假突破反轉.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/HTML.md",
+                "file": "投資/2B 假突破反轉.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/HTML.md"
+                "file": "投資/2B 假突破反轉.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "5337c0caca5a18ee",
   "lastOpenFiles": [
+    "CS/HTML.md",
     "CS/Structure a large scale Vue application.md",
     "CS/Road Map.md",
     "CS/Do not use forEach with async-await.md",
@@ -184,7 +185,6 @@
     "個人成長/學習.md",
     "CS/工程師 pro.md",
     "CS/工程師成長管道.md",
-    "CS/HTML.md",
     "個人成長/職涯.md"
   ]
 }
