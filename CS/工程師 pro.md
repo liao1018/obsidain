@@ -1,4 +1,4 @@
-#cs #engineer 
+#cs #engineer #personal-development #learning 
 
 # Introduction
 	工程師的很多方法，都可以應用在生活中。
