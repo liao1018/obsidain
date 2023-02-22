@@ -1,4 +1,4 @@
-#cs #engineer #personal-development #learning 
+#personal-development #learning 
 
 # 增加主業收入
 	學歷是捷徑，可以讓大家快速認識你。但如果待的公司是好的團隊，在前期會以飛速成長，超過在學校所學，實際能力會提升。
