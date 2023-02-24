@@ -16,6 +16,16 @@
             }
           },
           {
+            "id": "4de41661092e910d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
+          },
+          {
             "id": "bf3bc56d09eea874",
             "type": "leaf",
             "state": {
@@ -27,7 +37,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +173,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39e6d47f3b35564d",
+  "active": "4de41661092e910d",
   "lastOpenFiles": [
     "CS/開發Tips.md",
     "CS/專案管理.md",
