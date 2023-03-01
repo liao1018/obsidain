@@ -11,17 +11,11 @@
             "id": "39e6d47f3b35564d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "4de41661092e910d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.1.15"
+                "file": "CS/Structure a large scale Vue application.md",
+                "mode": "source",
+                "source": true
               }
             }
           },
@@ -37,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Structure a large scale Vue application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Structure a large scale Vue application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Structure a large scale Vue application.md"
+              }
             }
           },
           {
@@ -173,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4de41661092e910d",
+  "active": "39e6d47f3b35564d",
   "lastOpenFiles": [
     "CS/開發Tips.md",
     "CS/專案管理.md",
