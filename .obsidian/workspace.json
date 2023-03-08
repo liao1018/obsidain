@@ -24,12 +24,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "799230facc1e3d57",
+            "id": "7c0b1dca2668c110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS Scope.md",
+                "file": "CS/JS Object.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/JS Scope.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +170,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "799230facc1e3d57",
+  "active": "a8f321c00c9c0673",
   "lastOpenFiles": [
+    "CS/JS Object.md",
+    "CS/pass by value, pass by reference.md",
+    "CS/Js 遞迴概念.md",
+    "CS/JS Function Declaration & Function Expression.md",
+    "CS/Higher order function.md",
+    "CS/JS Closure.md",
+    "CS/JS Event Loop.md",
+    "CS/Js Hoisting.md",
+    "CS/Double equals vs Triple equal.md",
+    "CS/JS Type.md",
+    "CS/Js 概念.md",
+    "CS/JS let const var.md",
+    "CS/JS Scope.md",
     "個人成長/學習資源.md",
     "個人成長/學習.md",
     "個人成長/個人成長.md",
