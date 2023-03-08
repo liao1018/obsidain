@@ -10,11 +10,27 @@
           {
             "id": "a8f321c00c9c0673",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "4269648f7ea2b1e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "799230facc1e3d57",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/學習資源.md",
-                "mode": "source",
+                "file": "CS/JS Scope.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -87,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/學習資源.md",
+                "file": "CS/JS Scope.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/學習資源.md",
+                "file": "CS/JS Scope.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/學習資源.md"
+                "file": "CS/JS Scope.md"
               }
             }
           },
@@ -158,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "799230facc1e3d57",
   "lastOpenFiles": [
+    "個人成長/學習資源.md",
     "個人成長/學習.md",
     "個人成長/個人成長.md",
     "CS/Structure a large scale Vue application.md",
@@ -170,7 +187,6 @@
     "ChatGPT.md",
     "CS/CS.md",
     "CS/工程師 pro.md",
-    "個人成長/學習資源.md",
     "個人成長/AI 工具.md"
   ]
 }
