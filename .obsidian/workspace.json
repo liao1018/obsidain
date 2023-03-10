@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue Lifecycle.md",
+                "file": "CS/JS Type.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue Lifecycle.md",
+                "file": "CS/JS Type.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue Lifecycle.md",
+                "file": "CS/JS Type.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Vue Lifecycle.md"
+                "file": "CS/JS Type.md"
               }
             }
           },
@@ -176,6 +176,11 @@
   },
   "active": "7c0b1dca2668c110",
   "lastOpenFiles": [
+    "CS/Double equals vs Triple equal.md",
+    "CS/Vue Usages.md",
+    "CS/Vue v-model.md",
+    "CS/Vue Lifecycle.md",
+    "CS/Vue Reactivity.md",
     "CS/Vuex.md",
     "CS/JS Object.md",
     "CS/pass by value, pass by reference.md",
@@ -185,7 +190,6 @@
     "CS/JS Closure.md",
     "CS/JS Event Loop.md",
     "CS/Js Hoisting.md",
-    "CS/Double equals vs Triple equal.md",
     "CS/JS Type.md",
     "CS/Js 概念.md",
     "CS/JS let const var.md",
@@ -197,10 +201,6 @@
     "CS/開發Tips.md",
     "CS/專案管理.md",
     "CS/Road Map.md",
-    "CS/工程師成長管道.md",
-    "ChatGPT.md",
-    "CS/CS.md",
-    "CS/工程師 pro.md",
-    "個人成長/AI 工具.md"
+    "CS/工程師成長管道.md"
   ]
 }
