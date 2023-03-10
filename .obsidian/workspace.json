@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS Object.md",
+                "file": "CS/Vue Lifecycle.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Vue Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Vue Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Vue Lifecycle.md"
+              }
             }
           },
           {
@@ -170,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "7c0b1dca2668c110",
   "lastOpenFiles": [
     "CS/Vuex.md",
     "CS/JS Object.md",
