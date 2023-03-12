@@ -1,9 +1,5 @@
 #cs #js
 
-# Triple Equals
-	Triple equals in Js is Strict equality.
-	both type and value have to be the same.
-
 # Double Equals
 	Double equals in Js is loose equality
 	Double equals perform **type coercion**	
@@ -19,7 +15,7 @@ false == 0
 // true
 ```
 
-# Falsy values
+## Falsy values
 	Type coercion will actually convert our zero to Boolean value false
 	There are six falsy values we should be aware of.
 -   false
@@ -52,3 +48,19 @@ false == 0
 	NaN == NaN
 	// false
 	```
+
+# Triple Equals
+	Triple equals in Js is Strict equality.
+	both type and value have to be the same.
+
+# Object.is()
+	也是嚴格的比對方式，與 === 有以下不同：
+```js
+Object.is(+0, -0); // false
++0 === -0; // true
+```
+
+```js
+Object.is(NaN, NaN); // true
+NaN === NaN; // false
+```

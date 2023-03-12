@@ -16,14 +16,32 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "c6e3c6fe434bac39",
+        "type": "tabs",
+        "children": [
           {
-            "id": "353d06fdd1227ad6",
+            "id": "b8e8dcd7e3dd5a61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Vue.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c0caa821c30bba91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue 樣式穿透.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Vue 樣式穿透.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Vue 樣式穿透.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Git.md"
+                "file": "CS/Vue 樣式穿透.md"
               }
             }
           },
@@ -169,12 +187,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "353d06fdd1227ad6",
+  "active": "c0caa821c30bba91",
   "lastOpenFiles": [
-    "CS/JS let const var.md",
-    "CS/Double equals vs Triple equal.md",
-    "CS/JS Type.md",
+    "CS/Vue.md",
+    "CS/Vue 樣式穿透.md",
     "CS/Vue Usages.md",
+    "CS/Double equals vs Triple equal.md",
+    "CS/Git.md",
+    "CS/JS let const var.md",
+    "CS/JS Type.md",
     "CS/Vue v-model.md",
     "CS/Vue Lifecycle.md",
     "CS/Vue Reactivity.md",
@@ -193,9 +214,6 @@
     "個人成長/學習.md",
     "個人成長/個人成長.md",
     "CS/Structure a large scale Vue application.md",
-    "CS/開發Tips.md",
-    "CS/專案管理.md",
-    "CS/Road Map.md",
-    "CS/工程師成長管道.md"
+    "CS/開發Tips.md"
   ]
 }
