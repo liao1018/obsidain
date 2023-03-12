@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS Type.md",
+                "file": "CS/Double equals vs Triple equal.md",
                 "mode": "preview",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/JS Type.md",
+                "file": "CS/Double equals vs Triple equal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/JS Type.md",
+                "file": "CS/Double equals vs Triple equal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/JS Type.md"
+                "file": "CS/Double equals vs Triple equal.md"
               }
             }
           },
@@ -176,6 +176,7 @@
   },
   "active": "7c0b1dca2668c110",
   "lastOpenFiles": [
+    "CS/JS Type.md",
     "CS/Double equals vs Triple equal.md",
     "CS/Vue Usages.md",
     "CS/Vue v-model.md",
@@ -190,7 +191,6 @@
     "CS/JS Closure.md",
     "CS/JS Event Loop.md",
     "CS/Js Hoisting.md",
-    "CS/JS Type.md",
     "CS/Js 概念.md",
     "CS/JS let const var.md",
     "CS/JS Scope.md",
