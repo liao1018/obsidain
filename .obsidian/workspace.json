@@ -16,26 +16,21 @@
               "state": {},
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "4269648f7ea2b1e1",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7c0b1dca2668c110",
+            "id": "353d06fdd1227ad6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Double equals vs Triple equal.md",
-                "mode": "preview",
+                "file": "CS/Git.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Double equals vs Triple equal.md",
+                "file": "CS/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Double equals vs Triple equal.md",
+                "file": "CS/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Double equals vs Triple equal.md"
+                "file": "CS/Git.md"
               }
             }
           },
@@ -174,10 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7c0b1dca2668c110",
+  "active": "353d06fdd1227ad6",
   "lastOpenFiles": [
-    "CS/JS Type.md",
+    "CS/JS let const var.md",
     "CS/Double equals vs Triple equal.md",
+    "CS/JS Type.md",
     "CS/Vue Usages.md",
     "CS/Vue v-model.md",
     "CS/Vue Lifecycle.md",
@@ -192,7 +188,6 @@
     "CS/JS Event Loop.md",
     "CS/Js Hoisting.md",
     "CS/Js 概念.md",
-    "CS/JS let const var.md",
     "CS/JS Scope.md",
     "個人成長/學習資源.md",
     "個人成長/學習.md",

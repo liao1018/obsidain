@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#js",
+  "search": "#git",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 18.6524566473988,
   "linkStrength": 1,
   "linkDistance": 69,
-  "scale": 0.9855167557191656,
+  "scale": 1.3360855955643216,
   "close": false
 }
