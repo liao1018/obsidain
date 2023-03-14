@@ -11,6 +11,21 @@ SELECT * FROM Customers;
 - SQL keywords are NOT case sensitive: select is the same as SELECT.
 
 # Overview important commands
+```mysql
+CREATE DATABASE mydatabase;
+```
+```mysql
+CREATE TABLE mytable (
+  id INT PRIMARY KEY,
+  name VARCHAR(50),
+  age INT
+);
+```
+```mysql
+INSERT INTO mytable (id, name, age)
+VALUES (1, 'John Doe', 25);
+```
+
 - `SELECT` - extracts data from a database
 - `UPDATE` - updates data in a database
 - `DELETE` - deletes data from a database

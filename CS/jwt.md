@@ -1,14 +1,24 @@
 #cs #web  #node 
 
+# Intro
+	JWT 是一種身份驗證與授權的標準，讓資料可以安全地傳遞。
+
+# 步驟
+	身份驗證 -> 授權 -> 透過鑰匙送 request
+
 參考文章
 https://medium.com/@danilo.vilhena/what-are-json-web-tokens-for-27b0f5806da0
 -   jwt 分成三個部分 三部分用dot隔開
     -   Header(會轉為base64)
         -   存有有加密的演算法等等資訊
+	```js
+	{ "alg": "HS256", "typ": "JWT" }
+	```
     -   Payload (會轉為base64)
         -   我們需要用到的資訊
     -   Signature(將base64 進行加密）
         -   透過Header 提供的加密方法，將Header.payload 經由secret key加密
+
 -   要有以上三部分才會解碼成功，才能使用我們的功能。
 
 # payload
