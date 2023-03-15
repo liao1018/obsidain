@@ -18,31 +18,32 @@
             }
           },
           {
-            "id": "3cdab05c4e69d892",
+            "id": "e17af72d02501660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/SQL queries.md",
+                "file": "個人成長/生活心態.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "c6e3c6fe434bac39",
+        "id": "3758fd53566c0a26",
         "type": "tabs",
         "children": [
           {
-            "id": "c0caa821c30bba91",
+            "id": "c5a49d2d962d940b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/RDBMS.md",
-                "mode": "preview",
+                "file": "個人成長/學習.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/RDBMS.md",
+                "file": "個人成長/學習.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/RDBMS.md",
+                "file": "個人成長/學習.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/RDBMS.md"
+                "file": "個人成長/學習.md"
               }
             }
           },
@@ -186,12 +187,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0caa821c30bba91",
+  "active": "c5a49d2d962d940b",
   "lastOpenFiles": [
+    "個人成長/生活心態.md",
+    "個人成長/學習.md",
+    "個人成長/七個習慣.md",
+    "個人成長/職涯規劃.md",
+    "個人成長/以終為始.md",
+    "個人成長/生活中的留白.md",
+    "個人成長/個人成長.md",
+    "個人成長/自我對話.md",
+    "個人成長/影響力.md",
+    "個人成長/如何知道自己學會？.md",
+    "個人成長/學習資源.md",
+    "個人成長/超速學習.md",
+    "CS/SQL queries.md",
+    "CS/RDBMS.md",
     "CS/MySQL.md",
     "TCP/Restful API.md",
-    "CS/RDBMS.md",
-    "CS/SQL queries.md",
     "CS/Vue.md",
     "CS/jwt.md",
     "TCP/HTTP(Hypertext Transfer Protocol).md",
@@ -201,18 +214,6 @@
     "CS/Vue Usages.md",
     "CS/Double equals vs Triple equal.md",
     "CS/Git.md",
-    "CS/JS let const var.md",
-    "CS/JS Type.md",
-    "CS/Vue v-model.md",
-    "CS/Vue Lifecycle.md",
-    "CS/Vue Reactivity.md",
-    "CS/Vuex.md",
-    "CS/JS Object.md",
-    "CS/pass by value, pass by reference.md",
-    "CS/Js 遞迴概念.md",
-    "CS/JS Function Declaration & Function Expression.md",
-    "CS/Higher order function.md",
-    "CS/JS Closure.md",
-    "CS/JS Event Loop.md"
+    "CS/JS let const var.md"
   ]
 }
