@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "e17af72d02501660",
+            "id": "bb599634e9a73667",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/生活心態.md",
+                "file": "CS/Road Map.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,24 +31,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "3758fd53566c0a26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c5a49d2d962d940b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "個人成長/學習.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -116,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/學習.md",
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/學習.md",
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/學習.md"
+                "file": "CS/Road Map.md"
               }
             }
           },
@@ -187,12 +169,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5a49d2d962d940b",
+  "active": "bb599634e9a73667",
   "lastOpenFiles": [
-    "個人成長/生活心態.md",
-    "個人成長/學習.md",
-    "個人成長/七個習慣.md",
     "個人成長/職涯規劃.md",
+    "個人成長/學習.md",
+    "個人成長/生活心態.md",
+    "個人成長/七個習慣.md",
     "個人成長/以終為始.md",
     "個人成長/生活中的留白.md",
     "個人成長/個人成長.md",
