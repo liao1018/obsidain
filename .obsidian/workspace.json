@@ -16,21 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "97efe3bd40174460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vuex.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vuex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vuex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Vuex.md"
-              }
+              "state": {}
             }
           },
           {
@@ -169,10 +152,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97efe3bd40174460",
+  "active": "a8f321c00c9c0673",
   "lastOpenFiles": [
-    "CS/Vue 狀態管理.md",
     "CS/Vuex.md",
+    "CS/Vue 狀態管理.md",
     "CS/Road Map.md",
     "個人成長/職涯規劃.md",
     "個人成長/學習.md",
