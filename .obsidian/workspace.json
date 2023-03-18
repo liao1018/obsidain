@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "df6b92492223175a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/反轉趨勢.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "投資/反轉趨勢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "投資/反轉趨勢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "投資/反轉趨勢.md"
+              }
             }
           },
           {
@@ -152,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "df6b92492223175a",
   "lastOpenFiles": [
+    "投資/型態與結構.md",
     "CS/Vuex.md",
     "CS/Vue 狀態管理.md",
     "CS/Road Map.md",
@@ -178,7 +196,6 @@
     "TCP/HTTP(Hypertext Transfer Protocol).md",
     "TCP/Web API.md",
     "CS/mongoDB schema design.md",
-    "CS/Vue 樣式穿透.md",
-    "CS/Vue Usages.md"
+    "CS/Vue 樣式穿透.md"
   ]
 }
