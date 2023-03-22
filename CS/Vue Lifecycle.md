@@ -9,3 +9,8 @@
 | beforeUpdate | onBeforeUpdate | 狀態被更動，尚未同步到畫面前                 |
 | updated      | onUpdated      | 同步到畫面上後                               | 
 
+-   Created: 已經可以訪問數據，準備產生模板
+    -   可進行全局插件安裝
+-   BeforeMounted: 模板已經編譯完成渲染函數，準備掛載到 DOM
+-   onmounted: 已掛載完成，可以去操作 DOM
+-   unMounted: 完全被銷毀

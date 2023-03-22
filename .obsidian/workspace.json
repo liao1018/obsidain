@@ -20,17 +20,17 @@
         ]
       },
       {
-        "id": "11c361746dc9f376",
+        "id": "4de120e1c0fc1421",
         "type": "tabs",
         "children": [
           {
-            "id": "7cdcb31486bfae3d",
+            "id": "ec05ee3f3d499fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/趨勢線.md",
-                "mode": "preview",
+                "file": "CS/Clean Code.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -103,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/趨勢線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/趨勢線.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "投資/趨勢線.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +170,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cdcb31486bfae3d",
+  "active": "a8f321c00c9c0673",
   "lastOpenFiles": [
+    "CS/Clean Code.md",
+    "CS/Vue Lifecycle.md",
+    "CS/Vue.md",
+    "個人成長/個人成長.md",
+    "個人成長/一些很酷的概念.md",
+    "個人成長/生活心態.md",
+    "個人成長/人的起源.md",
+    "個人成長/影響力.md",
+    "Basketball/切入.md",
+    "Basketball/運球.md",
+    "投資/趨勢線.md",
     "投資/技術分析.md",
     "個人成長/學習.md",
     "投資/股票.md",
@@ -187,21 +194,10 @@
     "CS/Vue 狀態管理.md",
     "CS/Road Map.md",
     "個人成長/職涯規劃.md",
-    "個人成長/生活心態.md",
     "個人成長/七個習慣.md",
     "個人成長/以終為始.md",
     "個人成長/生活中的留白.md",
-    "個人成長/個人成長.md",
     "個人成長/自我對話.md",
-    "個人成長/影響力.md",
-    "個人成長/如何知道自己學會？.md",
-    "個人成長/學習資源.md",
-    "個人成長/超速學習.md",
-    "CS/SQL queries.md",
-    "CS/RDBMS.md",
-    "CS/MySQL.md",
-    "TCP/Restful API.md",
-    "CS/Vue.md",
-    "CS/jwt.md"
+    "個人成長/如何知道自己學會？.md"
   ]
 }
