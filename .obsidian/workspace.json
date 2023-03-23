@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Clean Code.md",
+                "file": "CS/functional programming.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/functional programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/functional programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/functional programming.md"
+              }
             }
           },
           {
@@ -170,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "ec05ee3f3d499fe2",
   "lastOpenFiles": [
+    "個人成長/英文.md",
     "CS/Clean Code.md",
     "CS/Vue Lifecycle.md",
     "CS/Vue.md",
@@ -197,7 +202,6 @@
     "個人成長/七個習慣.md",
     "個人成長/以終為始.md",
     "個人成長/生活中的留白.md",
-    "個人成長/自我對話.md",
-    "個人成長/如何知道自己學會？.md"
+    "個人成長/自我對話.md"
   ]
 }

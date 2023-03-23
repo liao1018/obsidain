@@ -70,6 +70,11 @@ const getUSTime = (time) => {
 
 ## Use destructure 簡短你的 code
 
+## 利用 !! 代表 true
+```js
+const doesExist = !!object;
+```
+
 ## Optional changing & spread operator
 ```js
 // Spread operator
@@ -80,11 +85,25 @@ const userFirstArticleClaps = user?.articles[0]?.claps.map(() => /*...*/)
 -> 思考如果沒有這些 syntax 該怎辦
 
 ## Use high level funciton
+```
+.filter
+.map 
+之類的
+```
 
 ## Use do...while or while to solve problem
 
 ## 不對 undefined, null 做操作
 	可利用 optional chaining 去跳過 undefined, null。
+
+## 不要有 magic number
+	給他變數名稱
+
+## catch Error
+```js
+const result1 = await fakeFetch() 
+				.catch((error) => { console.log(error.message); });
+```
 
 # 註解
 -   註解的用意是將複雜度隱藏起來，將概念抽象化，讓開發者可以不用去管內部細節。
