@@ -18,18 +18,19 @@
             }
           },
           {
-            "id": "d4e8aadbba68aab0",
+            "id": "4bb7e9a103955213",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/JS This.md",
-                "mode": "preview",
+                "file": "CS/functional programming.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/functional programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/functional programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/functional programming.md"
+              }
             }
           },
           {
@@ -164,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "4bb7e9a103955213",
   "lastOpenFiles": [
+    "CS/functional programming.md",
     "CS/JS This.md",
     "CS/pass by value, pass by reference.md",
     "CS/Vuex.md",
@@ -182,7 +188,6 @@
     "CS/JS Event Loop.md",
     "CS/JS Promise.md",
     "CS/JS let const var.md",
-    "CS/functional programming.md",
     "個人成長/英文.md",
     "CS/Clean Code.md",
     "CS/Vue.md",
