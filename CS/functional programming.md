@@ -74,3 +74,7 @@ Side effects 包括：
 
 # Declarative
 	直接告訴電腦要什麼
+
+# Higher Order Functions
+	Higher order function 是指把function 當參數或 return function 的 function
+-   Higher order function 幫助我們可以重複利用 function，達到 declarative。
