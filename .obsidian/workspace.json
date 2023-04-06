@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "68e24d0ada392e5e",
+            "id": "65e73ab1682b7e51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basketball/投籃.md",
+                "file": "CS/MySQL.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1ac66f1b57866657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/ACID.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basketball/投籃.md",
+                "file": "CS/ACID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basketball/投籃.md",
+                "file": "CS/ACID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basketball/投籃.md"
+                "file": "CS/ACID.md"
               }
             }
           },
@@ -169,12 +181,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68e24d0ada392e5e",
+  "active": "1ac66f1b57866657",
   "lastOpenFiles": [
+    "CS/MySQL.md",
+    "CS/ACID.md",
+    "CS/Git.md",
+    "CS/node.js.md",
+    "CS/Emitter.md",
+    "CS/using debugging with VS Code.md",
+    "Basketball/投籃.md",
     "Basketball/運球.md",
     "Basketball/進攻.md",
     "Basketball/擋拆相關.md",
-    "Basketball/投籃.md",
     "Basketball/切入.md",
     "CS/functional programming.md",
     "CS/JS This.md",
@@ -191,12 +209,6 @@
     "CS/Double equals vs Triple equal.md",
     "CS/Higher order function.md",
     "CS/JS Event Loop.md",
-    "CS/JS Promise.md",
-    "CS/JS let const var.md",
-    "個人成長/英文.md",
-    "CS/Clean Code.md",
-    "CS/Vue.md",
-    "個人成長/個人成長.md",
     "images/Pasted image 20230321222805.png"
   ]
 }

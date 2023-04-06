@@ -39,3 +39,4 @@
 [[create server with primitive node]]
 [[node single thread, event loop]]
 [[jwt]]
+[[Emitter]]

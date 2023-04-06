@@ -8,4 +8,5 @@
 - MySQL is named after co-founder Monty Widenius's daughter: My
 - 實際上資料庫存的位置，可能使在 server 上，可能在雲端上。
 
+# [[ACID]]
 

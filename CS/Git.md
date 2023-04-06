@@ -38,4 +38,10 @@ git revert <sha>
 git reset HEAD^
 ```
 
+# 遠端資料庫下載資料
+## git fetch
+	只會下載，不會 merge
+## git pull
+	fetch + merge
+
 [[Git Ignore]]
