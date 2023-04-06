@@ -16,45 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "106c41caa5258aaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "753d4540398bca59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue Usages.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "91d55483f291c411",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue slot.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue slot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue slot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +122,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Vue slot.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,11 +152,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "91d55483f291c411",
+  "active": "a8f321c00c9c0673",
   "lastOpenFiles": [
+    "CS/functional programming.md",
+    "CS/Tail Recursion.md",
+    "CS/Vue.md",
     "CS/Vue Usages.md",
     "CS/Vue slot.md",
-    "CS/Vue.md",
     "CS/MySQL.md",
     "CS/ACID.md",
     "CS/Git.md",
@@ -209,7 +170,6 @@
     "Basketball/進攻.md",
     "Basketball/擋拆相關.md",
     "Basketball/切入.md",
-    "CS/functional programming.md",
     "CS/JS This.md",
     "CS/pass by value, pass by reference.md",
     "CS/Vuex.md",
@@ -220,7 +180,6 @@
     "CS/JS Scope.md",
     "CS/JS Closure.md",
     "CS/JS Object.md",
-    "CS/Js Hoisting.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
