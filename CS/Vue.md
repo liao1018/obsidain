@@ -9,6 +9,8 @@
 -   Community is not stronger than React.
 -   Lack of support for typescript.
 
+# [[Vue Usages]]
+
 [[Structure a large scale Vue application]]
 [[vue conponents]]
 [[Vue Reactivity]]
@@ -18,5 +20,4 @@
 [[vue.config.js]]
 [[Vue3 Unit Test]]
 [[Vue 狀態管理]]
-[[Vue Usages]]
 [[Vue 樣式穿透]]

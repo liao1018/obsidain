@@ -27,3 +27,5 @@ unwatch();
 # [[Vue v-model]]
 
 # [[Vue v-bind class]]
+
+# [[Vue slot]]
