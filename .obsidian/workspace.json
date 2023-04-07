@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "06925e95d4e308a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Do not use forEach with async-await.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Do not use forEach with async-await.md"
+              }
             }
           },
           {
@@ -152,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "06925e95d4e308a6",
   "lastOpenFiles": [
+    "Basketball/切入.md",
     "CS/functional programming.md",
     "CS/Tail Recursion.md",
     "CS/Vue.md",
@@ -169,7 +187,6 @@
     "Basketball/運球.md",
     "Basketball/進攻.md",
     "Basketball/擋拆相關.md",
-    "Basketball/切入.md",
     "CS/JS This.md",
     "CS/pass by value, pass by reference.md",
     "CS/Vuex.md",
