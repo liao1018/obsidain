@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "06925e95d4e308a6",
+            "id": "f84296c598717eef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
-                "mode": "preview",
+                "file": "CS/工程師 pro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ffb9eb922ad8b326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Road Map.md",
+                "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md",
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Do not use forEach with async-await.md"
+                "file": "CS/Road Map.md"
               }
             }
           },
@@ -169,8 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06925e95d4e308a6",
+  "active": "ffb9eb922ad8b326",
   "lastOpenFiles": [
+    "CS/工程師 pro.md",
+    "CS/Road Map.md",
+    "CS/Do not use forEach with async-await.md",
     "Basketball/切入.md",
     "CS/functional programming.md",
     "CS/Tail Recursion.md",
@@ -194,9 +209,6 @@
     "CS/Vue Lifecycle.md",
     "CS/Vue v-if v-show 用法.md",
     "CS/JS Prototype.md",
-    "CS/JS Scope.md",
-    "CS/JS Closure.md",
-    "CS/JS Object.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
