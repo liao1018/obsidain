@@ -18,19 +18,19 @@
             }
           },
           {
-            "id": "f84296c598717eef",
+            "id": "14560816c89fcf00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/工程師 pro.md",
+                "file": "個人成長/學習.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "ffb9eb922ad8b326",
+            "id": "867b8745bdb4c2ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffb9eb922ad8b326",
+  "active": "867b8745bdb4c2ed",
   "lastOpenFiles": [
-    "CS/工程師 pro.md",
+    "個人成長/學習.md",
     "CS/Road Map.md",
+    "CS/工程師 pro.md",
+    "CS/AWS.md",
+    "CS/AWS Tips.md",
+    "CS/Clean Code.md",
+    "CS/try...catch...finally.md",
+    "Basketball/擋拆相關.md",
     "CS/Do not use forEach with async-await.md",
     "Basketball/切入.md",
     "CS/functional programming.md",
@@ -201,14 +207,8 @@
     "Basketball/投籃.md",
     "Basketball/運球.md",
     "Basketball/進攻.md",
-    "Basketball/擋拆相關.md",
     "CS/JS This.md",
     "CS/pass by value, pass by reference.md",
-    "CS/Vuex.md",
-    "CS/Vue 狀態管理.md",
-    "CS/Vue Lifecycle.md",
-    "CS/Vue v-if v-show 用法.md",
-    "CS/JS Prototype.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
