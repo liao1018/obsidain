@@ -79,7 +79,7 @@
 - GraphQL
 - Have a look of OWASP
 - design patterns
-- SQL NOSQL
+- SQL NOSQL  
 
 # 自我評估
 ## 自己的優勢
