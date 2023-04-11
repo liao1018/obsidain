@@ -47,3 +47,6 @@ npm install nodemon -g
 npm uninstall nodemon -g 
 ```
 -> 使用ios, linux 的時候可能會權限不夠，前面會需要加上 sudo
+
+# 一些 npm 
+## [[Axios]]

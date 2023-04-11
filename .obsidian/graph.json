@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#person",
+  "search": "#personal",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 18.6524566473988,
   "linkStrength": 1,
   "linkDistance": 69,
-  "scale": 1.154128657834983,
+  "scale": 0.8897383983458176,
   "close": false
 }

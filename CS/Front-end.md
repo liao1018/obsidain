@@ -4,7 +4,7 @@
 [[CSS]]
 [[Vue]]
 [[Unit Test]]
-[[前端提高效能]]
+[[SEO]]
 
 # Introduction
 	工作範疇從切版到 JS,JS框架，再延伸到自動化與效能優化。
