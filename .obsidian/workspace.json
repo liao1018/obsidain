@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "120a5afbeb689db5",
+            "id": "f8f698c5bad3001a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Git.md",
-                "mode": "source",
+                "file": "CS/Road Map.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Git.md"
+                "file": "CS/Road Map.md"
               }
             }
           },
@@ -169,11 +169,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "120a5afbeb689db5",
+  "active": "f8f698c5bad3001a",
   "lastOpenFiles": [
-    "CS/Git.md",
     "CS/Road Map.md",
-    "個人成長/職涯規劃.md",
+    "CS/工程師 pro.md",
+    "ChatGPT.md",
+    "個人成長/個人成長.md",
+    "個人成長/一些職涯建議.md",
+    "個人成長/影響力.md",
+    "個人成長/溝通.md",
+    "個人成長/個人行銷.md",
+    "個人成長/七個習慣.md",
+    "個人成長/以終為始.md",
+    "講解, 演說.md",
+    "個人成長/深度對話.md",
+    "CS/Js Tips.md",
+    "CS/Js ?? ??=.md",
+    "CS/Git.md",
     "CS/npm.md",
     "CS/Axios.md",
     "CS/前端提高效能.md",
@@ -182,21 +194,9 @@
     "CS/JS This.md",
     "投資/反轉趨勢.md",
     "個人成長/學習.md",
-    "CS/工程師 pro.md",
     "CS/AWS.md",
     "CS/AWS Tips.md",
     "CS/Clean Code.md",
-    "CS/try...catch...finally.md",
-    "Basketball/擋拆相關.md",
-    "CS/Do not use forEach with async-await.md",
-    "Basketball/切入.md",
-    "CS/functional programming.md",
-    "CS/Tail Recursion.md",
-    "CS/Vue.md",
-    "CS/Vue Usages.md",
-    "CS/Vue slot.md",
-    "CS/MySQL.md",
-    "CS/ACID.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
