@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#vue",
+  "search": "#inve",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 18.6524566473988,
   "linkStrength": 1,
   "linkDistance": 69,
-  "scale": 2.3149638828343435,
+  "scale": 1.1978320350204814,
   "close": false
 }

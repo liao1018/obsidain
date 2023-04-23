@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "acad0cf311380885",
+            "id": "09f64cb0b769951f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md",
-                "mode": "source",
+                "file": "投資/反轉趨勢.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md",
+                "file": "投資/反轉趨勢.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md",
+                "file": "投資/反轉趨勢.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md"
+                "file": "投資/反轉趨勢.md"
               }
             }
           },
@@ -169,8 +169,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "acad0cf311380885",
+  "active": "09f64cb0b769951f",
   "lastOpenFiles": [
+    "CS/Structure a large scale Vue application.md",
     "CS/Git.md",
     "CS/AWS Tips.md",
     "CS/AWS.md",
@@ -196,7 +197,6 @@
     "CS/前端提高效能.md",
     "CS/Front-end.md",
     "CS/SEO.md",
-    "CS/JS This.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
