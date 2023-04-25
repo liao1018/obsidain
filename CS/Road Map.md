@@ -89,6 +89,13 @@
 - Have a look of OWASP
 - design patterns
 - SQL NOSQL  
+-   SSR
+-   React
+-   Websocket
+-   E2E test
+-   Unit Test
+-   CICD
+-   Typescript
 
 # 自我評估
 ## 自己的優勢
