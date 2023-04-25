@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "00842ed167453acb",
+            "id": "b4e05d7977603b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "個人成長/溝通.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "4036755be59df218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "個人成長/工作溝通.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "個人成長/工作溝通.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Road Map.md",
+                "file": "個人成長/工作溝通.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Road Map.md"
+                "file": "個人成長/工作溝通.md"
               }
             }
           },
@@ -169,11 +181,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00842ed167453acb",
+  "active": "4036755be59df218",
   "lastOpenFiles": [
+    "個人成長/溝通.md",
+    "講解, 演說.md",
+    "個人成長/工作溝通.md",
+    "個人成長/深度對話.md",
+    "個人成長/給自己空間及彈性.md",
+    "個人成長/生活中的留白，給自己空間及彈性.md",
+    "個人成長/個人成長.md",
+    "個人成長/生活心態.md",
+    "個人成長/創意需要實踐.md",
+    "個人成長/七個習慣.md",
+    "CS/Road Map.md",
     "投資/斐波那契回撤.md",
     "投資/反轉趨勢.md",
-    "CS/Road Map.md",
     "CS/Structure a large scale Vue application.md",
     "CS/Git.md",
     "CS/AWS Tips.md",
@@ -183,20 +205,10 @@
     "CS/update.md",
     "CS/工程師 pro.md",
     "ChatGPT.md",
-    "個人成長/個人成長.md",
     "個人成長/一些職涯建議.md",
     "個人成長/影響力.md",
-    "個人成長/溝通.md",
     "個人成長/個人行銷.md",
-    "個人成長/七個習慣.md",
     "個人成長/以終為始.md",
-    "講解, 演說.md",
-    "個人成長/深度對話.md",
-    "CS/Js Tips.md",
-    "CS/Js ?? ??=.md",
-    "CS/npm.md",
-    "CS/Axios.md",
-    "CS/前端提高效能.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
