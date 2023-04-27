@@ -16,8 +16,33 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "155395c232268cc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "49d94e50a22b92c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Vue components feat.SOLID.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Vue components feat.SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Vue components feat.SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Vue components feat.SOLID.md"
+              }
             }
           },
           {
@@ -152,11 +181,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "49d94e50a22b92c2",
   "lastOpenFiles": [
+    "CS/Vue.md",
+    "CS/Vue components feat.SOLID.md",
+    "個人成長/生活心態.md",
     "CS/Vue Lifecycle.md",
     "CS/push, replace 差異.md",
-    "CS/vue conponents.md",
     "個人成長/給自己空間及彈性.md",
     "個人成長/溝通.md",
     "個人成長/工作溝通.md",
@@ -164,7 +195,6 @@
     "個人成長/深度對話.md",
     "個人成長/生活中的留白，給自己空間及彈性.md",
     "個人成長/個人成長.md",
-    "個人成長/生活心態.md",
     "個人成長/創意需要實踐.md",
     "個人成長/七個習慣.md",
     "CS/Road Map.md",
@@ -179,7 +209,6 @@
     "CS/update.md",
     "CS/工程師 pro.md",
     "ChatGPT.md",
-    "個人成長/一些職涯建議.md",
     "images/Pasted image 20230321222805.png"
   ]
 }

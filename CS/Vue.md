@@ -12,7 +12,7 @@
 # [[Vue Usages]]
 
 [[Structure a large scale Vue application]]
-[[vue conponents]]
+[[Vue components feat.SOLID]]
 [[Vue Reactivity]]
 [[ref, reactive]]
 [[Vue Lifecycle]]
