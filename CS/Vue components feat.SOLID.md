@@ -1,5 +1,8 @@
 #cs #front-end #vue 
 
+# Build Reusable Vue Component
+	Component 內部只需要要求外部最少的資料，傳入資料 depend on Component 的設計。此外，在參考 SOLID 架構，打造更 maintainable 的 component。
+
 # SRP
 	一個組件負責一件事
 ```js

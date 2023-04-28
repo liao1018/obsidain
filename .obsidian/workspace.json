@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "155395c232268cc8",
+            "id": "1cf45a6fce850ea6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Vue.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "49d94e50a22b92c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Vue components feat.SOLID.md",
+                "file": "卡片盒/寫作步驟.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,10 +59,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#zettelkasten",
                 "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
+                "explainSearch": true,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -88,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Vue components feat.SOLID.md",
+                "file": "卡片盒/寫作步驟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Vue components feat.SOLID.md",
+                "file": "卡片盒/寫作步驟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Vue components feat.SOLID.md"
+                "file": "卡片盒/寫作步驟.md"
               }
             }
           },
@@ -181,8 +168,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49d94e50a22b92c2",
+  "active": "1cf45a6fce850ea6",
   "lastOpenFiles": [
+    "卡片盒/卡片盒筆記基本概念.md",
+    "卡片盒/卡片盒配合工作流程.md",
+    "卡片盒/我的卡片盒.md",
+    "卡片盒/寫作步驟.md",
+    "卡片盒/架構出卡片盒主題&問題.md",
+    "卡片盒/分享卡片盒見解.md",
+    "卡片盒/發展卡片盒.md",
+    "卡片盒/應用自己的卡片盒知識.md",
+    "卡片盒/挑戰卡片盒.md",
+    "卡片盒/篩選筆記.md",
+    "卡片盒/做卡片盒筆記的原因.md",
+    "CS/Untitled.md",
+    "Untitled.canvas",
     "CS/Vue.md",
     "CS/Vue components feat.SOLID.md",
     "個人成長/生活心態.md",
@@ -197,18 +197,6 @@
     "個人成長/個人成長.md",
     "個人成長/創意需要實踐.md",
     "個人成長/七個習慣.md",
-    "CS/Road Map.md",
-    "投資/斐波那契回撤.md",
-    "投資/反轉趨勢.md",
-    "CS/Structure a large scale Vue application.md",
-    "CS/Git.md",
-    "CS/AWS Tips.md",
-    "CS/AWS.md",
-    "CS/Cloud.md",
-    "s3.md",
-    "CS/update.md",
-    "CS/工程師 pro.md",
-    "ChatGPT.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
