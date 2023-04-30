@@ -18,48 +18,12 @@
             }
           },
           {
-            "id": "1e3fde2f9492fa8d",
+            "id": "c0602fd4facc421e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Js 概念.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7e4b736e6243526d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/JS Type.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "28161b372ec3a461",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Map.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5491408d916beee7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Data Type.md",
+                "file": "CS/Road Map.md",
                 "mode": "source",
                 "source": true
               }
@@ -133,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Js 概念.md",
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Js 概念.md",
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Js 概念.md"
+                "file": "CS/Road Map.md"
               }
             }
           },
@@ -204,18 +168,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e3fde2f9492fa8d",
+  "active": "c0602fd4facc421e",
   "lastOpenFiles": [
-    "CS/JS Type.md",
-    "CS/JS Object.md",
-    "CS/Map.md",
-    "CS/Js Map & Object 差別.md",
+    "CS/Road Map.md",
     "CS/Data Type.md",
+    "CS/Map.md",
+    "CS/JS Type.md",
+    "CS/Js 概念.md",
+    "CS/JS Object.md",
+    "CS/Js Map & Object 差別.md",
     "CS/Leetcode.md",
     "CS/Js Tips.md",
     "CS/array functions.md",
     "CS/CS 基本功.md",
-    "CS/Road Map.md",
     "CS/開發Tips.md",
     "CS/工程師 pro.md",
     "卡片盒/寫作步驟.md",
@@ -232,7 +197,6 @@
     "CS/Untitled.md",
     "Untitled.canvas",
     "CS/Vue.md",
-    "CS/Vue components feat.SOLID.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
