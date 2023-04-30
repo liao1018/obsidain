@@ -30,3 +30,7 @@
 -   Function
 -   Array
 -   Set
+
+# 補充
+[[JS Object]]
+[[Js Map & Object 差別]]
