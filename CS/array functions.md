@@ -12,6 +12,7 @@ analyses = analyses.filter((analysis) => (
 -> 利用邏輯精簡化。
 
 # Array.prototype.every()
+	會去測試是否每一個元素就通過測試，如果有人沒通過，就會跳出迴圈並回傳 false。
 ```js
 const isBelowThreshold = (currentValue) => currentValue < 40;
 
@@ -19,6 +20,20 @@ const array1 = [1, 30, 39, 29, 10, 13];
 
 console.log(array1.every(isBelowThreshold));
 // true
+```
+	可以用在跳出迴圈：
+```js
+nums.every((num, idx)=>{
+	const diff = target - num;
+	if(map[diff] !== undefined) {
+		answer = [map[diff], idx];
+		// 跳出迴圈
+		return false;
+	}
+
+	map[num] = idx;
+	return true;
+})
 ```
 
 [[Do not use forEach with async-await]]
