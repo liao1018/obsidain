@@ -6,7 +6,6 @@
 [[JS Scope]]
 [[JS Event Loop]]
 [[Js Hoisting]]
-[[JS Object]]
 [[pass by value, pass by reference]]
 [[Higher order function]]
 [[DOM 操作]]
