@@ -11,6 +11,8 @@
 
 # [[Vue Usages]]
 
+# [[Nuxt]]
+
 [[Structure a large scale Vue application]]
 [[Vue components feat.SOLID]]
 [[Vue Reactivity]]

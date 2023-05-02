@@ -8,4 +8,6 @@
 
 # [[Restful API]]
 
+# [[GraphQL]]
+
 # [[postman]]

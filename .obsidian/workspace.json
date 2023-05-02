@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "9dc544f61b02392c",
+            "id": "a875c947835ecc1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Road Map.md",
                 "mode": "source",
                 "source": true
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Git.md",
+                "file": "CS/Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Git.md"
+                "file": "CS/Road Map.md"
               }
             }
           },
@@ -168,8 +168,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dc544f61b02392c",
+  "active": "a875c947835ecc1b",
   "lastOpenFiles": [
+    "CS/工程師成長管道.md",
+    "CS/Vue.md",
+    "CS/Nuxt.md",
+    "TCP/Web API.md",
+    "TCP/GraphQL.md",
+    "CS/Git.md",
     "CS/Road Map.md",
     "CS/Data Type.md",
     "CS/Map.md",
@@ -190,13 +196,7 @@
     "卡片盒/架構出卡片盒主題&問題.md",
     "卡片盒/分享卡片盒見解.md",
     "卡片盒/發展卡片盒.md",
-    "卡片盒/應用自己的卡片盒知識.md",
-    "卡片盒/挑戰卡片盒.md",
-    "卡片盒/篩選筆記.md",
-    "卡片盒/做卡片盒筆記的原因.md",
-    "CS/Untitled.md",
     "Untitled.canvas",
-    "CS/Vue.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
