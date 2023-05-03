@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b06b28f858ed0b72",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +71,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "16f966647d457386",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -151,13 +170,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a8f321c00c9c0673",
+  "active": "b06b28f858ed0b72",
   "lastOpenFiles": [
+    "CS/Structure a large scale Vue application.md",
+    "CS/Vue.md",
     "個人成長/工作溝通.md",
     "CS/工程師 pro.md",
     "CS/Road Map.md",
     "CS/工程師成長管道.md",
-    "CS/Vue.md",
     "CS/Nuxt.md",
     "TCP/Web API.md",
     "TCP/GraphQL.md",
@@ -178,7 +198,6 @@
     "卡片盒/卡片盒配合工作流程.md",
     "卡片盒/我的卡片盒.md",
     "卡片盒/架構出卡片盒主題&問題.md",
-    "卡片盒/分享卡片盒見解.md",
     "Untitled.canvas",
     "images/Pasted image 20230321222805.png"
   ]

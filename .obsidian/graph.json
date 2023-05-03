@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "#personal",
+  "search": "#vue",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 18.6524566473988,
   "linkStrength": 1,
   "linkDistance": 69,
-  "scale": 0.785176926719122,
+  "scale": 0.9141169271163851,
   "close": false
 }
