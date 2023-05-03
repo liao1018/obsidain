@@ -16,19 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "b06b28f858ed0b72",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -156,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +157,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b06b28f858ed0b72",
+  "active": "0925b2c8c6379173",
   "lastOpenFiles": [
+    "Untitled.md",
+    "2023-05-03.md",
+    "Untitled 1.canvas",
+    "投資/Stop Hunting.md",
+    "CS/ref, reactive.md",
     "CS/Structure a large scale Vue application.md",
     "CS/Vue.md",
     "個人成長/工作溝通.md",
@@ -194,10 +186,6 @@
     "CS/CS 基本功.md",
     "CS/開發Tips.md",
     "卡片盒/寫作步驟.md",
-    "卡片盒/卡片盒筆記基本概念.md",
-    "卡片盒/卡片盒配合工作流程.md",
-    "卡片盒/我的卡片盒.md",
-    "卡片盒/架構出卡片盒主題&問題.md",
     "Untitled.canvas",
     "images/Pasted image 20230321222805.png"
   ]
