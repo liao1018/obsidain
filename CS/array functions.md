@@ -36,5 +36,56 @@ nums.every((num, idx)=>{
 })
 ```
 
+# Array.prototype.some()
+	一些通過測試即可
+
+# Array.prototype.flatMap()
+	相當於先 map
+```js
+const test = [
+        {
+            name: 'A',
+            appointments: ['a', 'b', 'c', 'd'],
+        },
+        {
+            name: 'B',
+            appointments: ['e', 'f', 'g', 'h'],
+        },
+    ]
+	.flatMap(({ appointments }) => appointments);
+
+console.log(test);
+// [
+  'a', 'b', 'c',
+  'd', 'e', 'f',
+  'g', 'h'
+]
+```
+
+與下列是等價的：
+
+```js
+const test = [
+        {
+            name: 'A',
+            appointments: ['a', 'b', 'c', 'd'],
+        },
+        {
+            name: 'B',
+            appointments: ['e', 'f', 'g', 'h'],
+        },
+    ]
+    .map(({ appointments }) => appointments)
+    // [['a', 'b', 'c', 'd'],['e', 'f', 'g', 'h']]
+    .flat();
+
+console.log(test);
+// [
+  'a', 'b', 'c',
+  'd', 'e', 'f',
+  'g', 'h'
+]
+```
+
 [[Do not use forEach with async-await]]
 [[Js Sort]]

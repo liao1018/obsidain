@@ -18,13 +18,13 @@
             }
           },
           {
-            "id": "1f50793704e49783",
+            "id": "ccd8d1b5e4075517",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/ref, reactive.md",
-                "mode": "preview",
+                "file": "CS/array functions.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/ref, reactive.md",
+                "file": "CS/array functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/ref, reactive.md",
+                "file": "CS/array functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/ref, reactive.md"
+                "file": "CS/array functions.md"
               }
             }
           },
@@ -175,8 +175,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f50793704e49783",
+  "active": "ccd8d1b5e4075517",
   "lastOpenFiles": [
+    "CS/ref, reactive.md",
     "Basketball/投籃.md",
     "Basketball/切入.md",
     "Basketball/面對沉退防守.md",
@@ -192,7 +193,6 @@
     "2023-05-03.md",
     "Untitled 1.canvas",
     "投資/Stop Hunting.md",
-    "CS/ref, reactive.md",
     "CS/Structure a large scale Vue application.md",
     "CS/Vue.md",
     "個人成長/工作溝通.md",
