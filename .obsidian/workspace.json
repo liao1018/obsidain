@@ -16,8 +16,21 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a1ae85b030872107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basketball/投籃.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 225.5,
+    "collapsed": true
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -91,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basketball/投籃.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basketball/投籃.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basketball/投籃.md"
+              }
             }
           },
           {
@@ -157,8 +175,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0925b2c8c6379173",
+  "active": "a1ae85b030872107",
   "lastOpenFiles": [
+    "Basketball/切入.md",
+    "Basketball/面對沉退防守.md",
+    "Basketball/拋投.md",
+    "Basketball/籃球觀念.md",
+    "Basketball/上籃.md",
+    "Basketball/快攻.md",
+    "Basketball/進攻.md",
+    "Basketball/破區域聯防.md",
+    "Basketball/運球.md",
+    "Untitled.canvas",
     "Untitled.md",
     "2023-05-03.md",
     "Untitled 1.canvas",
@@ -177,16 +205,6 @@
     "CS/Data Type.md",
     "CS/Map.md",
     "CS/JS Type.md",
-    "CS/Js 概念.md",
-    "CS/JS Object.md",
-    "CS/Js Map & Object 差別.md",
-    "CS/Leetcode.md",
-    "CS/Js Tips.md",
-    "CS/array functions.md",
-    "CS/CS 基本功.md",
-    "CS/開發Tips.md",
-    "卡片盒/寫作步驟.md",
-    "Untitled.canvas",
     "images/Pasted image 20230321222805.png"
   ]
 }
