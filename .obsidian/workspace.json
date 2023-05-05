@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "ccd8d1b5e4075517",
+            "id": "e6e9ce5ccb5b187c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/array functions.md",
+                "file": "Basketball/切入.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "e24367a06c416356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basketball/切入前腳步.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/array functions.md",
+                "file": "Basketball/切入前腳步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/array functions.md",
+                "file": "Basketball/切入前腳步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/array functions.md"
+                "file": "Basketball/切入前腳步.md"
               }
             }
           },
@@ -175,17 +187,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ccd8d1b5e4075517",
+  "active": "e24367a06c416356",
   "lastOpenFiles": [
+    "Basketball/面對沉退防守.md",
+    "Basketball/切入.md",
+    "Basketball/切入前腳步.md",
+    "Basketball/上籃.md",
+    "Basketball/進攻.md",
+    "CS/array functions.md",
     "CS/ref, reactive.md",
     "Basketball/投籃.md",
-    "Basketball/切入.md",
-    "Basketball/面對沉退防守.md",
     "Basketball/拋投.md",
     "Basketball/籃球觀念.md",
-    "Basketball/上籃.md",
     "Basketball/快攻.md",
-    "Basketball/進攻.md",
     "Basketball/破區域聯防.md",
     "Basketball/運球.md",
     "Untitled.canvas",
@@ -203,8 +217,6 @@
     "TCP/Web API.md",
     "TCP/GraphQL.md",
     "CS/Git.md",
-    "CS/Data Type.md",
-    "CS/Map.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
