@@ -18,6 +18,30 @@
             }
           },
           {
+            "id": "f088a02a34f052f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/股票.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1205717a42453a39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/總體經濟.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
             "id": "1b7995b3d2e9fc46",
             "type": "leaf",
             "state": {
@@ -30,35 +54,25 @@
             }
           },
           {
-            "id": "e02c93ddf5a02c98",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
-          },
-          {
-            "id": "23b0cdeaee96c2fc",
+            "id": "2e1bb243e5c6d56c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/選股學習資源.md",
-                "mode": "preview",
+                "file": "投資/成長股關注清單.md",
+                "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "1b6febd917f0114a",
+            "id": "fb9f7b9c3e6c0466",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/股票.md",
-                "mode": "source",
+                "file": "投資/選股策略.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -139,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/選股.md",
+                "file": "投資/總體經濟.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/選股.md",
+                "file": "投資/總體經濟.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/選股.md"
+                "file": "投資/總體經濟.md"
               }
             }
           },
@@ -210,14 +224,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e02c93ddf5a02c98",
+  "active": "1205717a42453a39",
   "lastOpenFiles": [
-    "投資/生活中的選股.md",
-    "投資/選股.md",
-    "投資/選股學習資源.md",
     "投資/股票.md",
-    "投資/ETF.md",
+    "投資/總體經濟.md",
+    "投資/選股策略.md",
+    "投資/選股.md",
     "投資/成長股關注清單.md",
+    "投資/選股學習資源.md",
+    "投資/生活中的選股.md",
+    "投資/ETF.md",
     "投資/投資.md",
     "CS/Do not use forEach with async-await.md",
     "Basketball/切入.md",
@@ -238,8 +254,6 @@
     "2023-05-03.md",
     "Untitled 1.canvas",
     "投資/Stop Hunting.md",
-    "CS/Structure a large scale Vue application.md",
-    "CS/Vue.md",
     "images/Pasted image 20230321222805.png"
   ]
 }
