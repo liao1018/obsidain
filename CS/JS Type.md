@@ -32,5 +32,5 @@
 -   Set
 
 # 補充
-[[JS Object]]
+[[JS Proxy]]
 [[Js Map & Object 差別]]
