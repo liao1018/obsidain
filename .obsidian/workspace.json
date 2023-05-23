@@ -18,31 +18,67 @@
             }
           },
           {
-            "id": "9c54bd97d82f3a97",
+            "id": "d35a6c16064c1340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/生活心態.md",
+                "file": "投資/投資.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "2742881990e47d51",
+            "id": "8f5169f8935c8ed8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/道家思想.md",
+                "file": "投資/選股.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a3129f87c3f6ff7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/選股策略.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a757beddbcc38594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/選股指標.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "19385b0eea81a58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "投資/DCF.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/道家思想.md",
+                "file": "投資/DCF.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/道家思想.md",
+                "file": "投資/DCF.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/道家思想.md"
+                "file": "投資/DCF.md"
               }
             }
           },
@@ -188,8 +224,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2742881990e47d51",
+  "active": "19385b0eea81a58d",
   "lastOpenFiles": [
+    "images/Pasted image 20230523235004.png",
+    "images/Pasted image 20230523233748.png",
+    "images/Pasted image 20230523233021.png",
+    "images/Screen Shot 2023-05-23 at 11.27.59 PM.png",
+    "images/Pasted image 20230523232026.png",
+    "images/Pasted image 20230523230213.png",
+    "投資/投資.md",
+    "投資/DCF.md",
+    "投資/選股指標.md",
+    "投資/選股.md",
+    "投資/選股策略.md",
+    "投資/選股學習資源.md",
+    "投資/ETF.md",
+    "投資/總體經濟.md",
+    "CS/CS.md",
     "個人成長/生活心態.md",
     "個人成長/道家思想.md",
     "個人成長/七個習慣.md",
@@ -204,18 +255,8 @@
     "個人成長/學習.md",
     "CS/AWS Tips.md",
     "CS/AWS.md",
-    "投資/選股策略.md",
     "投資/成長股關注清單.md",
-    "投資/選股.md",
     "CS/Js ?? ??=.md",
-    "投資/股票.md",
-    "投資/總體經濟.md",
-    "投資/選股學習資源.md",
-    "投資/生活中的選股.md",
-    "投資/ETF.md",
-    "投資/投資.md",
-    "CS/Do not use forEach with async-await.md",
-    "Basketball/切入.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "images/Pasted image 20230321222805.png"
