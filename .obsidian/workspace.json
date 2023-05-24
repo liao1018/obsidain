@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/成長股關注清單.md",
+                "file": "投資/股票關注清單.md",
                 "mode": "source",
                 "source": true
               }
@@ -42,7 +42,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/立端 6245.md",
+                "file": "投資/股票關注清單.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/立端 6245.md",
+                "file": "投資/股票關注清單.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/立端 6245.md"
+                "file": "投資/股票關注清單.md"
               }
             }
           },
@@ -188,10 +188,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e30defc00f10ff85",
+  "active": "dc7a53052a9acd75",
   "lastOpenFiles": [
-    "投資/成長股關注清單.md",
     "投資/立端 6245.md",
+    "投資/股票關注清單.md",
     "投資/投資.md",
     "投資/選股.md",
     "投資/選股指標.md",
