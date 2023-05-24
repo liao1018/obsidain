@@ -18,31 +18,7 @@
             }
           },
           {
-            "id": "d35a6c16064c1340",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/投資.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8f5169f8935c8ed8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/選股.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "a3129f87c3f6ff7f",
+            "id": "dc7a53052a9acd75",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,19 +30,19 @@
             }
           },
           {
-            "id": "a757beddbcc38594",
+            "id": "e30defc00f10ff85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/選股指標.md",
+                "file": "投資/立端 6245.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/選股指標.md",
+                "file": "投資/立端 6245.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/選股指標.md",
+                "file": "投資/立端 6245.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/選股指標.md"
+                "file": "投資/立端 6245.md"
               }
             }
           },
@@ -212,21 +188,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a757beddbcc38594",
+  "active": "e30defc00f10ff85",
   "lastOpenFiles": [
-    "投資/DCF.md",
     "投資/成長股關注清單.md",
-    "投資/選股策略.md",
-    "投資/自己的選股策略.md",
+    "投資/立端 6245.md",
+    "投資/投資.md",
     "投資/選股.md",
     "投資/選股指標.md",
+    "投資/DCF.md",
+    "投資/選股策略.md",
+    "投資/自己的選股策略.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
     "images/Screen Shot 2023-05-23 at 11.27.59 PM.png",
     "images/Pasted image 20230523232026.png",
     "images/Pasted image 20230523230213.png",
-    "投資/投資.md",
     "投資/選股學習資源.md",
     "投資/ETF.md",
     "投資/總體經濟.md",
@@ -245,7 +222,6 @@
     "個人成長/學習.md",
     "CS/AWS Tips.md",
     "CS/AWS.md",
-    "CS/Js ?? ??=.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "images/Pasted image 20230321222805.png"
