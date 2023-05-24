@@ -18,24 +18,12 @@
             }
           },
           {
-            "id": "dc7a53052a9acd75",
+            "id": "0457be0f3e8d0bcd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/股票關注清單.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "e30defc00f10ff85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/立端 6245.md",
+                "file": "投資/選股指標.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/股票關注清單.md",
+                "file": "投資/選股指標.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/股票關注清單.md",
+                "file": "投資/選股指標.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/股票關注清單.md"
+                "file": "投資/選股指標.md"
               }
             }
           },
@@ -188,7 +176,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc7a53052a9acd75",
+  "active": "0457be0f3e8d0bcd",
   "lastOpenFiles": [
     "投資/立端 6245.md",
     "投資/股票關注清單.md",
