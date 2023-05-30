@@ -18,43 +18,31 @@
             }
           },
           {
-            "id": "5075a1537ce5c86c",
+            "id": "729ab739b1c74585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/選股指標.md",
+                "file": "個人成長/個人成長.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "c39b562ae668e7ef",
+            "id": "4546a24abf58445f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/6245 立端.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1fef99b283f402aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/3587 閎康.md",
+                "file": "個人成長/閱讀.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -129,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/選股指標.md",
+                "file": "個人成長/閱讀.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/選股指標.md",
+                "file": "個人成長/閱讀.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/選股指標.md"
+                "file": "個人成長/閱讀.md"
               }
             }
           },
@@ -200,14 +188,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5075a1537ce5c86c",
+  "active": "4546a24abf58445f",
   "lastOpenFiles": [
-    "投資/選股.md",
-    "投資/選股策略.md",
-    "投資/選股指標.md",
-    "投資/股票關注清單.md",
+    "個人成長/個人成長.md",
+    "個人成長/閱讀.md",
+    "個人成長/學習.md",
+    "個人成長/人的起源.md",
     "投資/6245 立端.md",
     "投資/3587 閎康.md",
+    "CS/array functions.md",
+    "投資/選股指標.md",
+    "投資/選股.md",
+    "投資/選股策略.md",
+    "投資/股票關注清單.md",
     "投資/投資.md",
     "投資/DCF.md",
     "投資/自己的選股策略.md",
@@ -225,15 +218,10 @@
     "個人成長/道家思想.md",
     "個人成長/七個習慣.md",
     "個人成長/建立習慣.md",
-    "個人成長/個人成長.md",
     "CS/JS Object Tips.md",
     "CS/JS Proxy.md",
     "CS/Js Tips.md",
     "CS/工程師成長管道.md",
-    "個人成長/AI 工具.md",
-    "個人成長/學習資源.md",
-    "個人成長/學習.md",
-    "CS/AWS Tips.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "images/Pasted image 20230321222805.png"
