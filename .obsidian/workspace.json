@@ -18,24 +18,48 @@
             }
           },
           {
-            "id": "729ab739b1c74585",
+            "id": "12cf2ecc49229d29",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/個人成長.md",
+                "file": "ChatGPT.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "4546a24abf58445f",
+            "id": "53a843b735db9896",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/閱讀.md",
+                "file": "CS/工程師 Road Map.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "113b9792d6f63750",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/工程師 pro.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b67d02867611cad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "個人成長/學習.md",
                 "mode": "source",
                 "source": true
               }
@@ -117,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/閱讀.md",
+                "file": "CS/工程師 Road Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/閱讀.md",
+                "file": "CS/工程師 Road Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/閱讀.md"
+                "file": "CS/工程師 Road Map.md"
               }
             }
           },
@@ -188,11 +212,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4546a24abf58445f",
+  "active": "53a843b735db9896",
   "lastOpenFiles": [
+    "CS/工程師 pro.md",
+    "個人成長/學習.md",
+    "CS/工程師 Road Map.md",
+    "ChatGPT.md",
     "個人成長/個人成長.md",
     "個人成長/閱讀.md",
-    "個人成長/學習.md",
     "個人成長/人的起源.md",
     "投資/6245 立端.md",
     "投資/3587 閎康.md",
@@ -219,9 +246,6 @@
     "個人成長/七個習慣.md",
     "個人成長/建立習慣.md",
     "CS/JS Object Tips.md",
-    "CS/JS Proxy.md",
-    "CS/Js Tips.md",
-    "CS/工程師成長管道.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "images/Pasted image 20230321222805.png"
