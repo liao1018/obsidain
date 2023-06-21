@@ -7,6 +7,4 @@
 # 基礎 markdown 語法
 ![[Pasted image 20221006214356.png]]
 
-[[Obsidian git 設定]]
-
 [[Obsidian Hotkeys]]

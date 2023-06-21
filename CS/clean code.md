@@ -113,3 +113,4 @@ const result1 = await fakeFetch()
 -   寫註解與寫程式本身同樣重要
 
 [[functional programming]]
+[[SOLID]]
