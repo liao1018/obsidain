@@ -16,3 +16,23 @@
     }
   },
 ```
+
+# Hotkeys
+## 開啟專案(開啟過的)
+ctrl + R
+
+## 開啟專案(沒開啟過的)
+cmd + O
+
+## VS Code 內部指令
+cmd + shift + P
+### 可使用的指令
+format
+wrap
+
+## VS Code 開啟專案內檔案
+cmd + 
+
+# 使用 ES7+ React/Redux/React-Native snippets 
+可以幫助快速寫專案
+## rafce

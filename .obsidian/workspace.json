@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "11302c8ff3793342",
+            "id": "5fda6a3e776acd16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "投資/柴鼠的選股策略.md",
+                "file": "CS/VS code.md",
                 "mode": "source",
                 "source": true
               }
@@ -31,49 +31,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "e5e83fdb9eba822b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f398694f4e47fbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/選股基礎知識.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5b7a0d1caa626973",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/選股基本面.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "62e746413f374a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "投資/選股基本面 名詞介紹.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -148,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "投資/柴鼠的選股策略.md",
+                "file": "CS/VS code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "投資/柴鼠的選股策略.md",
+                "file": "CS/VS code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "投資/柴鼠的選股策略.md"
+                "file": "CS/VS code.md"
               }
             }
           },
@@ -219,15 +176,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "11302c8ff3793342",
+  "active": "5fda6a3e776acd16",
   "lastOpenFiles": [
-    "投資/選股技術面.md",
-    "投資/選股基本面 名詞介紹.md",
-    "投資/柴鼠的選股策略.md",
-    "投資/選股策略.md",
-    "投資/成長股關注清單.md",
+    "CS/Git.md",
+    "CS/VS code.md",
+    "CS/工程師 Road Map.md",
+    "CS/Vue components feat.SOLID.md",
+    "CS/Structure a large scale Vue application.md",
+    "CS/Do not use forEach with async-await.md",
+    "CS/Untitled 1.md",
+    "CS/SQL queries.md",
+    "CS/RDBMS.md",
+    "CS/MySQL.md",
     "投資/選股基本面.md",
     "投資/選股基礎知識.md",
+    "投資/柴鼠的選股策略.md",
+    "投資/選股技術面.md",
+    "投資/選股基本面 名詞介紹.md",
+    "投資/選股策略.md",
+    "投資/成長股關注清單.md",
     "投資/選股籌碼面.md",
     "投資/選股學習資源.md",
     "投資/股票.md",
@@ -237,16 +204,6 @@
     "投資/順勢交易.md",
     "投資/加密貨幣投資.md",
     "投資/投資.md",
-    "投資/加密貨幣幣種.md",
-    "投資/加密貨幣.md",
-    "CS/Git.md",
-    "CS/CS 概念類.md",
-    "CS/App.md",
-    "CS/CS.md",
-    "投資/自己的選股策略.md",
-    "投資/選股.md",
-    "投資/總體經濟.md",
-    "卡片盒/Obsidian 操作.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
