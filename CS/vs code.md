@@ -31,7 +31,7 @@ format
 wrap
 
 ## VS Code 開啟專案內檔案
-cmd + 
+cmd + P
 
 # 使用 ES7+ React/Redux/React-Native snippets 
 可以幫助快速寫專案

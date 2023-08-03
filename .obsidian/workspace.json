@@ -16,21 +16,26 @@
               "state": {},
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "ce1533524160d713",
+        "type": "tabs",
+        "children": [
           {
-            "id": "5fda6a3e776acd16",
+            "id": "024fcfffdf59bd37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/VS code.md",
+                "file": "CS/CS.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/VS code.md",
+                "file": "CS/CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/VS code.md",
+                "file": "CS/CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/VS code.md"
+                "file": "CS/CS.md"
               }
             }
           },
@@ -176,8 +181,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5fda6a3e776acd16",
+  "active": "024fcfffdf59bd37",
   "lastOpenFiles": [
+    "CS/專案管理.md",
+    "CS/專案管理 與他人協作.md",
+    "TCP/TCP UDP.md",
     "CS/Git.md",
     "CS/VS code.md",
     "CS/工程師 Road Map.md",
@@ -201,9 +209,6 @@
     "投資/ETF.md",
     "投資/交易所餘額判讀.md",
     "投資/加密貨幣市場狀態判斷.md",
-    "投資/順勢交易.md",
-    "投資/加密貨幣投資.md",
-    "投資/投資.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
