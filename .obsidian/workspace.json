@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/node.js.md",
                 "mode": "source",
                 "source": true
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/node.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CS.md",
+                "file": "CS/node.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CS.md"
+                "file": "CS/node.js.md"
               }
             }
           },
@@ -183,6 +183,10 @@
   },
   "active": "024fcfffdf59bd37",
   "lastOpenFiles": [
+    "CS/jwt.md",
+    "CS/create server with primitive node.md",
+    "CS/handle request and send response with primive node.md",
+    "CS/CS.md",
     "CS/專案管理.md",
     "CS/專案管理 與他人協作.md",
     "TCP/TCP UDP.md",
@@ -205,10 +209,6 @@
     "投資/成長股關注清單.md",
     "投資/選股籌碼面.md",
     "投資/選股學習資源.md",
-    "投資/股票.md",
-    "投資/ETF.md",
-    "投資/交易所餘額判讀.md",
-    "投資/加密貨幣市場狀態判斷.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
