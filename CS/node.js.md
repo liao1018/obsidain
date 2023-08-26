@@ -32,10 +32,7 @@
 -   Third-Party Modules
     -   use npm install to install modules
 
-[[npm]]
-[[using debugging with VS Code]]
 [[node module system]]
-[[create server with primitive node]]
 [[node single thread, event loop]]
 [[jwt]]
 [[Emitter]]

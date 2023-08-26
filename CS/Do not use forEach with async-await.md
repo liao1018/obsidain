@@ -1,4 +1,4 @@
-#cs #js
+#js
 
 參考文章
 Promise.all 使用機制
