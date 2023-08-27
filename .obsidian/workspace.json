@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/收穫心態.md",
+                "file": "個人成長/建立習慣.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/收穫心態.md",
+                "file": "個人成長/建立習慣.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/收穫心態.md",
+                "file": "個人成長/建立習慣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/收穫心態.md"
+                "file": "個人成長/建立習慣.md"
               }
             }
           },
@@ -198,8 +198,8 @@
   },
   "active": "5296fbed25acaf0b",
   "lastOpenFiles": [
-    "個人成長/生活心態.md",
     "個人成長/收穫心態.md",
+    "個人成長/生活心態.md",
     "CS/工程師 Road Map.md",
     "CS/工程師成長管道.md",
     "CS/開發Tips.md",
