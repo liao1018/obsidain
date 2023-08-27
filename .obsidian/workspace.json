@@ -31,9 +31,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/生活心態.md",
+                "file": "個人成長/自我對話.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/生活心態.md",
+                "file": "個人成長/自我對話.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/生活心態.md",
+                "file": "個人成長/自我對話.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/生活心態.md"
+                "file": "個人成長/自我對話.md"
               }
             }
           },
@@ -185,9 +185,13 @@
   },
   "active": "46ab8a9317c9229b",
   "lastOpenFiles": [
+    "個人成長/道家思想.md",
+    "個人成長/給自己生活的空間及彈性.md",
+    "個人成長/生活心態.md",
+    "個人成長/建立習慣.md",
+    "個人成長/自我對話.md",
     "個人成長/影響力.md",
     "個人成長/一些很酷的概念.md",
-    "個人成長/生活心態.md",
     "個人成長/一些職涯建議.md",
     "個人成長/個人核心.md",
     "CS/Do not use forEach with async-await.md",
@@ -207,10 +211,6 @@
     "CS/RDBMS.md",
     "CS/SQL queries.md",
     "TCP/Restful API.md",
-    "CS/node.js.md",
-    "CS/npm.md",
-    "CS/Axios.md",
-    "CS/using debugging with VS Code.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
