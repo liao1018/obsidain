@@ -1,4 +1,4 @@
-#personal-development #learning 
+#personal-development #learning
 
 # 增加主業收入
 	學歷是捷徑，可以讓大家快速認識你。但如果待的公司是好的團隊，在前期會以飛速成長，超過在學校所學，實際能力會提升。
@@ -92,11 +92,11 @@
 
 - 享受人生，做自己人生的主人。
 
-## Codereview 
+## Codereview
 - 可學習他人的 code
 - 或是可管理團隊的 code
 
-# 領域選擇 
+# 領域選擇
 	在台灣做韌體可能薪水比較高，但自我發展性小。做純軟體雖然起薪低，但發展性大。就端看自己的選擇。
 	這其實也跟投資一樣，根據自己所適合，找到自己的強項。並對有前景的進行選擇，投入時間。
 
@@ -133,13 +133,13 @@
 - Have a look of OWASP
 - design patterns
 - SQL NOSQL  
--   SSR
--   React
--   Websocket
--   E2E test
--   Unit Test
--   CICD
--   Typescript
+- SSR
+- React
+- Websocket
+- E2E test
+- Unit Test
+- CICD
+- Typescript
 
 # 自我評估
 ## 自己的優勢
