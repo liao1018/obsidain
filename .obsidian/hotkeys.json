@@ -134,6 +134,13 @@
         "Mod"
       ],
       "key": "ArrowRight"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
     }
   ],
   "app:go-forward": [],
@@ -145,6 +152,13 @@
         "Mod"
       ],
       "key": "ArrowLeft"
+    },
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
     }
   ],
   "editor:set-heading-1": [
