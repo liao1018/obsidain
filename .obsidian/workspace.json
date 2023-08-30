@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/一些職涯建議.md",
+                "file": "個人成長/職涯建議.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/一些職涯建議.md",
+                "file": "個人成長/職涯建議.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/一些職涯建議.md",
+                "file": "個人成長/職涯建議.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/一些職涯建議.md"
+                "file": "個人成長/職涯建議.md"
               }
             }
           },
@@ -218,7 +218,7 @@
     "個人成長/道家思想.md",
     "個人成長/給自己生活的空間及彈性.md",
     "個人成長/影響力.md",
-    "個人成長/一些職涯建議.md",
+    "個人成長/職涯建議.md",
     "個人成長/個人核心.md",
     "CS/Do not use forEach with async-await.md",
     "CS/functional programming.md",
