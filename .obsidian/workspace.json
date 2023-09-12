@@ -6,7 +6,7 @@
       {
         "id": "ef57e07e8bef03a0",
         "type": "tabs",
-        "dimension": 36.20826709062003,
+        "dimension": 45.82670906200318,
         "children": [
           {
             "id": "fe60c5d93e8d3244",
@@ -23,7 +23,7 @@
       {
         "id": "16e83c66a0f0a945",
         "type": "tabs",
-        "dimension": 63.791732909379974,
+        "dimension": 54.17329093799682,
         "children": [
           {
             "id": "46ab8a9317c9229b",
@@ -31,26 +31,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/生活心態.md",
+                "file": "CS/functional programming.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "5296fbed25acaf0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "個人成長/職涯建議.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "個人成長/職涯建議.md",
+                "file": "CS/functional programming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "個人成長/職涯建議.md",
+                "file": "CS/functional programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "個人成長/職涯建議.md"
+                "file": "CS/functional programming.md"
               }
             }
           },
@@ -196,13 +183,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5296fbed25acaf0b",
+  "active": "46ab8a9317c9229b",
   "lastOpenFiles": [
+    "個人成長/生活心態.md",
+    "個人成長/職涯建議.md",
     "個人成長/一些很酷的概念.md",
     "個人成長/學習.md",
     "個人成長/建立習慣.md",
     "個人成長/收穫心態.md",
-    "個人成長/生活心態.md",
     "CS/工程師 Road Map.md",
     "CS/工程師成長管道.md",
     "CS/開發Tips.md",
@@ -218,7 +206,6 @@
     "個人成長/道家思想.md",
     "個人成長/給自己生活的空間及彈性.md",
     "個人成長/影響力.md",
-    "個人成長/職涯建議.md",
     "個人成長/個人核心.md",
     "CS/Do not use forEach with async-await.md",
     "CS/functional programming.md",

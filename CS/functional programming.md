@@ -1,7 +1,13 @@
 #cs #clean-code
 
 打造更簡潔、可預測、有利於 unit test 的 code。
-[Ｍedium FP](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) --- 
+[Ｍedium FP](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0) 
+
+## 相關文章
+[10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) 
+[Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) 
+[Pure Function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) 
+[Function Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0) 
 
 # 重要概念
 -   Pure functions
@@ -10,16 +16,8 @@
 -   Avoid mutating state
 -   Avoid side effects
 
-## 其他
+
 - monad
-
-## 相關文章
-[10 Tips for Better Redux Architecture](https://medium.com/javascript-scene/10-tips-for-better-redux-architecture-69250425af44) ---
-[Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd) ---
-[Pure Function](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976) ---
-[Function Composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0) ---
-
-
 # Pure function
 	same input, same output
  
