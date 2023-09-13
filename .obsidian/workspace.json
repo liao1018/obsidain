@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/functional programming.md",
+                "file": "CS/SOLID.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#zettelkasten",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -91,12 +91,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 225.5,
-    "collapsed": true
+    "width": 225.5
   },
   "right": {
     "id": "53f83b14a5dd4c1c",
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/functional programming.md",
+                "file": "CS/SOLID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/functional programming.md",
+                "file": "CS/SOLID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/functional programming.md"
+                "file": "CS/SOLID.md"
               }
             }
           },
@@ -185,6 +185,7 @@
   },
   "active": "46ab8a9317c9229b",
   "lastOpenFiles": [
+    "CS/functional programming.md",
     "個人成長/生活心態.md",
     "個人成長/職涯建議.md",
     "個人成長/一些很酷的概念.md",
@@ -208,7 +209,6 @@
     "個人成長/影響力.md",
     "個人成長/個人核心.md",
     "CS/Do not use forEach with async-await.md",
-    "CS/functional programming.md",
     "CS/Tail Recursion.md",
     "CS/SOLID.md",
     "images/Pasted image 20230523235004.png",
