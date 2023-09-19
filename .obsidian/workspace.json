@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Clean Code.md",
+                "file": "CS/CS 工具類.md",
                 "mode": "source",
                 "source": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/VS code.md",
+                "file": "CS/CS 工具類.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/VS code.md",
+                "file": "CS/CS 工具類.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/VS code.md"
+                "file": "CS/CS 工具類.md"
               }
             }
           },
@@ -196,9 +196,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b0778ae5030629bf",
+  "active": "59799eccb7a45fec",
   "lastOpenFiles": [
     "CS/Clean Code.md",
+    "CS/Git.md",
+    "CS/Git Ignore.md",
     "CS/VS code.md",
     "CS/SOLID.md",
     "Untitled.md",
@@ -222,8 +224,6 @@
     "個人成長/有效溝通.md",
     "個人成長/自我對話.md",
     "個人成長/道家思想.md",
-    "個人成長/給自己生活的空間及彈性.md",
-    "個人成長/影響力.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
