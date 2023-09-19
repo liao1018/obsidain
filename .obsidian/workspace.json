@@ -6,7 +6,6 @@
       {
         "id": "ef57e07e8bef03a0",
         "type": "tabs",
-        "dimension": 45.82670906200318,
         "children": [
           {
             "id": "fe60c5d93e8d3244",
@@ -23,21 +22,35 @@
       {
         "id": "16e83c66a0f0a945",
         "type": "tabs",
-        "dimension": 54.17329093799682,
         "children": [
           {
-            "id": "46ab8a9317c9229b",
+            "id": "b0778ae5030629bf",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/VS code.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "59799eccb7a45fec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/SOLID.md",
+                "file": "CS/Clean Code.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/SOLID.md",
+                "file": "CS/VS code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/SOLID.md",
+                "file": "CS/VS code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/SOLID.md"
+                "file": "CS/VS code.md"
               }
             }
           },
@@ -183,8 +196,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "46ab8a9317c9229b",
+  "active": "b0778ae5030629bf",
   "lastOpenFiles": [
+    "CS/Clean Code.md",
+    "CS/VS code.md",
+    "CS/SOLID.md",
+    "Untitled.md",
     "CS/functional programming.md",
     "個人成長/生活心態.md",
     "個人成長/職涯建議.md",
@@ -207,10 +224,6 @@
     "個人成長/道家思想.md",
     "個人成長/給自己生活的空間及彈性.md",
     "個人成長/影響力.md",
-    "個人成長/個人核心.md",
-    "CS/Do not use forEach with async-await.md",
-    "CS/Tail Recursion.md",
-    "CS/SOLID.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
