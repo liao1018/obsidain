@@ -18,31 +18,18 @@
             }
           },
           {
-            "id": "170421ed37f1b303",
+            "id": "a4cedc7823fbe032",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/CS 工具類.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "27dc53fe2e22e5bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/CS.md",
+                "file": "CS/Structure a large scale Vue application.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/CS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,9 +171,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27dc53fe2e22e5bf",
+  "active": "fe60c5d93e8d3244",
   "lastOpenFiles": [
+    "CS/Structure a large scale Vue application.md",
+    "CS/Vue.md",
     "CS/CS 工具類.md",
+    "CS/CS.md",
     "CS/AWS.md",
     "CS/AWS Tips.md",
     "CS/CLI.md",
@@ -213,9 +199,6 @@
     "CS/工程師 pro.md",
     "個人成長/學習資源.md",
     "個人成長/筆記.md",
-    "個人成長/超速學習.md",
-    "個人成長/閱讀.md",
-    "個人成長/深度對話.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
