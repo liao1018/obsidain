@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "42dc71ff1b81d03c",
+            "id": "170421ed37f1b303",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -176,10 +176,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "42dc71ff1b81d03c",
+  "active": "170421ed37f1b303",
   "lastOpenFiles": [
-    "CS/Clean Code.md",
     "CS/CS 工具類.md",
+    "CS/CLI.md",
+    "CS/Clean Code.md",
     "CS/VS code.md",
     "CS/Git.md",
     "CS/Git Ignore.md",
@@ -203,7 +204,6 @@
     "個人成長/深度對話.md",
     "講解, 演說.md",
     "個人成長/有效溝通.md",
-    "個人成長/自我對話.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
