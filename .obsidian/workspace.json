@@ -28,9 +28,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "27dc53fe2e22e5bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/CS.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/CS 工具類.md",
+                "file": "CS/CS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/CS 工具類.md",
+                "file": "CS/CS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/CS 工具類.md"
+                "file": "CS/CS.md"
               }
             }
           },
@@ -176,9 +188,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "170421ed37f1b303",
+  "active": "27dc53fe2e22e5bf",
   "lastOpenFiles": [
     "CS/CS 工具類.md",
+    "CS/AWS.md",
+    "CS/AWS Tips.md",
     "CS/CLI.md",
     "CS/Clean Code.md",
     "CS/VS code.md",
@@ -202,8 +216,6 @@
     "個人成長/超速學習.md",
     "個人成長/閱讀.md",
     "個人成長/深度對話.md",
-    "講解, 演說.md",
-    "個人成長/有效溝通.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",

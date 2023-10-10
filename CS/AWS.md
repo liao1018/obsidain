@@ -1,3 +1,0 @@
-#cs #aws
-
-# [[AWS Tips]]
