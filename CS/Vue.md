@@ -19,7 +19,7 @@
 [[ref, reactive]]
 [[Vue Lifecycle]]
 [[route, router]]
-[[vue.config.js]]
+[[vue build  html 沒辦法直接開]]
 [[Vue3 Unit Test]]
 [[Vue 狀態管理]]
 [[Vue 樣式穿透]]

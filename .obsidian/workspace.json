@@ -18,7 +18,43 @@
             }
           },
           {
-            "id": "a4cedc7823fbe032",
+            "id": "f5922e47b0f0b7c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/SOLID.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "428c62f40197a102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/JS Closure.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "216a308025bb8c51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/pass by value, pass by reference.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "668044cf50142a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,6 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Structure a large scale Vue application.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Structure a large scale Vue application.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +180,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Structure a large scale Vue application.md"
+              }
             }
           },
           {
@@ -171,34 +212,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe60c5d93e8d3244",
+  "active": "668044cf50142a28",
   "lastOpenFiles": [
-    "CS/Structure a large scale Vue application.md",
-    "CS/Vue.md",
-    "CS/CS 工具類.md",
-    "CS/CS.md",
-    "CS/AWS.md",
-    "CS/AWS Tips.md",
-    "CS/CLI.md",
-    "CS/Clean Code.md",
-    "CS/VS code.md",
-    "CS/Git.md",
-    "CS/Git Ignore.md",
+    "CS/pass by value, pass by reference.md",
     "CS/SOLID.md",
-    "Untitled.md",
-    "CS/functional programming.md",
-    "個人成長/生活心態.md",
-    "個人成長/職涯建議.md",
-    "個人成長/一些很酷的概念.md",
-    "個人成長/學習.md",
-    "個人成長/建立習慣.md",
-    "個人成長/收穫心態.md",
-    "CS/工程師 Road Map.md",
-    "CS/工程師成長管道.md",
-    "CS/開發Tips.md",
-    "CS/工程師 pro.md",
-    "個人成長/學習資源.md",
-    "個人成長/筆記.md",
+    "CS/JS Closure.md",
+    "CS/JS Object Tips.md",
+    "CS/CS 基本功.md",
+    "CS/mongoDB compass.md",
+    "CS/mongoDB  shell.md",
+    "CS/update.md",
+    "CS/Vue Test Utils 語法整理.md",
+    "CS/Vue Lifecycle.md",
+    "CS/route, router.md",
+    "CS/vue build  html 沒辦法直接開.md",
+    "CS/Nuxt.md",
+    "CS/Vue3 Unit Test.md",
+    "CS/Specificity.md",
+    "CS/hash value.md",
+    "CS/node module system.md",
+    "CS/電腦基礎技能.md",
+    "CS/markdown.md",
+    "CS/Mac Shortcut & TrackPad.md",
+    "CS/Browser Tips.md",
+    "CS/typing pratice.md",
+    "CS/Warp.md",
+    "CS/Raycast.md",
+    "CS/電腦編碼系統.md",
+    "CS/mongoDB schema design.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",

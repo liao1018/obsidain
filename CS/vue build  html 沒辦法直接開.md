@@ -15,6 +15,3 @@ module.exports = {
     publicPath: './'
 };
 ```
-
-# outputDir
--   outputDir → 要build 在不是dist地方時
