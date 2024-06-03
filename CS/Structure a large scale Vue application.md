@@ -6,6 +6,7 @@
 # Style Guide
 [官方文件](https://vuejs.org/#rule-categories)
 	按照原先架構是個好選擇，在此基礎上，加上自己的東西。
+[讚的文章](https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac?gi=be3110f36645)
 
 ## Component Recommended Rules
 - PascalCase filename.
