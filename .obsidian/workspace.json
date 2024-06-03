@@ -8,22 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe60c5d93e8d3244",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "a4cedc7823fbe032",
+            "id": "1bb6a12496e420f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Structure a large scale Vue application.md",
+                "file": "CS/Do not use forEach with async-await.md",
                 "mode": "source",
                 "source": true
               }
@@ -104,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS/Do not use forEach with async-await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS/Do not use forEach with async-await.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "CS/Do not use forEach with async-await.md"
+              }
             }
           },
           {
@@ -171,9 +165,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fe60c5d93e8d3244",
+  "active": "1bb6a12496e420f6",
   "lastOpenFiles": [
+    "CS/Do not use forEach with async-await.md",
+    "CS/Vue Reactivity.md",
+    "CS/pass by value, pass by reference.md",
+    "CS/JS Closure.md",
+    "CS/SOLID.md",
+    "CS/JS Event Loop.md",
+    "CS/JS let const var.md",
+    "CS/Error in Js.md",
     "CS/Structure a large scale Vue application.md",
+    "CS/Vue components feat.SOLID.md",
+    "CS/try...catch...finally.md",
+    "CS/Js Tips.md",
+    "CS/clean code.md",
     "CS/Vue.md",
     "CS/CS 工具類.md",
     "CS/CS.md",
@@ -184,21 +190,9 @@
     "CS/VS code.md",
     "CS/Git.md",
     "CS/Git Ignore.md",
-    "CS/SOLID.md",
     "Untitled.md",
     "CS/functional programming.md",
     "個人成長/生活心態.md",
-    "個人成長/職涯建議.md",
-    "個人成長/一些很酷的概念.md",
-    "個人成長/學習.md",
-    "個人成長/建立習慣.md",
-    "個人成長/收穫心態.md",
-    "CS/工程師 Road Map.md",
-    "CS/工程師成長管道.md",
-    "CS/開發Tips.md",
-    "CS/工程師 pro.md",
-    "個人成長/學習資源.md",
-    "個人成長/筆記.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",

@@ -6,6 +6,13 @@
         "Shift"
       ],
       "key": "A"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "A"
     }
   ],
   "obsidian-git:push": [
@@ -13,6 +20,13 @@
       "modifiers": [
         "Mod",
         "Shift"
+      ],
+      "key": "S"
+    },
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
       ],
       "key": "S"
     }
