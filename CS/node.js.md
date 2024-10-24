@@ -32,7 +32,6 @@
 -   Third-Party Modules
     -   use npm install to install modules
 
-[[node module system]]
 [[node single thread, event loop]]
 [[jwt]]
 [[Emitter]]

@@ -11,15 +11,11 @@
 
 # [[Vue Usages]]
 
-# [[Nuxt]]
-
 [[Structure a large scale Vue application]]
 [[Vue components feat.SOLID]]
 [[Vue Reactivity]]
 [[ref, reactive]]
 [[Vue Lifecycle]]
-[[route, router]]
 [[vue build  html 沒辦法直接開]]
-[[Vue3 Unit Test]]
 [[Vue 狀態管理]]
 [[Vue 樣式穿透]]

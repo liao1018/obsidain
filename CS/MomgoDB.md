@@ -14,7 +14,5 @@
 [[aggregate]]
 
 
-# [[mongoDB  shell]]
-# [[mongoDB compass]]
 # [[mongoDB schema design]]
 

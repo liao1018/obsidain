@@ -1,6 +1,6 @@
 #cs #front-end 
 
-[[HTML]]
+[[HTML Tips]]
 [[CSS]]
 [[Vue]]
 [[Unit Test]]
