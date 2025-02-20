@@ -4,43 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "746a6f6c66096b66",
+        "id": "d659e073ceb75f75",
         "type": "tabs",
         "children": [
           {
-            "id": "c1e95fe108fbaf9b",
+            "id": "88fe0076980451ec",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "925f7c855d851b48",
+            "id": "a747c664375a3a4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "CS/Internet.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "15d80567bfecc464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Js 概念.md",
-                "mode": "source",
-                "source": true
-              }
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -60,7 +49,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -75,7 +66,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -83,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -91,7 +86,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -115,7 +112,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +119,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -132,10 +130,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -146,7 +145,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -154,9 +155,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "CS/Internet.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -164,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -186,11 +189,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "925f7c855d851b48",
+  "active": "88fe0076980451ec",
   "lastOpenFiles": [
+    "CS/Js Hoisting.md",
+    "CS/JS let const var.md",
+    "CS/JS Scope.md",
+    "CS/工程師 Road Map.md",
+    "CS/Internet.md",
+    "CS/Js 概念.md",
+    "個人成長/學習資源.md",
     "CS/push, replace 差異.md",
     "CS/update.md",
-    "CS/Js 概念.md",
     "CS/CS 概念類.md",
     "CS/web.md",
     "CS/MomgoDB.md",
@@ -207,13 +216,7 @@
     "CS/pass by value, pass by reference.md",
     "CS/JS Closure.md",
     "CS/JS Event Loop.md",
-    "CS/JS let const var.md",
     "CS/Error in Js.md",
-    "CS/Structure a large scale Vue application.md",
-    "CS/Vue components feat.SOLID.md",
-    "CS/try...catch...finally.md",
-    "CS/Js Tips.md",
-    "CS/clean code.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
