@@ -8,25 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "88fe0076980451ec",
+            "id": "a747c664375a3a4c",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "a747c664375a3a4c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
             }
           }
         ]
@@ -189,8 +177,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "88fe0076980451ec",
+  "active": "a747c664375a3a4c",
   "lastOpenFiles": [
+    "CS/Do not use forEach with async-await.md",
     "CS/Js Hoisting.md",
     "CS/JS let const var.md",
     "CS/JS Scope.md",
@@ -209,7 +198,6 @@
     "CS/node.js.md",
     "CS/App.md",
     "CS/SOLID.md",
-    "CS/Do not use forEach with async-await.md",
     "conflict-files-obsidian-git.md",
     "CS/vue build  html 沒辦法直接開.md",
     "CS/Vue Reactivity.md",
