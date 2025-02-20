@@ -2,6 +2,5 @@
 
 # Others
 [[Internet]]
-[[Cloud]]
 [[SSH]]
 
