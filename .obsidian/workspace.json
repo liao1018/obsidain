@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d659e073ceb75f75",
+        "id": "fe3231bc9fc3752e",
         "type": "tabs",
         "children": [
           {
-            "id": "a747c664375a3a4c",
+            "id": "ee3065dbfb559ad0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,21 +20,20 @@
             }
           },
           {
-            "id": "39f581bd05c3521f",
+            "id": "a9f80362028f8663",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "個人成長/個人行銷.md",
+                "file": "個人成長/個人核心.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "個人行銷"
+              "title": "個人核心"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +193,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "39f581bd05c3521f",
+  "active": "ee3065dbfb559ad0",
   "lastOpenFiles": [
+    "s3.md",
+    "個人成長/個人核心.md",
+    "個人成長/一些很酷的概念.md",
+    "人的起源.md",
+    "個人成長/人的起源.md",
+    "個人成長/AI 工具.md",
+    "ChatGPT.md",
+    "個人成長/個人行銷.md",
     "個人成長/創意.md",
     "卡片盒/Obsidian Hotkeys.md",
     "技術指標.md",
@@ -206,22 +213,14 @@
     "卡片盒/卡片盒起點.md",
     "投資/投資 investment.md",
     "CS/Untitled 1.md",
-    "ChatGPT.md",
     "Untitled.md",
     "CS/Untitled.md",
-    "個人成長/個人核心.md",
     "卡片盒/寫作步驟.md",
     "CS/Do not use forEach with async-await.md",
     "CS/Js Hoisting.md",
     "CS/JS let const var.md",
     "CS/JS Scope.md",
     "CS/工程師 Road Map.md",
-    "CS/Internet.md",
-    "CS/Js 概念.md",
-    "個人成長/學習資源.md",
-    "CS/push, replace 差異.md",
-    "CS/update.md",
-    "CS/CS 概念類.md",
     "images/Pasted image 20230523235004.png",
     "images/Pasted image 20230523233748.png",
     "images/Pasted image 20230523233021.png",
